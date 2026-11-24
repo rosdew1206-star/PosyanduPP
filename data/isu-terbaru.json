@@ -1,0 +1,667 @@
+{
+ "dibuat": "2026-11-25T00:46+07:00",
+ "keterangan": "Indonesia (Bahasa Indonesia) · 24 jam terakhir · 25 Nov 2026 00:46 WIB · 1 tema",
+ "tema": [
+  "Kesehatan"
+ ],
+ "isu": [
+  {
+   "id": "fe95c2e93e73",
+   "tema": "Kesehatan",
+   "peringkat": 1,
+   "label": "Siapkan · Fisik · Jalani · Haji",
+   "skor": 17.8,
+   "ringkasan": "Isu ini dibahas dalam 7 berita dari 6 sumber pada 24 Nov 2026. Inti pemberitaan: “172 Ribu Calon Jamaah Haji 2027 Sudah Jalani Cek Kesehatan, Wamenhaj: Siapkan Fisik Sejak Sekarang”. Topik yang sering muncul: jalani, haji, wamenhaj, fisik, pemeriksaan.",
+   "judul_utama": "172 Ribu Calon Jamaah Haji 2027 Sudah Jalani Cek Kesehatan, Wamenhaj: Siapkan Fisik Sejak Sekarang",
+   "kata_kunci": [
+    "jalani",
+    "haji",
+    "wamenhaj",
+    "fisik",
+    "pemeriksaan",
+    "jamaah"
+   ],
+   "sorotan": [
+    "172 Ribu Lebih Jamaah Jalani Pemeriksaan Kesehatan, Wamenhaj Imbau Siapkan Fisik Sejak Dini (NU Online Lampung)",
+    "172.322 Calon Jemaah Haji Reguler Jalani Cek Kesehatan, Wamenhaj Ingatkan 90 Persen Ibadah Haji adalah Aktivitas Fisik (tvMu)",
+    "172 Ribu Calon Haji 2027 Jalani Pemeriksaan Kesehatan, Ribuan Belum Istithaah (republika.co.id)"
+   ],
+   "sumber": [
+    {
+     "judul": "Wamenhaj imbau jamaah siapkan kesehatan fisik jalani rangkaian haji",
+     "tautan": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXl2dGhFM1hqd0dLbTJraHBoaTRSZ3A0S3JLdGVyLXQzazdyRURiRnIzUFlvMEpPdTI0cjFRNUU1QWxkTjlRZjR3WFI3SGxWdEQ3YWhfLUZBUWRvbFkxS2hiU3pXcWE1bzkzUmZsUGh1Z2NlbTl0T0RfZkREMkZEQ2lGbmhKMEhDWDZEQXhZU0tOc0VYRnBCeEJyM3lwMzkzRDY1MW9uUWY2dFZpOFHSAbABQVVfeXFMTnlhWkw4UGh4VWdTRTZWUlBhbDIxc0Y4aEZ0RmxTSEdqVzhnNUFkUDNKM21LME1TQUV0NWMzQjNsdlQ1RHVWS055elFyY0gzRW5wMVlQVlN3bHZEX1FYSEtIVlM0cm1Ka2lRQnVEcmtsNzZ3eXFWZ19qRTluRHpMRUZEQ1R6cGpIOTcxdUNUcEF0S1IwOGhadlFsdm1ERGhpTmpOYWhtTHFnTmVyd3F5ZHo?oc=5",
+     "media": "ANTARA News",
+     "platform": "Google News",
+     "terbit": "2026-11-24T22:44+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "172.322 Calon Jemaah Haji Reguler Jalani Cek Kesehatan, Wamenhaj Ingatkan 90 Persen Ibadah Haji adalah Aktivitas Fisik",
+     "tautan": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcThEaVRjRHhwc0d0TWc4em9CZTROaFVIZ2xkdXBMQmZDSXd1dXBnQjBidjV2bTlVWUdRZGlZSTN5a253QThiRzI1MmtIVzZiMXMxejd3VjFNY29kQldyRy1nWGtpWWZWOHRlRlBQay1WZURGWFlad25CU1pXcXl3czJ0NUx1VGhYdkFHdjJGZUNyUVlyY3RfUGVMcjRuM0VKTFcwTUQwaVVET1JiQXJENkdsaDdnSUwyYW9GSTZaaVQ1blIzOXNrNGFlV2o?oc=5",
+     "media": "tvMu",
+     "platform": "Google News",
+     "terbit": "2026-11-24T21:35+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "172.322 Jemaah Haji Reguler Jalani Pemeriksaan Kesehatan, 1.172 Belum Penuhi Syarat Istitaah",
+     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXN4VlhIaDhDeWh2RGM0Q2lWbGhIR2NneHNtRWZiU2lXZWR4S05sMkxOdk5sQzJvRV9KZTd6cTdleGh1UlloeHE4cVJpeE42R3ZBczd0ZHlGVE8xcG1ENmVNdElkSHdRQnp4MjFPQWZtYTFJVDhtRkVtVl9JN1hhRTFjSEdDSFJ1MkJqeHZ3S3V0b1J2TVpLNmttb09qbDY1MHcxS0dONk9xYWc0ZW9Qem9fNVBhTTVlam1WUURFSlJ3SmNQ?oc=5",
+     "media": "Kompas.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T19:17+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "172 Ribu Calon Jamaah Haji 2027 Sudah Jalani Cek Kesehatan, Wamenhaj: Siapkan Fisik Sejak Sekarang",
+     "tautan": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPelRlajA5WldSdEYyLUduZ3A2UWdkYTZNSktheXdHN0xrdGJzYzJBQmk0V1dmLVVvX2xvbGc1RWJCbzJMcWZtWEw3QWZYdkRvdDZsSnVubkNnUktwSFBTQl9ReW9idktfS2F0eElEZzNDTjMyZU9YN2hqd0tmOEZTcHRkcUlBR3V2VGRTMUUxWDBwYXdkZzVhS0Y2MzJ0eW95TmdVUFlRWDB5bUdyU2dmLTUyRXV1ODhkWi1tZVpGWldIX3FWRTk4d2hoTDF6VnhRNllObk5Yazk1TTA?oc=5",
+     "media": "MUI - Majelis Ulama Indonesia",
+     "platform": "Google News",
+     "terbit": "2026-11-24T19:00+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "172 Ribu Calon Haji 2027 Jalani Pemeriksaan Kesehatan, Ribuan Belum Istithaah",
+     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjJPdmhwRnVRa0dMdUlLbEFOZUFYQ1J5ckxBZjdvY3VhVllPN3BfZnVjVUx5eUtpb0ROVnZqeGVyVW0zdHdTeWRZb1piNUJpeFo2cW0tXzBzVzlRSWFJY3h0ZTBlU25QNDQtZFJjMVhrdGwyQ0V0NmlYX0NWZEhIanNyWWJyelRRS1lPY21xSU5CNGxHSFBDQWRMR1VhMGh1dEN4RC1aRmtpVTFIOG56aHBpbjBmMDljdW9BbE50NUJmVkI4?oc=5",
+     "media": "republika.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:48+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Wamenhaj: Jangan Coba-coba Mengintervensi Pemeriksaan Kesehatan Haji",
+     "tautan": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSzZIQTRocVhDTk9ZSXgxUlhaU1IyRDlXZFBteUx5bWN1Snd6eTg5SmNRR0lXZ0NvUXBlNWdYMlZmcXo1UzA0VFJqX1dlenhrd2RIeVQyOTBQTF9NNkV2emVPLTJ1WnZydjhGUHo1T3ctbTlUZnVaX3hhZ2lBTTdDVk04X09fMGpxRVJycGREWnpFVW1Rb0plRGpFWWVMMmw5NnBrVDdmZ0NUMXdyV0JnSVdnSFpUbkloT29EZS15YnRuZmNLR21nV3BrQzNYdHZoTVJ6cU1BY21IQQ?oc=5",
+     "media": "Kompas.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:44+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "172 Ribu Lebih Jamaah Jalani Pemeriksaan Kesehatan, Wamenhaj Imbau Siapkan Fisik Sejak Dini",
+     "tautan": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTDFpWU1YVE1iUk02TUVsanc1X2ZUQVdGd01haGN2VFA4S0JNWGxteE9zVmRNaEgwdER6VkF1bGZnVWVxN0YwNDEzWTE3eWl3N1NPNU1Lcnd1a1BsMHJxSjlIR2YzNGlHd2VuZ1hHNkRDODZFQkVPYUdSdTdRRjRQWGNLZmc5b2RGT2phOUlFTjlrSm1IeHpHMjROMHd1b2hmbU5DdW1vVmVrcXNXSmdLekN0R3FWUV9RT0p5SS1NWTIweUhqVFZtT01oSdIBywFBVV95cUxPTDFpWU1YVE1iUk02TUVsanc1X2ZUQVdGd01haGN2VFA4S0JNWGxteE9zVmRNaEgwdER6VkF1bGZnVWVxN0YwNDEzWTE3eWl3N1NPNU1Lcnd1a1BsMHJxSjlIR2YzNGlHd2VuZ1hHNkRDODZFQkVPYUdSdTdRRjRQWGNLZmc5b2RGT2phOUlFTjlrSm1IeHpHMjROMHd1b2hmbU5DdW1vVmVrcXNXSmdLekN0R3FWUV9RT0p5SS1NWTIweUhqVFZtT01oSQ?oc=5",
+     "media": "NU Online Lampung",
+     "platform": "Google News",
+     "terbit": "2026-11-24T13:11+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "ANTARA News",
+     "judul": "Wamenhaj imbau jamaah siapkan kesehatan fisik jalani rangkaian haji",
+     "url": "https://www.antaranews.com/berita/5876091/wamenhaj-imbau-jamaah-siapkan-kesehatan-fisik-jalani-rangkaian-haji"
+    },
+    {
+     "jenis": "sumber",
+     "media": "Kompas.com",
+     "judul": "172.322 Jemaah Haji Reguler Jalani Pemeriksaan Kesehatan, 1.172 Belum Penuhi Syarat Istitaah",
+     "url": "https://nasional.kompas.com/read/2026/11/24/19173681/172322-jemaah-haji-reguler-jalani-pemeriksaan-kesehatan-1172-belum-penuhi"
+    },
+    {
+     "jenis": "sumber",
+     "media": "MUI - Majelis Ulama Indonesia",
+     "judul": "172 Ribu Calon Jamaah Haji 2027 Sudah Jalani Cek Kesehatan, Wamenhaj: Siapkan Fisik Sejak Sekarang",
+     "url": "https://mui.or.id/public/index.php/baca/berita/172-ribu-calon-jamaah-haji-2027-sudah-jalani-cek-kesehatan-wamenhaj-siapkan-fisik-sejak-sekarang"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Media Indonesia",
+     "judul": "Kemenhaj Catat 172 Ribu Jemaah Haji Telah Jalani Pemeriksaan Kesehatan",
+     "url": "https://mediaindonesia.com/humaniora/960008/kemenhaj-catat-172-ribu-jemaah-haji-telah-jalani-pemeriksaan-kesehatan"
+    }
+   ]
+  },
+  {
+   "id": "dc844a11194c",
+   "tema": "Kesehatan",
+   "peringkat": 2,
+   "label": "Kemenhaj · Bentuk · Satgas · Haji",
+   "skor": 17.0,
+   "ringkasan": "Isu ini dibahas dalam 6 berita dari 6 sumber pada 24 Nov 2026. Inti pemberitaan: “Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi”. Topik yang sering muncul: kemenhaj, bentuk, satgas, haji, istitaah.",
+   "judul_utama": "Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi",
+   "kata_kunci": [
+    "kemenhaj",
+    "bentuk",
+    "satgas",
+    "haji",
+    "istitaah",
+    "manipulasi"
+   ],
+   "sorotan": [
+    "Perketat Istitaah Kesehatan Haji 2027, Kemenhaj Bentuk Satgas di Daerah dan Ancam Pidana Praktik Manipulasi (tvMu)",
+    "Istithaah Kesehatan Tak Bisa Ditawar, Kemenhaj Bentuk Satgas Istithaah Haji 2027 (MUI - Majelis Ulama Indonesia)"
+   ],
+   "sumber": [
+    {
+     "judul": "Perketat Pengawasan, Kemenhaj Bentuk Satgas Istitaah Kesehatan Haji",
+     "tautan": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2JJVTY5ZVFEaFlheGE4QmpkRVlfcDk5YmFUbDJQNlpiVHdGN3ZaV0RyUi1vTDBGbHk3SThHMHBEYzFjUkNDWmF2c3IwVE8wMExzdTN5SFlvRDFVd0dRQnVWbnhSMGRTM282QUFwUndNOVROc292OGU0WHZFdGpNblIwRFl1NG9LM19XNDZZOA?oc=5",
+     "media": "Amphuri",
+     "platform": "Google News",
+     "terbit": "2026-11-25T00:35+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi",
+     "tautan": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3JfaEdpbXNac080QUhUOGlFSWEtd3YxQmMwR0RQRDIzSkRGQXYxekNLdHZ0OEtzY1ZWV1JCbjN0UmdpVHlwQXUyMGtEQndYaVhPT2UtcEthZW1jTEo5ZWlfRWpWX1FpX1VwbWlKZ2NPZEY0S0JTeHhXRFExd0s2MVZ6V1YzWUFrS1BQU3V5WnJnNDdBRVplSFdsc0lkNThIQmswX2FSdjY?oc=5",
+     "media": "ANTARA News",
+     "platform": "Google News",
+     "terbit": "2026-11-24T22:23+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Istithaah Kesehatan Tak Bisa Ditawar, Kemenhaj Bentuk Satgas Istithaah Haji 2027",
+     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNanNGVDJEbUFmbVlaRVozUkg3Y3Y5Sk9HRVZEZ0NhOUd3UzJaSHc3ck8tZWxMZnBkQ3BhR3RMVUZRNkVHbVpNSUlvV1M4am02TXJ0OXpxN3FOT1lDXzV6ZEt5a01qZjN3Tm8xN0lyblVFYkdqVFVpUjFxaHdFbjY1Y2lKWUw0VDJDLTdxdjlhMTE0Y1JvcHJ1M2lRREstY1RTSm5CNkRzSzh6NmJuTkRreThPSEpDbjJkbHlmMGJxTWROaVdy?oc=5",
+     "media": "MUI - Majelis Ulama Indonesia",
+     "platform": "Google News",
+     "terbit": "2026-11-24T17:30+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Perketat Istitaah Kesehatan Haji 2027, Kemenhaj Bentuk Satgas di Daerah dan Ancam Pidana Praktik Manipulasi",
+     "tautan": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUmx0SU52eE1UWjJJMWtMSjFCaU1jc2JubmFmU0VsUTVXVkZ4VVRnWF9DZWhXYUZ1a3F2RE1BSkJfczV2cHlCMEx5OGV0bTFVTEdFUGJyeG5aemduX3N2aGcyUFU5Zy1ud2xQUEdNWXc2Tk9mWkZEVFB1a1dIbXBHRFZSWDk3UUNnaDl4LWZST3VOM2I5dmF5cmhmVEIwZ0gzbHYtUDk4UFJMS2E0NV96LUNDM3FhNUFKRGJhT1ZFNA?oc=5",
+     "media": "tvMu",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:43+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Kemenhaj Bentuk Satgas Istitaah Haji 2027 untuk Cegah Manipulasi Kesehatan Jemaah",
+     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTA1Q2FmaFZFMk9hWkhpd0FoTHRsMkFxaUpCakRvR0NSb3lhd1R5Ql9oMFdkQjhZYThybXJMWTNPTDU0ZWxXVHdmYUlBcG5iTDdHZEhLRVdWYjF6dGYweHNWa2tnd2VaRG9PcEI2Q243ZkpWcFBJbGZFMEpfRkt6a1ZKbjAzM0lHXzExUElDZUdRWGRUSGpLSDNvRWdRX2Q3UjQ1dmJMLWZjUlJvUXVjVF9qSDFyNzJVSHplX2JpNXg5Wm9EMkE?oc=5",
+     "media": "Kompas.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:04+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Tutup Celah Manipulasi dan Intervensi, Kemenhaj Bentuk Satgas Istitaah Kesehatan Haji 2027",
+     "tautan": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZWFCeVVnc09ONk9RbHBObC1QX1pVXzRlZjl5b2pKVmY4Q3BYdktzVEY0NnpDQkxnSUVLQVNzblpwSWwxUXBIaGRxX3dNY0UzREo5SGJheEptcUFMSFJDSjFVZ3FrT2VmcVZqTHNJeGpMZkhwdUdkTmxidHpoYjJkTWdFTXotZWhJa3c5S2l1VlFjMzVxMW5XanVlM2p2cHpfU256VGRVbUx4aGpHRS1jSlVmMzB1Vm9hU2hVbUlyQ28tc1A1ZFlrZg?oc=5",
+     "media": "Kementerian Haji dan Umrah",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:25+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "Amphuri",
+     "judul": "Perketat Pengawasan, Kemenhaj Bentuk Satgas Istitaah Kesehatan Haji",
+     "url": "https://amphuri.org/perketat-pengawasan-kemenhaj-bentuk-satgas-istitaah-kesehatan-haji"
+    },
+    {
+     "jenis": "sumber",
+     "media": "ANTARA News",
+     "judul": "Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi",
+     "url": "https://www.antaranews.com/berita/5876063/kemenhaj-bentuk-satgas-istitaah-kesehatan-haji-cegah-manipulasi"
+    },
+    {
+     "jenis": "sumber",
+     "media": "MUI - Majelis Ulama Indonesia",
+     "judul": "Istithaah Kesehatan Tak Bisa Ditawar, Kemenhaj Bentuk Satgas Istithaah Haji 2027",
+     "url": "https://mui.or.id/public/index.php/baca/berita/istithaah-kesehatan-tak-bisa-ditawar-kemenhaj-bentuk-satgas-istithaah-haji-2027"
+    },
+    {
+     "jenis": "terkait",
+     "media": "HIMPUH",
+     "judul": "Kemenhaj Bentuk Satgas Istitaah Kesehatan Haji 2027 di Daerah",
+     "url": "https://himpuh.or.id/blog/detail/5357/kemenhaj-bentuk-satgas-istitaah-kesehatan-haji-2027-di-daerah"
+    }
+   ]
+  },
+  {
+   "id": "81fe03f08e14",
+   "tema": "Kesehatan",
+   "peringkat": 3,
+   "label": "Ibu · Anak · Pemkot · Layanan",
+   "skor": 6.8,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 23 Nov 2026 dan 24 Nov 2026. Inti pemberitaan: “Pemkot Tingkatkan Kualitas Penanganan Medis Layanan Kesehatan Ibu dan Anak”. Topik yang sering muncul: pemkot, ibu, anak, layanan, kebidanan.",
+   "judul_utama": "Pemkot Tingkatkan Kualitas Penanganan Medis Layanan Kesehatan Ibu dan Anak",
+   "kata_kunci": [
+    "pemkot",
+    "ibu",
+    "anak",
+    "layanan",
+    "kebidanan",
+    "penanganan"
+   ],
+   "sorotan": [
+    "Pemkot Yogyakarta perkuat layanan kebidanan serta kesehatan ibu dan anak (ANTARA News Yogyakarta)"
+   ],
+   "sumber": [
+    {
+     "judul": "Pemkot Yogyakarta perkuat layanan kebidanan serta kesehatan ibu dan anak",
+     "tautan": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0wwTTRHdmY1UWNSRlRyZXZnbWo4WW1SNVNlUmlQQVU2S0hpbmJRYm9IT2dnYnBWd0ZlXzhjTTRGcWtZZ2JWdGxuMXRfLVdNLWtyYmtqZm5YbjZadHVHT3hCX3VQelZaakNIVUROMU5DZWRibXpGZTl6djVtVXowUUNIZThlWlptNVh1anA3ZEJ2Z2RCd3hRMmRRajFGOEI2VEVyVU9UMHZMV1RvRm84YVFpbUtTUQ?oc=5",
+     "media": "ANTARA News Yogyakarta",
+     "platform": "Google News",
+     "terbit": "2026-11-24T21:38+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Pemkot Tingkatkan Kualitas Penanganan Medis Layanan Kesehatan Ibu dan Anak",
+     "tautan": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanlZVmVraUFUWGZnN2V4OEFNRFZnSXdjUmpLZ294WTFMOW5HeGY5bGk1cEZMYXdKRUktWU5LOTBlQ29FSlNzWVJuVjhuNzBuLWxiZGI4cDh2MkR4YldQQUVRT3ZqaWFhQlZtUklHU05UZUtJcF9LQS12UkdxcUNXNDNaOWJiNWJkcWFtS2VhTzJrWGRTaXNTYndKX3RyQ3pBSlVyZ082SHVibGloWWszTmZNZnZWSzJZbkpUZ2hqQlJvNk1yNjFZbHZvR1FXT28?oc=5",
+     "media": "Pemerintah Kota Yogyakarta",
+     "platform": "Google News",
+     "terbit": "2026-11-24T05:42+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "ANTARA News Yogyakarta",
+     "judul": "Pemkot Yogyakarta perkuat layanan kebidanan serta kesehatan ibu dan anak",
+     "url": "https://jogja.antaranews.com/berita/870591/pemkot-yogyakarta-perkuat-layanan-kebidanan-serta-kesehatan-ibu-dan-anak"
+    },
+    {
+     "jenis": "sumber",
+     "media": "Pemerintah Kota Yogyakarta",
+     "judul": "Pemkot Tingkatkan Kualitas Penanganan Medis Layanan Kesehatan Ibu dan Anak",
+     "url": "https://warta.jogjakota.go.id/detail/index/53568/pemkot-tingkatkan-kualitas-penanganan-medis-layanan-kesehatan-ibu-dan-anak-2026-11-24"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Pemerintah Kota Tangerang",
+     "judul": "Hari Anak Sedunia, Ini 10 Layanan Gratis dan Ramah Anak di Kota Tangerang",
+     "url": "https://tangerangkota.go.id/berita/detail/71022/hari-anak-sedunia-ini-10-layanan-gratis-dan-ramah-anak-di-kota-tangerang"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Pemerintah Kota Surabaya",
+     "judul": "Hari Anak Sedunia 2026, Pemkot Surabaya Perkuat Kelas Parenting di 31 Kecamatan hingga Balai RW",
+     "url": "https://www.surabaya.go.id/id/berita/25957/hari-anak-sedunia-2026-pemkot-surabaya-perkuat-kelas-parenting-di-31-kecamatan-hingga-balai-rw"
+    }
+   ]
+  },
+  {
+   "id": "c53032fbdf18",
+   "tema": "Kesehatan",
+   "peringkat": 4,
+   "label": "Penurunan · AKI · AKB · Jabar",
+   "skor": 6.7,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Tingkatkan Kapasitas Kader, TP PKK Kabupaten Madiun Perkuat Upaya Penurunan AKI, AKB, dan Peningkatan Capaian Imunisasi”. Topik yang sering muncul: penurunan, aki, akb, jabar, madiun.",
+   "judul_utama": "Tingkatkan Kapasitas Kader, TP PKK Kabupaten Madiun Perkuat Upaya Penurunan AKI, AKB, dan Peningkatan Capaian Imunisasi",
+   "kata_kunci": [
+    "penurunan",
+    "aki",
+    "akb",
+    "jabar",
+    "madiun",
+    "capaian"
+   ],
+   "sorotan": [
+    "Borong 13 Penghargaan Bidang Kesehatan Tingkat Jabar 2026, Garut Raih Juara I Penurunan AKI dan AKB (StatusJabar)"
+   ],
+   "sumber": [
+    {
+     "judul": "Borong 13 Penghargaan Bidang Kesehatan Tingkat Jabar 2026, Garut Raih Juara I Penurunan AKI dan AKB",
+     "tautan": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVVTbWZaZW02QklsSkxXcnVFdmhmOENSVEkyNDgydk14aGJnajFpYk5qVlhWTFk1ZjBkWE5vN0Njc2VfR2RxWWV3UGV1MVZUZXV2MFNfUTdfTnQzVDZYT2pRa1hkZXBaMmpwd0dZeUdFV21BdUtJRVktMnZXd040TG5tc3BVVmxOSk5tNE5OWEFxS0syZk1HT09SU3NpSi1wYlpCYmhzZW1JRHV6YnhjdkFfZXRkY1BwMFZ4RURaek4?oc=5",
+     "media": "StatusJabar",
+     "platform": "Google News",
+     "terbit": "2026-11-24T19:53+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Tingkatkan Kapasitas Kader, TP PKK Kabupaten Madiun Perkuat Upaya Penurunan AKI, AKB, dan Peningkatan Capaian Imunisasi",
+     "tautan": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQklFWGZOTTFSN191UVVjZkVLM19ad1AycWs0UzdteXFONGZwVFZGbk5INm1VUVRDRlhsSkU2cVVqcUpmSUZsbTU2SEhFblJkUGVXNmxyOWNOVUFMbmhENDJqQjlyY1RNb0ZsSEFVNFdTSm5EdEFVWnF1NWhBRndfSE9vZWh2NGVtZ210TUJHc3RubEtCRnRZa2VsbG1FcS0tRy1BU0Z5dE1ZMHEzOUFrQmphUEx3blhsQ0tBbHFaWUozQmJDMDVEeEpkd0hDUUZ0Y19zZmNtSTU?oc=5",
+     "media": "https://madiunkab.go.id/",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:20+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "terkait",
+     "media": "garut berkabar",
+     "judul": "Garut Borong 12 Penghargaan di HKN ke-62 Jawa Barat, Penurunan AKI dan AKB Jadi Prestasi Utama",
+     "url": "https://garutberkabar.com/garut-borong-12-penghargaan-di-hkn-ke-62-jawa-barat-penurunan-aki-dan-akb-jadi-prestasi-utama/"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Radar Cirebon",
+     "judul": "Gaji Dokter di Jabar Bisa Tembus Rp40 Juta, Ini Syarat yang Disiapkan Dedi Mulyadi - radarcirebon.disway.id",
+     "url": "https://radarcirebon.disway.id/amp/237072/gaji-dokter-di-jabar-bisa-tembus-rp40-juta-ini-syarat-yang-disiapkan-dedi-mulyadi"
+    }
+   ]
+  },
+  {
+   "id": "f49ab1b9dfd8",
+   "tema": "Kesehatan",
+   "peringkat": 5,
+   "label": "Karaoke · HKN · Fun · Unjuk",
+   "skor": 6.5,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Fun Karaoke HKN ke-62 di Jakut Jadi Upaya Jaga Kesehatan Mental”. Topik yang sering muncul: fun, karaoke, hkn, unjuk, bakat.",
+   "judul_utama": "Fun Karaoke HKN ke-62 di Jakut Jadi Upaya Jaga Kesehatan Mental",
+   "kata_kunci": [
+    "fun",
+    "karaoke",
+    "hkn",
+    "unjuk",
+    "bakat",
+    "jakut"
+   ],
+   "sorotan": [
+    "42 Insan Kesehatan Unjuk Bakat di Fun Karaoke HKN ke-62 (DKI Jakarta)"
+   ],
+   "sumber": [
+    {
+     "judul": "42 Insan Kesehatan Unjuk Bakat di Fun Karaoke HKN ke-62",
+     "tautan": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTcwTlNrUkdkNTU5TDVmTWdITVJkR2REeVBhTy1IdHFabFpEY19jcm84SVMyemtydVZMV1hVWEZ1aklnRm1FaTY1Nk1idmxvVHZoNE5hSDhxNkVSbFlVU3B1bU1SbWZRUjByYTRIX2U5Z1lhX0dybXVHcE9lVlR6d3BYNWtoNXVJRjdxWHF4SWpDWmtYTWZZeWVIM2s?oc=5",
+     "media": "DKI Jakarta",
+     "platform": "Google News",
+     "terbit": "2026-11-24T15:45+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Fun Karaoke HKN ke-62 di Jakut Jadi Upaya Jaga Kesehatan Mental",
+     "tautan": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZEZNLVg3THJreGVtZnRPQzhJWUtGS0RhMWZ4WVZCak14MjhLeWRnYV9SY1ItRVMtb0dHVWpGazd0WTBGOEZ6ck85OExUUzZXWDg0RnBYTmNxTkthYWJ6UGhMcnh1WVpNNkpPT3FGZEJLbVBYcjJLaGZDaHlNdFRkU3BDN0w1RHRtQXEtNnFoTmowVkJRUElVbmVNazRUby1GeDE0bA?oc=5",
+     "media": "Beritajakarta.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:59+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": []
+  },
+  {
+   "id": "93cba6698774",
+   "tema": "Kesehatan",
+   "peringkat": 6,
+   "label": "Kemanusiaan · Psikososial · Bakti",
+   "skor": 6.4,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Bakti Kemanusiaan di Talio Muara, Lazismu dan Relawan Hadirkan Layanan Kesehatan dan Psikososial”. Topik yang sering muncul: kemanusiaan, psikososial, bakti, hadirkan, talio.",
+   "judul_utama": "Bakti Kemanusiaan di Talio Muara, Lazismu dan Relawan Hadirkan Layanan Kesehatan dan Psikososial",
+   "kata_kunci": [
+    "kemanusiaan",
+    "psikososial",
+    "bakti",
+    "hadirkan",
+    "talio",
+    "relawan"
+   ],
+   "sorotan": [
+    "Bakti Muhammadiyah untuk Kemanusiaan, Hadirkan Pelayanan Kesehatan dan Psikososial (Suara Muhammadiyah)"
+   ],
+   "sumber": [
+    {
+     "judul": "Bakti Kemanusiaan di Talio Muara, Lazismu dan Relawan Hadirkan Layanan Kesehatan dan Psikososial",
+     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdV9GeTFqczhUcGNXRlJlcEtfQzRDTF9IVUlucVJ0T3daZ3RUTzFnNjNKWnB2RkxMaDJnMjdSVWppN2x6RFdjcU1icUFFUWJkNUpPTEVzVmFhWkhrLW1Td2l2ZTBZUGVyMkRZZll6VWthVVdfTnNlLUE1WFQtQVRSeWc4dGhacGdoS2pWN05DOXlta0NFaHduQndqN2h6ZFJxeWRoUGw3NXNDa1BZcnYxdkY5eFRnbmRXRG9WNEhhaktpTWc3eFE?oc=5",
+     "media": "Lazismu",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:45+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Bakti Muhammadiyah untuk Kemanusiaan, Hadirkan Pelayanan Kesehatan dan Psikososial",
+     "tautan": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2o2NkUwUmc4UmVkNmdObW1SeWpwMjVXM3hQVTlhVW9STTJCMTdWTW9zX2l6ajZNN3Vvcnd3V2VkSnJFOWlTai1ZTFRKc05zSW9rUHBCWG9aQ090eDNiTDJWUk1EWmh1VjlrUkR5NC05VkVWR2w3ejktUGxFYzF0c3htbVRuYVBhNDRGZnpIc3RZRHAzYlFYM2pENjR6dFJXT1hlN29NQVdiY2dOdUZiQlhCX185UQ?oc=5",
+     "media": "Suara Muhammadiyah",
+     "platform": "Google News",
+     "terbit": "2026-11-24T12:11+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "Lazismu",
+     "judul": "Bakti Kemanusiaan di Talio Muara, Lazismu dan Relawan Hadirkan Layanan Kesehatan dan Psikososial",
+     "url": "https://lazismu.org/2026/11/24/bakti-kemanusiaan-di-talio-muara-lazismu-dan-relawan-hadirkan-layanan-kesehatan-dan-psikososial/"
+    },
+    {
+     "jenis": "sumber",
+     "media": "Suara Muhammadiyah",
+     "judul": "Bakti Muhammadiyah untuk Kemanusiaan, Hadirkan Pelayanan Kesehatan dan Psikososial",
+     "url": "https://suaramuhammadiyah.id/read/bakti-muhammadiyah-untuk-kemanusiaan-hadirkan-pelayanan-kesehatan-dan-psikososial"
+    },
+    {
+     "jenis": "terkait",
+     "media": "republika.co.id",
+     "judul": "Yayasan Bakti Putra Perkasa dan Rumah Zakat Salurkan Bantuan Gempa NTT",
+     "url": "https://khazanah.republika.co.id/berita/toxtrn370/yayasan-bakti-putra-perkasa-dan-rumah-zakat-salurkan-bantuan-gempa-ntt"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Rumah Zakat",
+     "judul": "Yayasan Bakti Putra Perkasa dan Rumah Zakat Bantu Anak-Anak Penyintas Gempa NTT",
+     "url": "https://www.rumahzakat.org/bantuan-gempa-ntt-rumah-zakat-bakti-putra-perkasa/"
+    }
+   ]
+  },
+  {
+   "id": "3d72852852fb",
+   "tema": "Kesehatan",
+   "peringkat": 7,
+   "label": "Tingkat · Jawa · Penghargaan · Pasuruan",
+   "skor": 6.4,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat”. Topik yang sering muncul: jawa, tingkat, penghargaan, pasuruan, timur.",
+   "judul_utama": "Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat",
+   "kata_kunci": [
+    "jawa",
+    "tingkat",
+    "penghargaan",
+    "pasuruan",
+    "timur",
+    "garut"
+   ],
+   "sorotan": [
+    "Kota Pasuruan Borong 4 Penghargaan Bidang Kesehatan Tingkat Jawa Timur (RAMAPATI Kota Pasuruan)"
+   ],
+   "sumber": [
+    {
+     "judul": "Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat",
+     "tautan": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEk0a1NrNTZnMU95MXNBT0ZJTTRQRWJYdmZ1MEtsOTJFRUg1VjhUejRDalEzYWhfY09URjdjYlFZek12VFBkbFJXZk8xSkdkVWN6S2pvNHRIa2xlTkMwVXVObXpmNTdZT1c2X3ZaWnI0RzdEcDNOTGhrVVpPMmJ5bFU0eU1OQ1J3UWhBc0FrZUZHdmZzQmZvMjZfZnhiOU5mMzRmRWNZNy1UdVVqUnc?oc=5",
+     "media": "Portal Jabarprov",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:35+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Kota Pasuruan Borong 4 Penghargaan Bidang Kesehatan Tingkat Jawa Timur",
+     "tautan": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHVNcFg3TG5pbS1FUnJjdTEzbXFqSzA0LVFraFczanFNaHZ2Nkd3UTc0YzY0VDhoNDJtVUN2MHFZRVByQU91YjM1ZWlFOW5PUDVfci1xNFhpOUM5NE9iU05uR2FzTnR4LXd0WWpGeks1Wk9neXNLQzZnZVh2dFdrdUpnX2lLNElPUkhGaHYxbWhXTmdiVVJlckVPc0Q4M3B5OVhmT3pGd1hDSFhUVkdfR3VoRjNZZXdSekE?oc=5",
+     "media": "RAMAPATI Kota Pasuruan",
+     "platform": "Google News",
+     "terbit": "2026-11-24T12:52+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "RAMAPATI Kota Pasuruan",
+     "judul": "Kota Pasuruan Borong 4 Penghargaan Bidang Kesehatan Tingkat Jawa Timur",
+     "url": "https://ramapati.pasuruankota.go.id/2026/11/24/kota-pasuruan-borong-4-penghargaan-bidang-kesehatan-tingkat-jawa-timur/"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Pemerintah Kabupaten Pasuruan",
+     "judul": "Kabupaten Pasuruan Raih Predikat Juara III TPID Terbaik Non IHK Jawa Timur",
+     "url": "https://www.pasuruankab.go.id/berita/kabupaten-pasuruan-raih-predikat-juara-iii-tpid-terbaik-non-ihk-jawa-timur"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Pemerintah Kota Surabaya",
+     "judul": "Surabaya Raih Dua Penghargaan di Puncak Hari Ikan Nasional Jatim 2026",
+     "url": "https://www.surabaya.go.id/id/berita/25951/surabaya-raih-dua-penghargaan-di-puncak-hari-ikan-nasional-jatim-2026"
+    }
+   ]
+  },
+  {
+   "id": "439d5efe9f8c",
+   "tema": "Kesehatan",
+   "peringkat": 8,
+   "label": "Layanan · Gratis · Milad · Lazismu",
+   "skor": 6.4,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Pemko Sibolga Bersama Lazismu dan BAZNAS Gelar Sunat Massal dan Layanan Kesehatan Gratis pada Milad Muhammadiyah ke-114”. Topik yang sering muncul: milad, lazismu, gratis, layanan, penyaluran.",
+   "judul_utama": "Pemko Sibolga Bersama Lazismu dan BAZNAS Gelar Sunat Massal dan Layanan Kesehatan Gratis pada Milad Muhammadiyah ke-114",
+   "kata_kunci": [
+    "milad",
+    "lazismu",
+    "gratis",
+    "layanan",
+    "penyaluran",
+    "paket"
+   ],
+   "sorotan": [
+    "Layanan Kesehatan Gratis dan Penyaluran 100 Paket Sembako Meriahkan Milad ke-7 Lazismu UMY (Lazismu)"
+   ],
+   "sumber": [
+    {
+     "judul": "Layanan Kesehatan Gratis dan Penyaluran 100 Paket Sembako Meriahkan Milad ke-7 Lazismu UMY",
+     "tautan": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXZ4dEZtV1JUOTRPZ1h0Y1o4NEc0Vzg4aFN4RTVuNHNQSU5JSm04dkk3MExobjVyRi1mRDNTVEtvcVJxcGVsMjhXLUZTLXcxWENnVnY1SUVXOXBSaHJVR2o4YnljUS1LemdxNjU5N1BkNDU0YkhZTElFeFJPODZWLXBFelVRQndGUEM3RE1kbmpKX1dmYWJHVU9CckpsRUgxTl9ld0taWUkzTFp4ZDlOV3Zzbmx5MmE0MUE1NndLVQ?oc=5",
+     "media": "Lazismu",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:20+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Pemko Sibolga Bersama Lazismu dan BAZNAS Gelar Sunat Massal dan Layanan Kesehatan Gratis pada Milad Muhammadiyah ke-114",
+     "tautan": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzM1OVdmNWRwSHM3Tm5rZUdlUWRnd0V3WjBHWTF3REdYNVBZWURGNTBOS3RlZ3luLURXdGVwdWlGYnhhdS1GUjZpRkxnSnVxZnVlTE8yYjlyTVRfb2U4amZHSTEzaFdLaVpxLWNZUkpHZzNiSG5TY0pQczc2dUpObjhwUGwydGNCRHhEN3U0REtsTFh3bEpnZXV3cGZfM1Uxc1ZFa3FMM2FYWl9PRWZBcHJXd1RoNGJWRU9xRDBCRUJsb25hN1hDZ00tVFFNVm9uaHpQSWRUMjhOb25hQVJz?oc=5",
+     "media": "https://sibolgakota.go.id/",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:03+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "Lazismu",
+     "judul": "Layanan Kesehatan Gratis dan Penyaluran 100 Paket Sembako Meriahkan Milad ke-7 Lazismu UMY",
+     "url": "https://lazismu.org/2026/11/24/layanan-kesehatan-gratis-dan-penyaluran-100-paket-sembako-meriahkan-milad-ke-7-lazismu-umy/"
+    },
+    {
+     "jenis": "sumber",
+     "media": "https://sibolgakota.go.id/",
+     "judul": "Pemko Sibolga Bersama Lazismu dan BAZNAS Gelar Sunat Massal dan Layanan Kesehatan Gratis pada Milad Muhammadiyah ke-114",
+     "url": "https://sibolgakota.go.id/pemko-sibolga-bersama-lazismu-dan-baznas-gelar-sunat-massal-dan-layanan-kesehatan-gratis-pada-milad-muhammadiyah-ke-114/"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Suara Muhammadiyah",
+     "judul": "Milad ke-7 Lazismu UMY, Tebar Kebaikan melalui Beasiswa hingga Layanan Kesehatan",
+     "url": "https://suaramuhammadiyah.id/read/milad-ke-7-lazismu-umy-tebar-kebaikan-melalui-beasiswa-hingga-layanan-kesehatan"
+    },
+    {
+     "jenis": "terkait",
+     "media": "PWMU.CO",
+     "judul": "Ribuan Warga Padati Dome UMM, Buya Anwar Abbas Ceramah di Milad Muhammadiyah ke-114",
+     "url": "https://pwmu.co/ribuan-warga-padati-dome-umm-buya-anwar-abbas-ceramah-di-milad-muhammadiyah-ke-114/"
+    }
+   ]
+  },
+  {
+   "id": "1e22947f6064",
+   "tema": "Kesehatan",
+   "peringkat": 9,
+   "label": "Pelayanan · Masyarakat · Posyandu · Kelurahan",
+   "skor": 6.4,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Tingkatkan Kualitas Pelayanan Kesehatan Masyarakat, Kelurahan Kamal Muara Monitoring Posyandu TONGKOL 1 di RW 02”. Topik yang sering muncul: posyandu, masyarakat, pelayanan, kelurahan, tongkol.",
+   "judul_utama": "Tingkatkan Kualitas Pelayanan Kesehatan Masyarakat, Kelurahan Kamal Muara Monitoring Posyandu TONGKOL 1 di RW 02",
+   "kata_kunci": [
+    "posyandu",
+    "masyarakat",
+    "pelayanan",
+    "kelurahan",
+    "tongkol",
+    "kraksaan"
+   ],
+   "sorotan": [
+    "Kader Posyandu Kraksaan Wetan Evaluasi Pelayanan Kesehatan Masyarakat (Pemerintah Kabupaten Probolinggo)"
+   ],
+   "sumber": [
+    {
+     "judul": "Tingkatkan Kualitas Pelayanan Kesehatan Masyarakat, Kelurahan Kamal Muara Monitoring Posyandu TONGKOL 1 di RW 02",
+     "tautan": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDdWOVp2NGdfR09rLWFDQ3VEZmhvY3dCcUluX2VpZGdHMXR6U1lDMk5lY09WcEVXcWc0eXhRTHJtWEU3d2w2RUt6akZPNkhXSHMxMkZWaUFVQ1hveW4xclNvRnpqT2tDbTJQTnEtUUR0XzZUSkVrQTdmVEtFNTM1bmpPUW1YazJFdDVQbVlFYUpGdTJQOFk2ZU8xb200Wl9xdUFPVGVDV2VNeUtleEphNmdTNktuQ3hPbmxVSmRaSk1pZmVxZ2NfSDhzSVJ1Q1cwT2oxMmdlZmNZZWxaNGtRckV4NE1seE0?oc=5",
+     "media": "DKI Jakarta",
+     "platform": "Google News",
+     "terbit": "2026-11-24T13:25+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Kader Posyandu Kraksaan Wetan Evaluasi Pelayanan Kesehatan Masyarakat",
+     "tautan": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmo2aEM0ZUFxcGlRS1lsNE1VbGN1VWthVDE0aEoxY2tuT19BcVpWRXZ4YTQ2THVRSFRPdjFCQjZWS2FuREd2WkpwcENXQVdMZUhKRjB4WkNnU2owZzRKVlZPelAzYkVMQTRleEpjQkYzS2FGd0hJSnpNVTQxREJSNjhEMFZHV3NFc3ZoemtFaGZKYUlvVHJndmUyU0hPeGdP?oc=5",
+     "media": "Pemerintah Kabupaten Probolinggo",
+     "platform": "Google News",
+     "terbit": "2026-11-24T08:24+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "terkait",
+     "media": "Media Center Provinsi Kalimantan Selatan",
+     "judul": "Verifikasi Lomba TP Posyandu Kalsel 2026, Banjarmasin Paparkan Capaian dan Inovasi",
+     "url": "https://diskominfomc.kalselprov.go.id/2026/11/23/verifikasi-lomba-tp-posyandu-kalsel-2026-banjarmasin-paparkan-capaian-dan-inovasi/"
+    },
+    {
+     "jenis": "terkait",
+     "media": "ANTARA News Kalsel",
+     "judul": "Posyandu tingkatkan kualitas hidup dan kesejahteraan masyarakat",
+     "url": "https://kalsel.antaranews.com/berita/546495/posyandu-tingkatkan-kualitas-hidup-dan-kesejahteraan-masyarakat"
+    }
+   ]
+  },
+  {
+   "id": "2dd90da4381d",
+   "tema": "Kesehatan",
+   "peringkat": 10,
+   "label": "Jambore · Kader · Provinsi · Bali",
+   "skor": 6.3,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Buleleng Raih Penghargaan pada Jambore Kader Posyandu Bidang Kesehatan Tingkat Provinsi Bali”. Topik yang sering muncul: jambore, provinsi, bali, kader, posyandu.",
+   "judul_utama": "Buleleng Raih Penghargaan pada Jambore Kader Posyandu Bidang Kesehatan Tingkat Provinsi Bali",
+   "kata_kunci": [
+    "jambore",
+    "provinsi",
+    "bali",
+    "kader",
+    "posyandu",
+    "bidang"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Denpasar Borong Lima Juara pada Jambore Kader Posyandu Bidang Kesehatan Provinsi Bali 2026.",
+     "tautan": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWR4NW5VZVlpNFlUeUtNbzh2amNJVEx6OURhUE00eXA2b3VFNEwwcUYtRjZBMnA0bXBsdXdrUHlHWU5rQUV6djdtNWlZemo2VE1LaXRPdnV1X2xkU3V2XzdqS0hYUGRuLU9MVFE5dWxXWm1VdF9nTElqZTZGV2RERHQySVdpNlpzTExmY1JVMW1kMmd5eEl2RkpNemdzYjlnbHdTdEY3QzVLdVRDV25tX3R4TUQ5dmNQV1QtcXRlek93N1Y3UW55M2tkVQ?oc=5",
+     "media": "Pemerintah Kota Denpasar",
+     "platform": "Google News",
+     "terbit": "2026-11-24T12:06+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Buleleng Raih Penghargaan pada Jambore Kader Posyandu Bidang Kesehatan Tingkat Provinsi Bali",
+     "tautan": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSFJXUFpzN2w1ZE9EdzFFT3U2WmJRN1ozWW83dmlYeUg1MkRCaGdISDJ5b1lvZS1kTWNDTnJ3NUlTUElfVjVFa29tclJDcHhUalMyYm5UV3FERGVRc2hoY25LTzljZll4eG9HNjExanQtNVhFVlI2V3pYREZJanZ3QXNhNzFUM3lMdS0wUEdHM2FQWHYySnQwLTFNYzRaT0dqU0lKNU04TjRJeUZ5TXIzemVJbjRISVFFWjZFRnRxd2dkM1hrSUF5Ti1EOXQwZGVpQmd6WUp2UThqOGw3S2pMeTRZT3U1TlE?oc=5",
+     "media": "Dinas Kesehatan Kabupaten Buleleng",
+     "platform": "Google News",
+     "terbit": "2026-11-24T09:47+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "Pemerintah Kota Denpasar",
+     "judul": "Denpasar Borong Lima Juara pada Jambore Kader Posyandu Bidang Kesehatan Provinsi Bali 2026.",
+     "url": "https://denpasarkota.go.id/berita/denpasar-borong-lima-juara-pada-jambore-kader-posyandu-bidang-kesehatan-provinsi-bali-2026-261123"
+    },
+    {
+     "jenis": "sumber",
+     "media": "Dinas Kesehatan Kabupaten Buleleng",
+     "judul": "Buleleng Raih Penghargaan pada Jambore Kader Posyandu Bidang Kesehatan Tingkat Provinsi Bali",
+     "url": "https://dinkes.bulelengkab.go.id/informasi/detail/berita/17_buleleng-raih-penghargaan-pada-jambore-kader-posyandu-bidang-kesehatan-tingkat-provinsi-bali"
+    },
+    {
+     "jenis": "terkait",
+     "media": "baliportalnews",
+     "judul": "Kota Denpasar Raih Lima Juara pada Jambore Kader Posyandu Bidang Kesehatan Provinsi Bali 2026",
+     "url": "https://baliportalnews.com/2026/11/kota-denpasar-raih-lima-juara-pada-jambore-kader-posyandu-bidang-kesehatan-provinsi-bali-2026/"
+    },
+    {
+     "jenis": "terkait",
+     "media": "Balipuspanews.com",
+     "judul": "Gianyar Raih Lima Penghargaan pada Jambore Kader Posyandu Tingkat Provinsi Bali 2026",
+     "url": "https://www.balipuspanews.com/gianyar-raih-lima-penghargaan-pada-jambore-kader-posyandu-tingkat-provinsi-bali-2026.html"
+    }
+   ]
+  }
+ ]
+}
