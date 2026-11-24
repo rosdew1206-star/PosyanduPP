@@ -1,6 +1,6 @@
 {
- "dibuat": "2026-11-25T00:46+07:00",
- "keterangan": "Indonesia (Bahasa Indonesia) · 24 jam terakhir · 25 Nov 2026 00:46 WIB · 1 tema",
+ "dibuat": "2026-11-25T00:48+07:00",
+ "keterangan": "Indonesia (Bahasa Indonesia) · 24 jam terakhir · 25 Nov 2026 00:48 WIB · 1 tema",
  "tema": [
   "Kesehatan"
  ],
@@ -29,7 +29,7 @@
    "sumber": [
     {
      "judul": "Wamenhaj imbau jamaah siapkan kesehatan fisik jalani rangkaian haji",
-     "tautan": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXl2dGhFM1hqd0dLbTJraHBoaTRSZ3A0S3JLdGVyLXQzazdyRURiRnIzUFlvMEpPdTI0cjFRNUU1QWxkTjlRZjR3WFI3SGxWdEQ3YWhfLUZBUWRvbFkxS2hiU3pXcWE1bzkzUmZsUGh1Z2NlbTl0T0RfZkREMkZEQ2lGbmhKMEhDWDZEQXhZU0tOc0VYRnBCeEJyM3lwMzkzRDY1MW9uUWY2dFZpOFHSAbABQVVfeXFMTnlhWkw4UGh4VWdTRTZWUlBhbDIxc0Y4aEZ0RmxTSEdqVzhnNUFkUDNKM21LME1TQUV0NWMzQjNsdlQ1RHVWS055elFyY0gzRW5wMVlQVlN3bHZEX1FYSEtIVlM0cm1Ka2lRQnVEcmtsNzZ3eXFWZ19qRTluRHpMRUZEQ1R6cGpIOTcxdUNUcEF0S1IwOGhadlFsdm1ERGhpTmpOYWhtTHFnTmVyd3F5ZHo?oc=5",
+     "tautan": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWFaTDhQaHhVZ1NFNlZSUGFsMjFzRjhoRnRGbFNIR2pXOGc1QWRQM0ozbUswTVNBRXQ1YzNCM2x2VDVEdVZLTnl6UXJjSDNFbnAxWVBWU3dsdkRfUVhIS0hWUzRybUpraVFCdURya2w3Nnd5cVZnX2pFOW5EekxFRkRDVHpwakg5NzF1Q1RwQXRLUjA4aFp2UWx2bUREaGlOak5haG1McWdOZXJ3cXlketIBsAFBVV95cUxOeWFaTDhQaHhVZ1NFNlZSUGFsMjFzRjhoRnRGbFNIR2pXOGc1QWRQM0ozbUswTVNBRXQ1YzNCM2x2VDVEdVZLTnl6UXJjSDNFbnAxWVBWU3dsdkRfUVhIS0hWUzRybUpraVFCdURya2w3Nnd5cVZnX2pFOW5EekxFRkRDVHpwakg5NzF1Q1RwQXRLUjA4aFp2UWx2bUREaGlOak5haG1McWdOZXJ3cXlkeg?oc=5",
      "media": "ANTARA News",
      "platform": "Google News",
      "terbit": "2026-11-24T22:44+07:00",
@@ -87,12 +87,6 @@
    "artikel": [
     {
      "jenis": "sumber",
-     "media": "ANTARA News",
-     "judul": "Wamenhaj imbau jamaah siapkan kesehatan fisik jalani rangkaian haji",
-     "url": "https://www.antaranews.com/berita/5876091/wamenhaj-imbau-jamaah-siapkan-kesehatan-fisik-jalani-rangkaian-haji"
-    },
-    {
-     "jenis": "sumber",
      "media": "Kompas.com",
      "judul": "172.322 Jemaah Haji Reguler Jalani Pemeriksaan Kesehatan, 1.172 Belum Penuhi Syarat Istitaah",
      "url": "https://nasional.kompas.com/read/2026/11/24/19173681/172322-jemaah-haji-reguler-jalani-pemeriksaan-kesehatan-1172-belum-penuhi"
@@ -102,6 +96,12 @@
      "media": "MUI - Majelis Ulama Indonesia",
      "judul": "172 Ribu Calon Jamaah Haji 2027 Sudah Jalani Cek Kesehatan, Wamenhaj: Siapkan Fisik Sejak Sekarang",
      "url": "https://mui.or.id/public/index.php/baca/berita/172-ribu-calon-jamaah-haji-2027-sudah-jalani-cek-kesehatan-wamenhaj-siapkan-fisik-sejak-sekarang"
+    },
+    {
+     "jenis": "sumber",
+     "media": "republika.co.id",
+     "judul": "172 Ribu Calon Haji 2027 Jalani Pemeriksaan Kesehatan, Ribuan Belum Istithaah",
+     "url": "https://khazanah.republika.co.id/berita/tp038y320/172-ribu-calon-haji-2027-jalani-pemeriksaan-kesehatan-ribuan-belum-istithaah"
     },
     {
      "jenis": "terkait",
@@ -115,7 +115,7 @@
    "id": "dc844a11194c",
    "tema": "Kesehatan",
    "peringkat": 2,
-   "label": "Kemenhaj · Bentuk · Satgas · Haji",
+   "label": "Bentuk · Satgas · Kemenhaj · Haji",
    "skor": 17.0,
    "ringkasan": "Isu ini dibahas dalam 6 berita dari 6 sumber pada 24 Nov 2026. Inti pemberitaan: “Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi”. Topik yang sering muncul: kemenhaj, bentuk, satgas, haji, istitaah.",
    "judul_utama": "Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi",
@@ -150,7 +150,7 @@
     },
     {
      "judul": "Istithaah Kesehatan Tak Bisa Ditawar, Kemenhaj Bentuk Satgas Istithaah Haji 2027",
-     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNanNGVDJEbUFmbVlaRVozUkg3Y3Y5Sk9HRVZEZ0NhOUd3UzJaSHc3ck8tZWxMZnBkQ3BhR3RMVUZRNkVHbVpNSUlvV1M4am02TXJ0OXpxN3FOT1lDXzV6ZEt5a01qZjN3Tm8xN0lyblVFYkdqVFVpUjFxaHdFbjY1Y2lKWUw0VDJDLTdxdjlhMTE0Y1JvcHJ1M2lRREstY1RTSm5CNkRzSzh6NmJuTkRreThPSEpDbjJkbHlmMGJxTWROaVdy?oc=5",
+     "tautan": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelY1WnQ5d1VJQlBVX2NPRS1Jb3MxeFptamstQlFrRXVDS2t0ZktrM09UdzRacV80di00RVF1ZE5zTEJBUlQtcmtWbGRnR2YxY2dTOFNGUzNQVkI4VnZWdmhHNkpOU3kyZ1pid2lBYTFrMzFFd0FFVk9iVnVQZ29NczdiQ0hHOXphUFE4U29GWl9mNTQ0YXY3VkpwMzJ6aUZYU1JJbVktSTl1OWxUbVJ5VFlvZmdxdDQ?oc=5",
      "media": "MUI - Majelis Ulama Indonesia",
      "platform": "Google News",
      "terbit": "2026-11-24T17:30+07:00",
@@ -198,7 +198,7 @@
      "jenis": "sumber",
      "media": "MUI - Majelis Ulama Indonesia",
      "judul": "Istithaah Kesehatan Tak Bisa Ditawar, Kemenhaj Bentuk Satgas Istithaah Haji 2027",
-     "url": "https://mui.or.id/public/index.php/baca/berita/istithaah-kesehatan-tak-bisa-ditawar-kemenhaj-bentuk-satgas-istithaah-haji-2027"
+     "url": "https://mui.or.id/public/baca/berita/istithaah-kesehatan-tak-bisa-ditawar-kemenhaj-bentuk-satgas-istithaah-haji-2027"
     },
     {
      "jenis": "terkait",
@@ -276,7 +276,7 @@
    "id": "c53032fbdf18",
    "tema": "Kesehatan",
    "peringkat": 4,
-   "label": "Penurunan · AKI · AKB · Jabar",
+   "label": "AKI · AKB · Penurunan · Jabar",
    "skor": 6.7,
    "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Tingkatkan Kapasitas Kader, TP PKK Kabupaten Madiun Perkuat Upaya Penurunan AKI, AKB, dan Peningkatan Capaian Imunisasi”. Topik yang sering muncul: penurunan, aki, akb, jabar, madiun.",
    "judul_utama": "Tingkatkan Kapasitas Kader, TP PKK Kabupaten Madiun Perkuat Upaya Penurunan AKI, AKB, dan Peningkatan Capaian Imunisasi",
@@ -318,9 +318,9 @@
     },
     {
      "jenis": "terkait",
-     "media": "Radar Cirebon",
-     "judul": "Gaji Dokter di Jabar Bisa Tembus Rp40 Juta, Ini Syarat yang Disiapkan Dedi Mulyadi - radarcirebon.disway.id",
-     "url": "https://radarcirebon.disway.id/amp/237072/gaji-dokter-di-jabar-bisa-tembus-rp40-juta-ini-syarat-yang-disiapkan-dedi-mulyadi"
+     "media": "PenaKuID",
+     "judul": "Dedi Mulyadi Siapkan Strategi Baru Tekan Stunting, AKI dan AKB",
+     "url": "https://penaku.id/dedi-mulyadi-siapkan-strategi-baru-tekan-stunting-aki-dan-akb/?amp=1"
     }
    ]
   },
@@ -328,7 +328,7 @@
    "id": "f49ab1b9dfd8",
    "tema": "Kesehatan",
    "peringkat": 5,
-   "label": "Karaoke · HKN · Fun · Unjuk",
+   "label": "Fun · Karaoke · HKN · Unjuk",
    "skor": 6.5,
    "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Fun Karaoke HKN ke-62 di Jakut Jadi Upaya Jaga Kesehatan Mental”. Topik yang sering muncul: fun, karaoke, hkn, unjuk, bakat.",
    "judul_utama": "Fun Karaoke HKN ke-62 di Jakut Jadi Upaya Jaga Kesehatan Mental",
@@ -361,7 +361,20 @@
      "cuplikan": ""
     }
    ],
-   "artikel": []
+   "artikel": [
+    {
+     "jenis": "terkait",
+     "media": "TIMES Jogja",
+     "judul": "BYD M6 Bikin Penasaran! Haka Auto Magelang Tantang Komunitas Uji Efisiensi dan Karaoke Pakai Mobil Listrik",
+     "url": "https://jogja.times.co.id/news/peristiwa/jl5WyHlk/byd-m6-bikin-penasaran-haka-auto-magelang-tantang-komunitas-uji-efisiensi-dan-karaoke-pakai-mobil-listrik"
+    },
+    {
+     "jenis": "terkait",
+     "media": "suara usu",
+     "judul": "Fun Walk hingga Orasi Ilmiah Warnai Dies Natalis ke-61 FMIPA USU",
+     "url": "https://suarausu.or.id/fun-walk-hingga-orasi-ilmiah-warnai-dies-natalis-ke-61-fmipa-usu/"
+    }
+   ]
   },
   {
    "id": "93cba6698774",
@@ -605,7 +618,7 @@
    "id": "2dd90da4381d",
    "tema": "Kesehatan",
    "peringkat": 10,
-   "label": "Jambore · Kader · Provinsi · Bali",
+   "label": "Posyandu · Bidang · Jambore · Provinsi",
    "skor": 6.3,
    "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Buleleng Raih Penghargaan pada Jambore Kader Posyandu Bidang Kesehatan Tingkat Provinsi Bali”. Topik yang sering muncul: jambore, provinsi, bali, kader, posyandu.",
    "judul_utama": "Buleleng Raih Penghargaan pada Jambore Kader Posyandu Bidang Kesehatan Tingkat Provinsi Bali",
