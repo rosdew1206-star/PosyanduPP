@@ -1,0 +1,72 @@
+# Studio Konten · dibuat oleh BagusAdam & Claude · penggunaan mengikuti LISENSI.md
+﻿name: Laporan isu populer harian
+
+on:
+  schedule:
+    # Dicek setiap jam (menit ke-7). laporan.py hanya mengirim email pada
+    # hari & jam yang dipilih di dashboard Pengaturan. Di luar jam itu, data isu
+    # untuk Studio Konten diperbarui tanpa email bila sudah berumur 6 jam.
+    - cron: "7 * * * *"
+  workflow_dispatch: # tombol "Run workflow" / "Perbarui isu sekarang" di Studio Konten
+    inputs:
+      kirim_email:
+        description: "Kirim email laporan juga?"
+        type: choice
+        options: ["ya", "tidak"]
+        default: "ya"
+
+permissions:
+  contents: write # untuk menyimpan data/isu-terbaru.json (dibaca Studio Konten)
+
+# Satu laporan pada satu waktu; permintaan berikutnya menunggu, tidak membatalkan yang berjalan
+concurrency:
+  group: laporan-isu
+  cancel-in-progress: false
+
+jobs:
+  kirim-laporan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # Token GitHub tidak disimpan di repo kerja selama skrip membaca halaman berita dari internet;
+      # token baru dipakai di langkah terakhir untuk menyimpan data.
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Buat dan kirim laporan
+        id: laporan
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          PENGATURAN: ${{ vars.PENGATURAN }}
+          KIRIM_EMAIL: ${{ github.event.inputs.kirim_email || 'ya' }}
+        run: python laporan.py
+      - name: Perkaya isu dengan isi artikel (bahan tulisan Studio Konten)
+        if: steps.laporan.outputs.baru == 'true' # hanya bila ada data baru
+        continue-on-error: true # bila gagal, data isu tetap disimpan tanpa artikel
+        timeout-minutes: 8
+        env:
+          ISU_KUNCI: ${{ secrets.ISU_KUNCI }} # teks artikel disimpan terenkripsi (repo publik)
+        run: python perkaya_isu.py
+      - name: Simpan data isu untuk Studio Konten
+        if: steps.laporan.outputs.baru == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f data/isu-terbaru.json ]; then
+            git config user.name "isu-populer-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/isu-terbaru.json
+            if git diff --cached --quiet; then
+              echo "Data isu tidak berubah."
+            else
+              git commit -m "Perbarui data isu terbaru"
+              AUTH="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
+              git -c http.https://github.com/.extraheader="$AUTH" pull --rebase --autostash
+              git -c http.https://github.com/.extraheader="$AUTH" push
+            fi
+          fi
