@@ -1,5 +1,5 @@
 # Studio Konten · dibuat oleh BagusAdam & Claude · penggunaan mengikuti LISENSI.md
-﻿name: Laporan isu populer harian
+name: LAporan isu populer harian
 
 on:
   schedule:
