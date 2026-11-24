@@ -1,6 +1,6 @@
 {
- "dibuat": "2026-11-25T00:53+07:00",
- "keterangan": "Indonesia (Bahasa Indonesia) · 24 jam terakhir · 25 Nov 2026 00:53 WIB · 3 tema",
+ "dibuat": "2026-11-25T06:53+07:00",
+ "keterangan": "Indonesia (Bahasa Indonesia) · 24 jam terakhir · 25 Nov 2026 06:53 WIB · 3 tema",
  "tema": [
   "lansia",
   "bayi",
@@ -8,11 +8,154 @@
  ],
  "isu": [
   {
-   "id": "130daf471c7c",
+   "id": "e46dbca21ea5",
    "tema": "lansia",
    "peringkat": 1,
-   "label": "Meninggal · Dunia · Longsor · Ditemukan",
+   "label": "Sumur · Sumedang · Tewas",
    "skor": 9.4,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Tim SAR Gabungan Evakuasi Jenazah Lansia dari Sumur di Cimanggung Sumedang”. Topik yang sering muncul: sumur, sumedang, tewas, gabungan, evakuasi.",
+   "judul_utama": "Tim SAR Gabungan Evakuasi Jenazah Lansia dari Sumur di Cimanggung Sumedang",
+   "kata_kunci": [
+    "sumur",
+    "sumedang",
+    "tewas",
+    "gabungan",
+    "evakuasi",
+    "cimanggung"
+   ],
+   "sorotan": [
+    "Lansia di Sumedang Tewas Terjatuh ke Dalam Sumur (VIVA Bandung)",
+    "Diduga Terpeleset ke Sumur, Lansia Ditemukan Tewas (VOICE Indonesia)"
+   ],
+   "sumber": [
+    {
+     "judul": "Tim SAR Gabungan Evakuasi Jenazah Lansia dari Sumur di Cimanggung Sumedang",
+     "tautan": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVJoZnRDaHJRQnRKeWE0MXJ6SndjeEdCVXBDMVdCdlh3eWlhX0xjZGVUZk81YWN4SXliNFI3WGRfdF9CcDg3dGRRSEZsdDBZY2ZVOVc3T2g2Y0szaG4xcGZURlV2NnQydW9DZkFJanR2WHIxamVxV2FBX2VocHlUTFMwempnVTVnV3YzVFFBaGh5ZXRNb2xrUXRSZWVFUnUyY292b3RtZnp3bXBkZG1nZ3lYc0lLMUZzOXlZdVVn?oc=5",
+     "media": "Tribunnews.com",
+     "platform": "Google News",
+     "terbit": "2026-11-25T06:11+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Lansia di Sumedang Tewas Terjatuh ke Dalam Sumur",
+     "tautan": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObFJnMWI0bklmdTVLd0pFRTJnZXV3ZENGaUNSUlFZYUxSTFN1eEVabmtLNEl5WmRWcjREY05lV1dEZHU4Um1kdVIwaW1DXzN4dG0za3RBNnZzVVR1OGk1cXdOVkhxbEFQQmtHSVU2eVowSTJRckFpSTlGcE5vdXg5dU91clpRRFZFaDdTMzF5c9IBlAFBVV95cUxNZU9FOUp6c0l2emI5LWh1dGIzQzY5eHc3WmFnOWEySUR2bVhFWjN0Ykx0dEtFUnBUUFd1QjBhb3FlTTRYeGJxV2RDNTliOElmNDloZnBrcmVjU2hTek5RaDE3TGlHQXZ3THh6NnctWGltMGRnSnJWV29Bc1pDTXlIVE14OWVfNGxveWRxTzBhN0Z5Y2Qz?oc=5",
+     "media": "VIVA Bandung",
+     "platform": "Google News",
+     "terbit": "2026-11-24T23:03+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Diduga Terpeleset ke Sumur, Lansia Ditemukan Tewas",
+     "tautan": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObk9XMHVZZUFXenBEeExHckxzaGk3WTgzR2kxN1BfM1ppcGxqQ3dFbkV5Y3FVUldVV1JlWlNZM0RkLWN4TVpqX0JQUTE5ejJfU3praG43cG45UE8xOERBaVJzRmVHYlhsWXAtTFpYbUJUcHNrUDRIanNSS0hHNWpjdmxFaURneE13Tl9UNG9HQXFFUnFST3NVX1lR?oc=5",
+     "media": "VOICE Indonesia",
+     "platform": "Google News",
+     "terbit": "2026-11-24T23:01+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "VIVA Bandung",
+     "judul": "Lansia di Sumedang Tewas Terjatuh ke Dalam Sumur",
+     "url": "https://bandung.viva.co.id/news/59307-lansia-di-sumedang-tewas-terjatuh-ke-dalam-sumur"
+    },
+    {
+     "jenis": "sumber",
+     "media": "VOICE Indonesia",
+     "judul": "Diduga Terpeleset ke Sumur, Lansia Ditemukan Tewas",
+     "url": "https://voiceindonesia.co/peristiwa-kriminal/diduga-terpeleset-ke-sumur-lansia-ditemukan-tewas"
+    },
+    {
+     "jenis": "terkait",
+     "media": "kabarpublik",
+     "judul": "Enam Tewas akibat Kecelakaan Beruntun di Samoja, Sumedang",
+     "url": "https://kabarpublik.id/enam-tewas-akibat-kecelakaan-beruntun-di-samoja-sumedang/2026/11/23/"
+    },
+    {
+     "jenis": "terkait",
+     "media": "JournalArta",
+     "judul": "Kecelakaan Sumedang Tewaskan 6 Orang, Polisi Selidiki Penyebab",
+     "url": "https://journalarta.com/news/2026/11/23/kecelakaan-sumedang-enam-korban-tewas/"
+    }
+   ]
+  },
+  {
+   "id": "5d9179c1c123",
+   "tema": "lansia",
+   "peringkat": 2,
+   "label": "IGD · RSI · Nganjuk · Keluarga",
+   "skor": 9.3,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Viral Keluhan Keluarga Lansia yang Meninggal Usai Dipulangkan dari IGD RSI Aisyiyah Nganjuk”. Topik yang sering muncul: rsi, nganjuk, keluarga, keluhan, dipulangkan.",
+   "judul_utama": "Viral Keluhan Keluarga Lansia yang Meninggal Usai Dipulangkan dari IGD RSI Aisyiyah Nganjuk",
+   "kata_kunci": [
+    "rsi",
+    "nganjuk",
+    "keluarga",
+    "keluhan",
+    "dipulangkan",
+    "igd"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Viral Keluhan Keluarga Lansia yang Meninggal Usai Dipulangkan dari IGD RSI Aisyiyah Nganjuk",
+     "tautan": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSUdKblBjOElGcVZRNDBtd3MtZG9mZmhnR092NEptTUZJeHpsaTVZY0FTaVJVSWN0SW9rOFV6a0FtU1l5THRSX2VwLVJvb2YwX1ZNT1pvbVFmb2k0VC1wQzRoOHpqZEV1T2p0S1hMZHVld09yTUxhSkFLZDljcVFQbEFwaDF6QmlYLUZVek9xQ3pYVjM0T2hBdkNtaGNidU12YVhuSGphRlJHQzVsdi1rdG9EMzVzQl8tY3c0YnU1Qkd3TFlDNHBmVlh4ZE5RVjdxZ3pfeXh5NWxPSHByakHSAeMBQVVfeXFMT0I2TndkOEtxZElnQVlSMHF6N3M0RGRoa0Q4dFE4MUxRbnozdWwwbjZEZHh1cjFFaWxBenJOeEU2UktNR3hkRVA1LW9acmY0bE9kVXRnblRhY0FJMzlGR2RYQUFmS1kwZkNaS3NfTjZJQmt4ck12NjByZ0pmazR0M3AtM2xMc3FlWWpTLXVDeUVaeEt2SkRwZEllQnUxUGFRb0dMMTZlV01LTTdqZ1k2ZS10dkYtemxfQUw4SnF5QnhFd2dOeTl6NmZVeXZuTFE0ZzQ4YVh3MzdEbnVWTUh0S1doTUE?oc=5",
+     "media": "NyalaNusantara.com",
+     "platform": "Google News",
+     "terbit": "2026-11-25T03:58+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Keluarga Pasien Lansia Keluhkan Pelayanan IGD RSI Aisyiyah Nganjuk",
+     "tautan": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yeEdwRDk5RDh4a1kteFZjcUhWWnJLTFVaYjNfVjE3RHU2WnlfSHBXaV83LVlsMEVuY1FoZnBpeTE0cGFEYXowUV80djE1bUNUbEtBMk1pa0dVZWowakM5R3Qycw?oc=5",
+     "media": "bsinews.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:52+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Viral Keluhan Keluarga Lansia Meninggal Usai Dipulangkan RSI Nganjuk",
+     "tautan": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWV6c1RjMkNJeS1KLWVILXQxR2gteHpTV1E1ZlJrY0NWc0JZeXY3S2dndUFySjJZOGQwbFRydzYwS0EzWlh5NFVHN1IyUjVpa1hCQTRKZXdEaTdKOC1CN3U4MkY5ekpLT2NaenlqUEs4WVZKZGZHRnhIaGNvbG5yT0hsSUVpOFdSTGdneG0yZXJpNEoxS2UyTHFCQTNfUmJ1RklqelNpOTgwVHlUbW9YZ3pnWdIBuAFBVV95cUxQTUw3aWVabjM5S0QxSHpuYk5pZUh2SktHdXFLd0JUUTNUTTBhZ01qZ3pvSnlmREVNUk8xOGQ0XzI5R3VQU19RZE04bVFJXzlzSzdjekJMeUsxd0NjMjl5dmUwaGdkMzFsMktTSmE3N0JHZVdCQm53UjEzMFdaU0pfS0tKcFdvOUxMZGpvUW5WRHZZNnNGVmM2UmEtbHY3T2N1YmlRWmt6UUNpX2R1YUhEX0h6OE5PVFBT?oc=5",
+     "media": "detikcom",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:45+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "NyalaNusantara.com",
+     "judul": "Viral Keluhan Keluarga Lansia yang Meninggal Usai Dipulangkan dari IGD RSI Aisyiyah Nganjuk",
+     "url": "https://nyalanusantara.com/read/ragam-nusantara/23300/viral-keluhan-keluarga-lansia-yang-meninggal-usai-dipulangkan-dari-igd-rsi-aisyiyah-nganjuk"
+    },
+    {
+     "jenis": "sumber",
+     "media": "bsinews.id",
+     "judul": "Keluarga Pasien Lansia Keluhkan Pelayanan IGD RSI Aisyiyah Nganjuk",
+     "url": "https://bsinews.id/keluhan-pelayanan-igd-rsi-aisyiyah"
+    },
+    {
+     "jenis": "sumber",
+     "media": "detikcom",
+     "judul": "Viral Keluhan Keluarga Lansia Meninggal Usai Dipulangkan RSI Nganjuk",
+     "url": "https://www.detik.com/jatim/berita/d-8767476/viral-keluhan-keluarga-lansia-meninggal-usai-dipulangkan-rsi-nganjuk"
+    },
+    {
+     "jenis": "terkait",
+     "media": "MediaKompeten",
+     "judul": "Keluarga Keluhkan Layanan IGD RSI Aisyiyah Nganjuk",
+     "url": "https://www.mediakompeten.co.id/keluarga-keluhkan-layanan-igd-nganjuk"
+    }
+   ]
+  },
+  {
+   "id": "130daf471c7c",
+   "tema": "lansia",
+   "peringkat": 3,
+   "label": "Meninggal · Dunia · Longsor · Ditemukan",
+   "skor": 9.0,
    "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Tertimbun Longsor, Seorang Lansia di Sidemen Bali Ditemukan Meninggal Dunia”. Topik yang sering muncul: dunia, meninggal, longsor, ditemukan, kabar.",
    "judul_utama": "Tertimbun Longsor, Seorang Lansia di Sidemen Bali Ditemukan Meninggal Dunia",
    "kata_kunci": [
@@ -41,7 +184,7 @@
      "tautan": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVlacFJsREJTbXZrQXlFTzJjSDBZbDhCSExZTzZTT2V3bFE3QWpvZkFCa2NBV2RvdzJZc1pEX1UyZHc2Sl96aU80MnF4UjQ1bGJrczFvcU1tMGI3SzhTVzlJMEZYSjJaNVpRTUpLckdMQnI3NV9jUmszcG1Uc1d5WlROamg0NWJ4dXhIVE5KRHBvdHI4ckI4SEw2QjVoV2ctSjc0UzZWWGctYkxO?oc=5",
      "media": "primetimes.id",
      "platform": "Google News",
-     "terbit": "2026-11-24T20:35+07:00",
+     "terbit": "2026-11-24T20:36+07:00",
      "cuplikan": ""
     },
     {
@@ -74,73 +217,27 @@
     },
     {
      "jenis": "terkait",
-     "media": "ANTARA News",
-     "judul": "BNPB: Tanah longsor di empat provinsi, satu ditemukan meninggal dunia",
-     "url": "https://www.antaranews.com/berita/5873259/bnpb-tanah-longsor-di-empat-provinsi-satu-ditemukan-meninggal-dunia"
-    }
-   ]
-  },
-  {
-   "id": "84d848268a0d",
-   "tema": "lansia",
-   "peringkat": 2,
-   "label": "Saluran · Irigasi · Warga · Babadan",
-   "skor": 9.0,
-   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Warga Babadan Geger, Ditemukan Mayat Perempuan Lansia Membusuk di Saluran Irigasi”. Topik yang sering muncul: warga, saluran, babadan, geger, mayat.",
-   "judul_utama": "Warga Babadan Geger, Ditemukan Mayat Perempuan Lansia Membusuk di Saluran Irigasi",
-   "kata_kunci": [
-    "warga",
-    "saluran",
-    "babadan",
-    "geger",
-    "mayat",
-    "perempuan"
-   ],
-   "sorotan": [
-    "Lansia Tewas di Saluran Irigasi Gegerkan Warga Serang (NTVNews.id)"
-   ],
-   "sumber": [
-    {
-     "judul": "Lansia Tewas di Saluran Irigasi Gegerkan Warga Serang",
-     "tautan": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHdSTTBSVTJXay1KS0pmMDgyRHhaajBrMGlWT1lvand3QUtZNFhnR1VOUi1teWRQbm1nczNvbjlrQjVIOXpCd29TeENNYko5c1h6a1pxTVRBTWlIZUlXOWpnN2FMLVA1QjljOGNGZVVwMXJKMmEwcWhNM3JTeXV3akNBeTVScFZUSTFQQndxMVdQWktf?oc=5",
-     "media": "NTVNews.id",
-     "platform": "Google News",
-     "terbit": "2026-11-24T16:42+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Warga Babadan Geger, Ditemukan Mayat Perempuan Lansia Membusuk di Saluran Irigasi",
-     "tautan": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVd3d0RCT2dpQTJBR2Ixc0ZKanVHQ1NkWUtJZHJxcFpEbl9IOFZaY01IY3czME9mNjhjSEl5VEpQNXdnczkxSS1Bd0xWLWpaRVZLcnlrWVVrUjE1UUttUlp2dDNSQWU1dnFkd0YtcVh5YzJCaWU2bkxsaWNGTEFuUGxQcGJESTNyOHlQdFNnRy1NQ2JRNTJ0eTk5eHdUdUFlNEJFdnhQa0o?oc=5",
-     "media": "MediaBanten.Com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T14:24+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Warga Babadan Pontang Serang Geger Mayat Perempuan Lansia Membusuk di Sungai",
-     "tautan": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVC1ucXNyaEl6QlM1TnRubHZ3SElZSWh3bTlnVGxvQ3VwMjlfUmtJWGg0cDRYZVVYcWlkSjdubUJOc0NvRFdxa09TZnpHYU4xNVlKZDVFZEFOLXR2UHAwZVc0UC02Z3NqRFN2djFfUTczMXJIVU1GUFdJakhfSS1fUmhIcWxXQjMwZVdvY2VPWmdMY0ZSV1lLN2dKLWg?oc=5",
-     "media": "Kabar6.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T14:18+07:00",
-     "cuplikan": ""
+     "media": "Media Pelangi",
+     "judul": "Longsor Timpa Rumah di Sidemen, Lansia 65 Tahun Ditemukan Meninggal",
+     "url": "https://mediapelangi.com/2026/11/23/longsor-timpa-rumah-di-sidemen-lansia-65-tahun-ditemukan-meninggal/"
     }
    ]
   },
   {
    "id": "c2b32228595b",
    "tema": "lansia",
-   "peringkat": 3,
+   "peringkat": 4,
    "label": "Nusa · Penida · Ditemukan · Polsek",
-   "skor": 8.7,
-   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Polsek Nusa Penida Tangani Penemuan Jenazah Lansia di Dusun Ampel, Pejukutan”. Topik yang sering muncul: nusa, penida, ditemukan, polsek, penemuan.",
+   "skor": 8.5,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Polsek Nusa Penida Tangani Penemuan Jenazah Lansia di Dusun Ampel, Pejukutan”. Topik yang sering muncul: nusa, penida, ditemukan, polsek, dusun.",
    "judul_utama": "Polsek Nusa Penida Tangani Penemuan Jenazah Lansia di Dusun Ampel, Pejukutan",
    "kata_kunci": [
     "nusa",
     "penida",
     "ditemukan",
     "polsek",
-    "penemuan",
-    "jenazah"
+    "dusun",
+    "ampel"
    ],
    "sorotan": [
     "Lansia 71 Tahun Ditemukan Meninggal di Nusa Penida (bsinews.id)"
@@ -173,13 +270,57 @@
    ]
   },
   {
-   "id": "85661a5fb907",
+   "id": "f8dfe845c5cd",
    "tema": "lansia",
-   "peringkat": 4,
+   "peringkat": 5,
+   "label": "Tiri · Berulang · Perkosa · Kali",
+   "skor": 7.7,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Lansia di Polman Perkosa Anak Tiri Berulang Kali hingga Hamil”. Topik yang sering muncul: perkosa, tiri, berulang, kali, hamil.",
+   "judul_utama": "Lansia di Polman Perkosa Anak Tiri Berulang Kali hingga Hamil",
+   "kata_kunci": [
+    "perkosa",
+    "tiri",
+    "berulang",
+    "kali",
+    "hamil",
+    "anak"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Bejat! Pria Lansia di Sulbar Perkosa Anak Tiri Berulang Kali hingga Hamil",
+     "tautan": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnM0SlpSbWhySW1zTVVOR0F6dHBsOXdkMldpM1FEWHJ2SHQ1WHVIbHdGRU9WRHJZZVgzWEJvNlBtY3ZIMjVXbERYZDFSYnBEWlRZOHVMVlJaVHhGbFAwd2lYQjZEWkl6SVpCaWUyY0FScnRsUGttU3RKX20yQktDb3p2VTJxbHEtRjlxelhQX2FObWlRbFptMWw4aFFCQnNZVTNCNkxCTUpZbmJMZDExOTY4VXZoZ2pQZFR2MTBKaGFUbU9WQnRlWdIBzgFBVV95cUxOdXlFbDUyR2R0OUhfQjJYMFhwUlFuTm4yZkF0R3g0V3E5d1NHdllQS2ZCMVp0RVF3b2pSVFl6ZE5xcEVOSWVvQjJfam4yYUFaVVp2ZVozdHM2QV9LeXlGZnFid1ZjNHlXQlQ5ZG04OTVhNnV3UnlZNUNUQ1NGWVFkMjNBVzJQbXBxYi1tWXpuaC1jSG9xMDE2VWVvSkdScjhoN2V1U3B4WlJHZ2wwUFliRUVFb2FBYVFDUUcyX2JwVlZieXJSaldNS2QtandaZw?oc=5",
+     "media": "detikcom",
+     "platform": "Google News",
+     "terbit": "2026-11-25T03:01+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Bejat! Lansia 63 Tahun di Polman Perkosa Anak Tiri Berulang Kali Sejak Agustus hingga Hamil, Terbongkar Usai Dipergoki Keluarga",
+     "tautan": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdzh5b09fT3FnLS1YMnNaZWRJNXVWYmlrUGhCYkVNVnl0dnpjcjZoazJxRi1NbkROTm1Tc0EzVzE0YlJQdERpMjl4UEdJN05ldWlKUy1lQ1YwUjM0U3dEZktNZ1RQUHpEU3p3aU5NX0U2dS1nYlNoUjFMQldZX0FFbUpMWEJCZXMtV3hQQUdoTzRUbjhEV0J0eEVoaTd2WGw2Q3E1UEJoTTkzeEp3aWQ5V0pSUXFjaEd5dEZtaW43dnMyMFBVWTNxZzVzb2pESXlwanV4LS1vd0Z0S1NZMlVmZlRKZFZ0UEU?oc=5",
+     "media": "https://berandasulsel.com/",
+     "platform": "Google News",
+     "terbit": "2026-11-24T15:15+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Lansia di Polman Perkosa Anak Tiri Berulang Kali hingga Hamil",
+     "tautan": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXo2VDFoREduU21aUDBrTnlka2VVakxzOUNjUmdkUUY1YlRXV1hYdDltMmUwcHlOMUpEY3ZEWlhHak44NmxFMjhtR24zblFncjJXNWFIS1c4RHROQllha0RvV19EUnBnNGRXdmJaMWFkRldSXzAzSWh5cGZRaUVCcmxINUVzU2xWNUNxZWxRWi1MWHA4YU1VdUFTd0FRV0k5MXVyRmZiUHAyOFFqbTU4VGVQM2JKc1hjWDE40gHAAUFVX3lxTE5jVllpNGdxZ0F1M3ExTzZ6Umx2S25PMUJ2a0dQMWpqTnNENUJoWU50WEVHbm10aW5fWXhySm1nU1dMelVldFgyV0xqcnNxenZNMlFWSnVqV2pfS0lqYXZTeTI4alVDc1hucE9IaWV5T3J1X3Q0RENVVjRINW1keW1teVJ3eE1VSGJ6clNoak5UUnhYbXlMVVF0LTJSa2w4eFp2T1Y2aG9QSm9EdlZOLTlFRlhCWU9TTk5GTC1zSDdtQw?oc=5",
+     "media": "detikcom",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:55+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "f911c3bb1e3c",
+   "tema": "lansia",
+   "peringkat": 6,
    "label": "Komunitas · Sejahtera · MUI · Usulkan",
-   "skor": 7.6,
-   "ringkasan": "Isu ini dibahas dalam 3 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “KPRK MUI Usulkan Komunitas Lansia Sejahtera, Bukan Sekadar Tempat Penitipan Orang Tua”. Topik yang sering muncul: mui, sejahtera, komunitas, usulkan, penitipan.",
-   "judul_utama": "KPRK MUI Usulkan Komunitas Lansia Sejahtera, Bukan Sekadar Tempat Penitipan Orang Tua",
+   "skor": 7.4,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “MUI Usulkan Komunitas Lansia Sejahtera, Tegaskan Bukan Tempat Penitipan”. Topik yang sering muncul: mui, sejahtera, komunitas, usulkan, penitipan.",
+   "judul_utama": "MUI Usulkan Komunitas Lansia Sejahtera, Tegaskan Bukan Tempat Penitipan",
    "kata_kunci": [
     "mui",
     "sejahtera",
@@ -219,11 +360,49 @@
    ]
   },
   {
+   "id": "474437f36c4e",
+   "tema": "lansia",
+   "peringkat": 7,
+   "label": "Marbut · Surabaya · Dibakar",
+   "skor": 6.6,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Marbut Lansia di Surabaya Dibakar Teman, Penyebabnya Masalah Sepele, Sakit Hati Soal Kamar Mandi”. Topik yang sering muncul: marbut, surabaya, dibakar, teman, penyebabnya.",
+   "judul_utama": "Marbut Lansia di Surabaya Dibakar Teman, Penyebabnya Masalah Sepele, Sakit Hati Soal Kamar Mandi",
+   "kata_kunci": [
+    "marbut",
+    "surabaya",
+    "dibakar",
+    "teman",
+    "penyebabnya",
+    "masalah"
+   ],
+   "sorotan": [
+    "Kesaksian Warga Saat Marbut Lansia Dibakar di Teras Masjid Surabaya (Tribunlampung.co.id)"
+   ],
+   "sumber": [
+    {
+     "judul": "Marbut Lansia di Surabaya Dibakar Teman, Penyebabnya Masalah Sepele, Sakit Hati Soal Kamar Mandi",
+     "tautan": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM01fbkpCRjBZaE9ObDNWR3dFMzNnMDJhNll4a2ozMXUtT09ka2RZVmZKcGgzMTV1dm1PaV81VjBZNG11UHIwd0RCU2Z1ZDg2emJtVXJQR2kwTjRkdXZVbXFKVDBJNkdyZGVjNWZzRW8tSzBicVNSNDNVNlp6bmNBWDdJM29wN3JmbDVhTnBHVWkxTk5maDF5MzZEaXdiVWZYdzB4eW9WeUo2VDFxUWx1R1k5RGozRlVLc0pUQUJpYUhfaTlFYXI0NFZ1VkEwMUpaOGdkYXF3?oc=5",
+     "media": "Tribunjatim.com",
+     "platform": "Google News",
+     "terbit": "2026-11-25T01:16+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Kesaksian Warga Saat Marbut Lansia Dibakar di Teras Masjid Surabaya",
+     "tautan": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHZ0ckFNNFpIczRKdTR0ZkxzUDd4NF9iVkY0U2VjLXJQdjQ5SGpNYmwwalI2RzRrLUhGZXBhaFhQYXVJXzM0RWNXTzZUVmtCR2RWMDBodENLTDU4MDVPUmhyeDU0MFRvLWFmZ3N4ZFhna1l5R1poQm8xRXltd1ZqTkZCeC1LVUl3eDRuZ3FJSldiYWY2bkExNG84V2RCcXk4S2Rlc2wwdUtoVXFSY2NNZA?oc=5",
+     "media": "Tribunlampung.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T22:53+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
    "id": "4e951d608a19",
    "tema": "lansia",
-   "peringkat": 5,
+   "peringkat": 8,
    "label": "Dilaporkan · Hanyut · Lengayang · SAR",
-   "skor": 6.8,
+   "skor": 6.5,
    "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Seorang Pria Lansia Dilaporkan Hanyut Saat Menyeberangi Sungai di Lengayang Pessel, Tim SAR Lakukan Pencarian”. Topik yang sering muncul: lengayang, dilaporkan, hanyut, sar, sungai.",
    "judul_utama": "Seorang Pria Lansia Dilaporkan Hanyut Saat Menyeberangi Sungai di Lengayang Pessel, Tim SAR Lakukan Pencarian",
    "kata_kunci": [
@@ -257,47 +436,11 @@
    ]
   },
   {
-   "id": "2285471719cd",
-   "tema": "lansia",
-   "peringkat": 6,
-   "label": "Tim · PKH · Pamekasan · Turun",
-   "skor": 6.8,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Bansos Lansia di Pamekasan Diduga Digelapkan Sejak 2025, Tim PKH Jatim Turun Tangan”. Topik yang sering muncul: pamekasan, turun, tangan, bansos, pkh.",
-   "judul_utama": "Bansos Lansia di Pamekasan Diduga Digelapkan Sejak 2025, Tim PKH Jatim Turun Tangan",
-   "kata_kunci": [
-    "pamekasan",
-    "turun",
-    "tangan",
-    "bansos",
-    "pkh",
-    "tim"
-   ],
-   "sorotan": [],
-   "sumber": [
-    {
-     "judul": "Bansos Milik Lansia Tak Tersalurkan, Tim PKH Pamekasan Turun Tangan",
-     "tautan": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUpsa1NLRmV1ODBGOEhiejI2a0F3RW9sVjhYSXdnR0VOaHZ0X2RZQ205T29iYXB6QXp1NUhXeWhsMm5zcWJhNXJYX0VJS2V5MUxOMnhmQkFYc2FnRGZwQkRGcHk2aEx4eFdaUS1Ua0xuNDJXZDl2ZVZ0bGZhTGQ1QnpidkljUDc4X2NTcEhkSk44X0pLNjJQeWJDQjhyVWlJVlE?oc=5",
-     "media": "Klik Madura",
-     "platform": "Google News",
-     "terbit": "2026-11-24T22:22+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Bansos Lansia di Pamekasan Diduga Digelapkan Sejak 2025, Tim PKH Jatim Turun Tangan",
-     "tautan": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXZxX041NzVQNF91eVRWSVFvWjJ2V3FoTkNuenVrX3BpUzQ2ejZJQ2tLRGp2RUdRRFNmTVd6RDRXQTZjbW8tS2lmMzBPRkNkaGU2NzRCbzRLUjIxNlBIZHpVZ2VrMmJwUURPVHhQU0hZOTVGalk4d21ZTDNWUjlQazZPb3g0ZWZNb3N3LTdJOExLQ2x4SW0tT3l2MnVPYjZPQ2dzRXYwZ3Azc285aWxRMUdwWkw1R0h3R1BfRW1uOXRfazk2UFd3cg?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T14:57+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
    "id": "79934d0c3f51",
    "tema": "lansia",
-   "peringkat": 7,
-   "label": "Senam · Jantung · Tari · Tradisional",
-   "skor": 6.6,
+   "peringkat": 9,
+   "label": "Tari · Tradisional · Jantung · USK",
+   "skor": 6.4,
    "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Senam Jantung Berbasis Tari Tradisional Jadi Jurus Tim USK Jaga Kesehatan Pra-Lansia di Aceh Besar”. Topik yang sering muncul: jantung, tari, tradisional, usk, pra.",
    "judul_utama": "Senam Jantung Berbasis Tari Tradisional Jadi Jurus Tim USK Jaga Kesehatan Pra-Lansia di Aceh Besar",
    "kata_kunci": [
@@ -331,329 +474,25 @@
    ]
   },
   {
-   "id": "efb24a57e38c",
-   "tema": "lansia",
-   "peringkat": 8,
-   "label": "Komnas · HAM · Dampak · Karhutla",
-   "skor": 6.6,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Komnas HAM Soroti Dampak Kesehatan Karhutla 2026, Mayoritas Kasus ISPA Serang Anak dan Lansia”. Topik yang sering muncul: komnas, ham, dampak, karhutla, soroti.",
-   "judul_utama": "Komnas HAM Soroti Dampak Kesehatan Karhutla 2026, Mayoritas Kasus ISPA Serang Anak dan Lansia",
-   "kata_kunci": [
-    "komnas",
-    "ham",
-    "dampak",
-    "karhutla",
-    "soroti",
-    "mayoritas"
-   ],
-   "sorotan": [
-    "Komnas HAM Ungkap Dampak Karhutla 2026 ke Kehidupan Balita hingga Lansia (Kompas.com)"
-   ],
-   "sumber": [
-    {
-     "judul": "Komnas HAM Soroti Dampak Kesehatan Karhutla 2026, Mayoritas Kasus ISPA Serang Anak dan Lansia",
-     "tautan": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONHRQY0ktRVl0NzRlVzdHZ2pzbmdnM2ZVRXBIQzZ5U0pBWTZtT2NaQnpFc0dkLV9ieHJTRDJjZ0NyY3FoU0tUMW9UTjRLbEdUaWREdmVaZHBCRzNMZ0JBX19peVBRdUttdmpyMk1TQzJxcWNveUlVemJrX2t5MEc4ODRvOXFKY1BMV3k3RFo1QVlSTm92NGhySjJfRmhCT2lJU3hFT2dSNkJoelJoVTRzRXJtTQ?oc=5",
-     "media": "tutur.co.id",
-     "platform": "Google News",
-     "terbit": "2026-11-24T19:24+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Komnas HAM Ungkap Dampak Karhutla 2026 ke Kehidupan Balita hingga Lansia",
-     "tautan": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmhxdXhZdTdoN2g5Q3B0S1dNWlpyMkYyZFo1NjdFeENOUm54ZUxKbmhIMVlGaW9zaHRER0laQWdwek1MVGRuLXBIZDdaY2luMXhfdlpxVjZUWkE3dkFyVW55bzQwODF2Rk1BdkhJdURXVUZmTWhqRFkyUGFWaWhDckR6aTk1VjVNQ2swSGlJNFozSWo4WGJIMVM2azhHa2tnTkRpd1ZralFlM1Q0RC1hdFZKbC1McEJudy1lbUlMTnFpYkk?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T18:55+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "f36cff4196af",
-   "tema": "lansia",
-   "peringkat": 9,
-   "label": "Tertimbun · Longsor · Bali · Berita",
-   "skor": 6.6,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Berita Terkini Harian Lansia Tertimbun Longsor Di Bali Terbaru Hari Ini”. Topik yang sering muncul: tertimbun, bali, longsor, berita, terkini.",
-   "judul_utama": "Berita Terkini Harian Lansia Tertimbun Longsor Di Bali Terbaru Hari Ini",
-   "kata_kunci": [
-    "tertimbun",
-    "bali",
-    "longsor",
-    "berita",
-    "terkini",
-    "harian"
-   ],
-   "sorotan": [
-    "Lansia di Karangasem Bali Tewas Tertimbun Longsor (MetroTVNews.com)"
-   ],
-   "sumber": [
-    {
-     "judul": "Berita Terkini Harian Lansia Tertimbun Longsor Di Bali Terbaru Hari Ini",
-     "tautan": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOdGY1eTlmblJvRFhGM2czU2JyY2hQY0RDNFFZbGs4ZHA0QXllNDQ3OG9SblZ3ZjFnSzNiVXFTVW0yZXF0aTc2akVJY3RLNU9WTGkwRW5YZS1jUnRIVlkxZGY5NUltVmtGS3JF?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T18:16+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Lansia di Karangasem Bali Tewas Tertimbun Longsor",
-     "tautan": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlo4ZTN0TFJkcEhSc0s5OVE4cG4zNXpvUTg0LXNlNFlkS3lIMVR0bkdOMlVjMTkxQjNrTlMyNFdWUHRKMEFtdmNXVkI4d0FySWxYb1BBbTBkb3o3UHlyY1U4Ym5xSGZLZmtocmx4bGc0U2paZkR6VEFPUHlOZkVOREFmWlBnTnZsMnV6SnNZdjBOenVJNVE?oc=5",
-     "media": "MetroTVNews.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T14:22+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "6d002af075be",
+   "id": "a5bc762d1cbf",
    "tema": "bayi",
    "peringkat": 1,
-   "label": "Tanjung · Priok · Jakut · RSUD",
-   "skor": 25.0,
-   "ringkasan": "Isu ini dibahas dalam 13 berita dari 7 sumber antara 23 Nov 2026 dan 24 Nov 2026. Inti pemberitaan: “Dinkes DKI Ungkap Kronologi Bayi Meninggal Usai Dirawat di RSUD Tanjung Priok Jakut”. Topik yang sering muncul: jakut, rsud, kronologi, dinkes, meninggal.",
-   "judul_utama": "Dinkes DKI Ungkap Kronologi Bayi Meninggal Usai Dirawat di RSUD Tanjung Priok Jakut",
+   "label": "RSUD · Tanjung · Priok · DKI",
+   "skor": 39.5,
+   "ringkasan": "Isu ini dibahas dalam 20 berita dari 12 sumber pada 24 Nov 2026. Inti pemberitaan: “Dinkes DKI Jelaskan Kronologi Bayi Meninggal di RSUD Tanjung Priok”. Topik yang sering muncul: rsud, priok, tanjung, dki, meninggal.",
+   "judul_utama": "Dinkes DKI Jelaskan Kronologi Bayi Meninggal di RSUD Tanjung Priok",
    "kata_kunci": [
-    "jakut",
     "rsud",
-    "kronologi",
-    "dinkes",
-    "meninggal",
-    "tanjung"
-   ],
-   "sorotan": [
-    "Bayi Meninggal Usai Lahir di RSUD Jakut, Dinkes DKI Siapkan 6 Langkah Perbaikan Halaman 1 (Kompas.com)",
-    "Kronologi Lengkap Bayi Meninggal Pasca Lahir di RSUD Tanjung Priok, Dinkes DKI Ungkap Penyebabnya (Bewara)",
-    "Kadinkes DKI jelaskan kronologi bayi meninggal di RSUD Tanjung Priok (ANTARA News)"
-   ],
-   "sumber": [
-    {
-     "judul": "Dinkes Jakarta Buka Kronologi Meninggalnya Bayi di Tanjung Priok",
-     "tautan": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONndxcVZLQm5Hcm5mSjFYMktTaW1xOFdJRDlnVTI4N2RpbDRzbUhXcWItQU1nX0drMFN2RDVmVHh6TnZZdTB3eFJ4VWJEVXBhbWVjeU1VT2QwSG1yZFp1TkM5N0VSU2Y3UjI2RVFzZ2FzVFRRN3M2bVQ5ZVNsQUJoRkNWNEUwX3FCOWxCOGZ3OE5TS0huN1hmMzJDME5EU3pYb3g1WWlaNmtlZGtaM0M0Vg?oc=5",
-     "media": "BeritaSatu.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T17:10+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Kronologi Bayi Meninggal di RSUD Tanjung Priok Setelah Sulit Cari Rujukan",
-     "tautan": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdl9VRFI2SDNYaHNJNFlWejdxZGwtc3hYOFVXMXNCenNHY0ZBOF9vdi1KZ1hKYloxME52a25vM3hLbEJnMEVaWFhRSm03dThYeUlkS3FDeFg5WXNpeWF5WktjR2RPdzZuWDRmTmxsWEE2WkRyQy02S25jbTBoODVZWmV5OW9lMzRNTGwtUGk2cVd6RWxMSmFPRDAxQXBScE9lR2haNHFWclZBcm9acXfSAa4BQVVfeXFMT3ZfVURSNkgzWGhzSTRZVno3cWRsLXN4WDhVVzFzQnpzR2NGQThfb3YtSmdYSmJaMTBOdmtubzN4S2xCZzBFWlhYUUptN3U4WHlJZEtxQ3hYOVlzaXlheVpLY0dkT3c2blg0Zk5sbFhBNlpEckMtNktuY20waDg1WVpleTlvZTM0TUxsLVBpNnFXekVsTEphT0QwMUFwUnBPZUdoWjRxVnJWQXJvWnF3?oc=5",
-     "media": "MerahPutih",
-     "platform": "Google News",
-     "terbit": "2026-11-24T15:57+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Kadinkes DKI jelaskan kronologi bayi meninggal di RSUD Tanjung Priok",
-     "tautan": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkpTRktnVUZmUWQxcHNZNUpMajA3cFZUcmNBOXhyQXBoS1NfbWtraktoTmZSQjEyWm5lNkFVZk1LLWVWRzduejlMdmFSRjN5aElCb0tHU2V6RFdPb0dULVZqdTRKVEI5TS1DNFV5OU5LUUtmN2VLZmlFN2o4d3dHd1BrdnVOQ1IxaWhyM3R6TlBOalkwcVN4bVFnMlJQYi1PWmNXdzNHUzk5ZElPUEV3?oc=5",
-     "media": "ANTARA News",
-     "platform": "Google News",
-     "terbit": "2026-11-24T15:44+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Dinkes DKI Ungkap Kronologi Bayi Meninggal Usai Dirawat di RSUD Tanjung Priok Jakut Halaman 1",
-     "tautan": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTV84STBfN2tVUzhSQjZuYzR6RGtGTmIwR20wRGI4QnJPSHhndXBhV0JfZXRIbWZGekQtOGU2MHZRZ1lSa1ZzM1l0RlltSmx0TkxWZ0tIVzJWNVZVRUJhWUpBYzBodlhsVlJja0tCOTlhUWZGZVhUaVNIZmtEM05SS1hLZ2VHN1BZejJHblRDeEVOLWNsVlpNODFVRXVRLUlVWEE5RUZ0NDB1dmNBRGNWVWNQVHMzczBxMVpUVEU1NExweGZCUDJBaDVqeU5tREV6?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T14:03+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Dinkes DKI Ungkap Kronologi Bayi Meninggal Usai Dirawat di RSUD Tanjung Priok Jakut",
-     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNckZlbGtVWHYyLWs3Tm5QWmVrTWJ1aFR1dHo3WlZMaW1mb0pLQ1ZWaG1fdERmMlBfMHp0RVZkZmVOMDRNUmlYZHh4QlNNV1oyRjdTQU4yZ0ZBSFhsWHZCTERHN2dGdTYwaDM4MDMtR25WMlMzbUltOFZTYlRoYmpnSU9Qd0NkNjdpcmZhZ2VaMXBBYi1pbmMzUzZfUWZ5NUhsYTdOMFVPUXRYNWRFTU9rWk9RRGttTXFIdW02dXdpU2o0UGlZR0E?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:51+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Kronologi Lengkap Bayi Meninggal Pasca Lahir di RSUD Tanjung Priok, Dinkes DKI Ungkap Penyebabnya",
-     "tautan": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHlEV1F4TmtrZmRncWRibG92bUpJbHZ6UkVXM080RVFkVXJGWmZ0Nm9xeE94NFlZUVNWWnk2V2ktcFMxaWtFOFlYRjJlaklUU0hTWFB3bmZOOFdNekFNWFpjVG9XTDFWbDFkNS01OF93aW5hNlJ1cmJvdlFyRUppZUVFRnAyZmg1YkZFczdHcmVmNFBUMkRXNVRQc08wLTctTFhGTVpwcGN2WEVSX2tVbnZCQ3AzUjV6?oc=5",
-     "media": "Bewara",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:28+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "7 Kejanggalan Kasus Bayi Meninggal Usai Lahir di RSUD Tanjung Priok Jakut",
-     "tautan": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcS1DVGM0YnJRb1I2S01kNHczelRoUkRUek05OEE0NkdSTUVvdHRISGtLZGduOE1Jb0RvMU5MRTNHdlFZS1EwNldlWGNTMUpyOHFvT29KSnlMX1Z3X3JXb2hmOXM3Vm1oZV9EckxYOGZxUVNGREM0Rk1NUUVKQXVRUm9ZdTVsTHpZSER1bTFKRG9aR0Q2eEFpODItTGxTeEtxeGlKMDg2RTBpWnQtdHdwWmRGRWVJYXpkZlZjVldnQUJiSlFuWEtzMw?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:26+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Dinkes DKI Ungkap Audit Kematian Bayi di RSUD Tanjung Priok",
-     "tautan": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvTF81NzB3YnIzRkJuSTByLU1RVUtra005U3Rhcktha21NTTlfZXk4WkJXZGxRc3hROE5hTTQ0LTZEeGM2R3dUUHR4ak9vdEZBT0s0bGdGY29JWFllVnAtQnZDUnhDSTlvSnFlVFc4VQ?oc=5",
-     "media": "Limapagi",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:21+07:00",
-     "cuplikan": ""
-    }
-   ],
-   "artikel": [
-    {
-     "jenis": "sumber",
-     "media": "BeritaSatu.com",
-     "judul": "Dinkes Jakarta Buka Kronologi Meninggalnya Bayi di Tanjung Priok",
-     "url": "https://www.beritasatu.com/dki-jakarta/3043531/dinkes-jakarta-buka-kronologi-meninggalnya-bayi-di-tanjung-priok"
-    },
-    {
-     "jenis": "sumber",
-     "media": "ANTARA News",
-     "judul": "Kadinkes DKI jelaskan kronologi bayi meninggal di RSUD Tanjung Priok",
-     "url": "https://www.antaranews.com/berita/5874771/kadinkes-dki-jelaskan-kronologi-bayi-meninggal-di-rsud-tanjung-priok"
-    },
-    {
-     "jenis": "terkait",
-     "media": "NU Online Jakarta",
-     "judul": "LKNU Jakarta Desak Audit Pelayanan RSUD Tanjung Priok Usai Kasus Kematian Bayi",
-     "url": "https://jakarta.nu.or.id/jakarta-raya/lknu-jakarta-desak-audit-pelayanan-rsud-tanjung-priok-usai-kasus-kematian-bayi-PmLsp"
-    },
-    {
-     "jenis": "terkait",
-     "media": "Aktual.com",
-     "judul": "Anggota Komisi III DPR Minta Polisi Proaktif Usut Kasus Kematian Bayi di RSUD Tanjung Priok",
-     "url": "https://aktual.com/anggota-komisi-iii-dpr-minta-polisi-proaktif-usut-kasus-kematian-bayi-di-rsud-tanjung-priok/"
-    }
-   ]
-  },
-  {
-   "id": "acfbea8f8da1",
-   "tema": "bayi",
-   "peringkat": 2,
-   "label": "Ambulans · Khusus · Tambah · DKI",
-   "skor": 22.7,
-   "ringkasan": "Isu ini dibahas dalam 9 berita dari 8 sumber pada 24 Nov 2026. Inti pemberitaan: “Dinkes DKI Akan Tambah Ambulans Khusus Usai Bayi Meninggal di RSUD Priok”. Topik yang sering muncul: ambulans, khusus, tambah, dki, pemprov.",
-   "judul_utama": "Dinkes DKI Akan Tambah Ambulans Khusus Usai Bayi Meninggal di RSUD Priok",
-   "kata_kunci": [
-    "ambulans",
-    "khusus",
-    "tambah",
-    "dki",
-    "pemprov",
-    "dinkes"
-   ],
-   "sorotan": [
-    "Ambulans Khusus Bayi di DKI Cuma 2, Keduanya Dipakai Saat Bayi RSUD Tanjung Priok Butuh Rujukan (Kompas.com)",
-    "Pemprov Jakarta Tambah Ambulans Khusus Seusai Kasus Bayi Meninggal (BeritaSatu.com)",
-    "Dinkes Jakarta Bakal Tambah Jumlah Ambulans Khusus Bayi (CNN Indonesia)"
-   ],
-   "sumber": [
-    {
-     "judul": "Evaluasi Kasus RSUD Tanjung Priok, Pemprov DKI Siapkan Armada Baru Ambulans Bayi",
-     "tautan": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGE2MUpmTlN4Q1lWMS1TTU1QYmNzXzhQdlR6dDNQWmtWSXpvMDdDQ1VfYXdScmJObUN5SVhDdVowTDd4ZXRkMDVPd1lHYmUtODQ4OGg1OHQwbVM2M1A4S3E0Skd4R0gyZ3ZhcWtTWU13WGp4ZDE3YU9sVk5icF9qUHhqWUYtSUVqVUVvZXhRc3RCdFlxME5IZUlRWFNNTUFBVVlOOXZaa3czdktWR3hEMw?oc=5",
-     "media": "Jakarta Review",
-     "platform": "Google News",
-     "terbit": "2026-11-24T20:05+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Pemprov Jakarta Tambah Ambulans Khusus Seusai Kasus Bayi Meninggal",
-     "tautan": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSE1RRkR5NmtDTFlEQTJjUVR2ZXV1RThKNFFfNU9RVTVETTNEVHYwQlktempYR0tqLW1tQ2dxRXp1WWR3clhFc050c0VIZU5uV0R4U0xURlJVTkktM0tUOU5OTUNDMmZPMXBicTBNQ3NEOE9nM1h3ejY5Sy1oemJIYTJXblFqV01LTlk3X2dabDBUVTI4RXVBSnYzZHFlaDhpSGtjQUpkN0Y1ZWg3S3E4dF9CWQ?oc=5",
-     "media": "BeritaSatu.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T19:03+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Pemprov DKI akan Tambah Ambulans Khusus Bayi demi Kurangi Waktu Tunggu Pasien",
-     "tautan": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjA4QTRYNndzbnJYa3U4QWRoVTA5N05Dc0Z3Yk54eXAySnVsMnFlYTRaMUFTTUZESW10Y29kYlVZaWhKTGVWRURoTWUzQ0dMSXZ0Ynp6NTVVV0dYcG1SckZuRTFPZ1pRSHY5aGxRMFVPLV9GTEdJbVVMeDZPNmF2bnFSOWF6UzJ0S3ZHeTNRLXhCRzhuNjBVWVYyV0V2MGlSRmhxNV9zU212LWpkcnpmSmdkdGpibmZWbUJya2FZLW5wRDA?oc=5",
-     "media": "republika.co.id",
-     "platform": "Google News",
-     "terbit": "2026-11-24T17:43+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Dinkes DKI akan tambah armada ambulans khusus bayi",
-     "tautan": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUHFCTHdNRnE3WXg3ZUw2a1Y0T1lTc3kxdURzZE1ZdGJQdFBEbExSckxYVDYzaVlSSlRNTkRaZUxWNHp0S2QwUmJzWnl1TEpLNDZOdGR6cnlrYXlmcWFRaFRfN1ZJem5CdG9aYTJtNEFPbVloOF9JU0IweWVlNXotYVBHd3hTUUV6OGVjbVNzV29PQkZBTTRfM2pMM1VPOHVqcDF4LXRMb0k5SkdGaFNzYVdyX2V5TnBjVHVQWDVuRnVyN2tFWFZGLVRwRW1xczRBV3p4YzR4Z2hOM0V4TWRvOXIySGZ4bUZVOXpQbkhvMnJoZ9IBmgFBVV95cUxPSUo0Nk9kM0pqV3cxUlZPaE5jZFE4QkF5M01GUmNZSEtXdUZQUlM1LU4wRWJmUTVzUTVEbmJGWEYxQjUwYUhpT0RvLW9mTlhBZ0tuQUhIakhTNVVQUVN2TWlmUVB3OXd4Y0l0b2EwMG96ZlZzcGNrazRFbWdEa3lwLUFxV1Z6eFlJR0xEcXVzVkZBQ3IyYW83OW93?oc=5",
-     "media": "ANTARA News",
-     "platform": "Google News",
-     "terbit": "2026-11-24T17:00+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Dinkes Jakarta Bakal Tambah Jumlah Ambulans Khusus Bayi",
-     "tautan": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXVkM2tFR1lsaDA0WkpMaER4N1NJR1FVdWU0dHlKZVRQNUlXR3lhZEFpRTBKT0FDdkU5QzZ5aF9kSzFtRUVHWkQ0ZmozMUluX2dLTGV4NW9SWWhSQWZ1Y0EyUXlPMXl3TEZ2YkNKYVcxSHJad0lZcTJTdWtxQkZhWExKMGc4bkx1WUw5aVhUYXBKQlh3Tk91SDk0NXgxUFpuLUoycHhJVUw1MndBMUlXV3NMU2NDVnk1QkJv0gHAAUFVX3lxTFB6cWRiNHFwc01qajFDNTR0LURSbHYyeDNkT0J3WjFXYXIyQ25RNnZCRXBENzhrbEdUaDlsNzRIcndaU2QzZ2VmQUxtVUR1Z1htVnlJR1BoOGJzWUpzSlgxazBPN183U1FHdERVMnBZeE1zeW8wdTJuSVZiOGJlZWZqQ09Yb2drS2VBbTcxcjBLMXZZejljQU5tOEVYTTEzUEUxUFhOT2psOVBZdjZ6YlY3Nk03SEFfMXNaelR0T3JkMw?oc=5",
-     "media": "CNN Indonesia",
-     "platform": "Google News",
-     "terbit": "2026-11-24T16:29+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Ambulans Khusus Bayi di DKI Cuma 2, Keduanya Dipakai Saat Bayi RSUD Tanjung Priok Butuh Rujukan Halaman 1",
-     "tautan": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOREFqU2cwUlRoY1FyLTF3YVdNdnVUcFlQdC1WMVMtRnFEU2xsQmpWMWNhMUxsaGhqelZKN0hiVnhfS3A0bEE2YXUwNGkzbGYxN2hrR1MwcXFNUFBvMWI4U0JoQVcxRl94QnM1QjV1LWZVRERQamUxOTViV1p6Z1czdlVLdzZEYThXNkNqM0FWaWYtTF8taU45VXRTQy04cWJSTnJmWFA3LXBJLXFGUnVWODBWeTBMa0pxT2tYbGtkcU05SlFtX3dXWnNn?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T14:22+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Ambulans Khusus Bayi di DKI Cuma 2, Keduanya Dipakai Saat Bayi RSUD Tanjung Priok Butuh Rujukan",
-     "tautan": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMWZ2bVZSSDBRei1Ucko5QVdyaTBqTmlWcDlHZXE3R0Z4T0Q0X2hOZzI1ejc3dGQxUHB5aFA3OVBJbTFCTkZzNDNjT09WbnBDVzI0eEdWVThqT3o4QWFUUkZfV3g1N0ZBRU9yUWZ1bXZaNXBlNGRfcTNqaTdzQlllNnlDSUZtdUszWVNraU5QS2tsd1ZKN0RoX3M3ZzZzckhwSDA2NGc3NmtEbVlJWThOdDhLUVREOHZJSmlMeGZHcGczNV81a0FVdjVqamIxTkZBbjhQQ01obmtHaUFFck8ydlVtbU9aQTdzR0kyNVh6VVVFdHBBM1lmVzJHcTR4dlpCY2pIandOT09DdkNrcmpqeEN1WGxEMjdKRGc?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T14:12+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Dinkes DKI Akan Tambah Ambulans Khusus Usai Bayi Meninggal di RSUD Priok",
-     "tautan": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGdXNTdFaE1KRmRvQm10RHJYSFlyVmkwV3JPWE53QVpsck1rUEQyTU9JX0tzNE4zbXc1cmp1azNFV3BLSjJCSDB2RXpIZzlYdFRUMUxLbGhvWENwTDlIa01FT05vY0JRVndpcnkyUzdIaVd1UHo0ZC1naVp2Nk9DcVhacHhTV3VLeWZjUnlzSy1qbGNCcVdfRzNia0huaHlvTGx4UlU0SXk4QlV3UWt0Rkpn0gG3AUFVX3lxTFB6TkhFeUlPTU5RS3dwZUJFY0EtbHNPaW55V3VTWjVrNWNYSS1SOVBIQmRRNmx1aDhvT2NuNUUxclVpclhUZjJiU0k5VURFc25TUW9zVjlJX3VhMkxnbFM1eTRfRDRPZW0zLTg1dUUxZjFqMDdfNTR6Z3dULUllNzRDeW83ZHpBNWJucUlhX1RCNVJKWTNLWGVMVGpZc2ZjbWRNU1pMZ3NMRDVFdGR3dUZDYnotaGQ3aw?oc=5",
-     "media": "detikNews",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:42+07:00",
-     "cuplikan": ""
-    }
-   ],
-   "artikel": [
-    {
-     "jenis": "sumber",
-     "media": "Jakarta Review",
-     "judul": "Evaluasi Kasus RSUD Tanjung Priok, Pemprov DKI Siapkan Armada Baru Ambulans Bayi",
-     "url": "https://jakrev.com/megapolitan/evaluasi-kasus-rsud-tanjung-priok-pemprov-dki-siapkan-armada-baru-ambulans-bayi/"
-    },
-    {
-     "jenis": "sumber",
-     "media": "BeritaSatu.com",
-     "judul": "Pemprov Jakarta Tambah Ambulans Khusus Seusai Kasus Bayi Meninggal",
-     "url": "https://www.beritasatu.com/dki-jakarta/3043559/pemprov-jakarta-tambah-ambulans-khusus-seusai-kasus-bayi-meninggal"
-    },
-    {
-     "jenis": "sumber",
-     "media": "republika.co.id",
-     "judul": "Pemprov DKI akan Tambah Ambulans Khusus Bayi demi Kurangi Waktu Tunggu Pasien",
-     "url": "https://ameera.republika.co.id/berita/tp05t7425/pemprov-dki-akan-tambah-ambulans-khusus-bayi-demi-kurangi-waktu-tunggu-pasien"
-    },
-    {
-     "jenis": "terkait",
-     "media": "bsinews.id",
-     "judul": "Dinkes DKI Evaluasi Rujukan Bayi dan Tambah Ambulans NETS",
-     "url": "https://bsinews.id/dinkes-dki-rujukan-bayi-ambulans-nets"
-    }
-   ]
-  },
-  {
-   "id": "cb877ef8f18b",
-   "tema": "bayi",
-   "peringkat": 3,
-   "label": "DPRD · DKI · RSUD · Priok",
-   "skor": 17.8,
-   "ringkasan": "Isu ini dibahas dalam 7 berita dari 6 sumber pada 24 Nov 2026. Inti pemberitaan: “DPRD DKI Pertanyakan Audit RSUD Tanjung Priok soal Bayi Meninggal, Minta Bidan Diperiksa - kumparan.com”. Topik yang sering muncul: dprd, rsud, dki, priok, tanjung.",
-   "judul_utama": "DPRD DKI Pertanyakan Audit RSUD Tanjung Priok soal Bayi Meninggal, Minta Bidan Diperiksa - kumparan.com",
-   "kata_kunci": [
-    "dprd",
-    "rsud",
-    "dki",
     "priok",
     "tanjung",
-    "soroti"
+    "dki",
+    "meninggal",
+    "dprd"
    ],
    "sorotan": [
-    "‎DPRD DKI Minta Standar Pelayanan RSUD Tanjung Priok Dievaluasi Usai Kasus Bayi Meninggal (GoNews.co)",
-    "Kasus Bayi Meninggal di RSUD Tanjung Priok, Komisi E DPRD DKI Soroti Komunikasi Tenaga Kesehatan (Tribunjakarta.com)",
-    "\"Kenapa Harus Pakai Orang Dalam?\" DPRD DKI Pertanyakan Pihak RSUD Tanjung Priok soal Rujukan (Kompas.com)"
+    "Dinkes DKI Ungkap Kronologi Bayi Meninggal Usai Dirawat di RSUD Tanjung Priok Jakut (Kompas.com)",
+    "Dinkes DKI Ungkap Kronologi Bayi di RSUD Tanjung Priok yang Meninggal Pasca Persalinan (Pikiran-Rakyat.com)",
+    "Kasus Bayi Meninggal di RSUD Tanjung Priok Jadi Sorotan, DPRD DKI Minta Layanan NICU RSUD Dibenahi (Tribunjakarta.com)"
    ],
    "sumber": [
     {
@@ -681,6 +520,22 @@
      "cuplikan": ""
     },
     {
+     "judul": "Kasus Bayi Meninggal di RSUD Tanjung Priok Jadi Sorotan, DPRD DKI Minta Layanan NICU RSUD Dibenahi",
+     "tautan": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQlBOOC1XX3ZLaTNWa2NXdHZ2MWRLZFN1ZUk1SEEzZklPWFpwbHBoNGQtcUVKMThoU3ZkUTRFX1hXeV9maTN3R1Q4U3hhRWZDZ2Ezcndycnh3RmZxN2ROZXM0Qk1IN0wweEZiN05zX3c3ODE4UmpjU1JKNjN0Z21OWnRzWXBhcVNUWGFxM18wNVdZRDZPTlY0Sy1GRWNHMVBwWE12S0dfbjNFRk9OcHlCeW9NNlNhaHJNR0tMMENkNkkzOGVkMmdWYnBwazZPTHhLT29ZeDZYdFJXVUU?oc=5",
+     "media": "Tribunjakarta.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:49+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Kadinkes DKI Ungkap Kronologi Bayi Meninggal Usai Dirawat di RSUD Tanjung Priok",
+     "tautan": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmxrTzV6WDR3TU1pUTkyWUhXMHN3bDkxLVRCRWk2Yk5uX3dYODRyM1dSWTQxNGtGZEZqTG5BdEZ5YkcxRXloTlgzMkt6LWVkbGlGS2IwY2dFTVJKY3pncHplTjNiRS1LTl9RelExcE1VYXlGb212Q3VFSEdsOEtNRzd6UWdCZ25RUmpjM01zZHl2Q2tFWGhiMkhDUXpobFM1NUw1Y0VlZ2EwSTVnZ29SUFdpdHRrZkJqTE5CSi1UQ3PSAcYBQVVfeXFMTVNtMGE1dTdMM0Frekh3bFI1SXlBVy1WVVU5cTl2cmU0Z2ZhOF94cjNiSE53ckFhanFxXzdRTG9hMmIzVFN1OXFNa0ZqVGh3TkVpZW43aTJzMXFYaHhuM3BqckxaUE1ZOE1rTWc2TF9ESnRYWXNRVUcxenB0cVduaTFJYkRPSmdyRWMySElYNzI4bDl2QWNLaWhBNU41YV9GX1hqUFpxLWdiVXZrcmlvVHNrUnpaVlJERXBmUTNyVHdzUnk1VmJB?oc=5",
+     "media": "VIVA.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:44+07:00",
+     "cuplikan": ""
+    },
+    {
      "judul": "DPRD DKI Pertanyakan Audit RSUD Tanjung Priok soal Bayi Meninggal, Minta Bidan Diperiksa - kumparan.com",
      "tautan": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZW1QVzZXMm1aTE1adUFWa3BSS293akpjLUhPVVM3R241N3dsdnRJNllxbmFGNmFxOWJlbWFkOERqNklzUnFzQ1M3akkwMXpqVlVtdS1ENTRvME5kYnl0SC1yQldqeXFnSzFGWHFybUdWRDB5VEJ4M2hfZVdOT3BwS2ItNmNkWXlBWVplSnFCSnNtSkVrdWZLOUJibm5WMW5temRXUDlxTzZWb0ZvRzlnMmNCOEhUbC1WSUxWc0RRZmJ2bk9GR0RxajJjWHlud9IB1gFBVV95cUxPRXhnWHE2YkVqcHpwTEtpOVYzaDVjd3hqOEdfMWVmb2duNmZUSjk5aGo0a0V1dVd0S3RUTHViZ3dqc2JWc0w4UHlNT0lCVjZQQ3JLNzM0RHhkZTlETml3S3pVYWEyTkFKZjBHTDhkSlV2R2lrTkpiRE5hM0cxeW1VSmxrVEk3c3N4SG1wSUFkTEEzdEtxOEV5TVNWY0FIa1FtYklFa0ltU2E0aFBpMG1pVXBQUjF4ejRwcHdCTWZ3SjE1V2t1RFpCZXhRUFJMa282Q05UWDRR?oc=5",
      "media": "kumparan",
@@ -689,27 +544,19 @@
      "cuplikan": ""
     },
     {
-     "judul": "DPRD DKI Soroti Waktu Tunggu Ambulans Bayi hingga 5,5 Jam dan Minimnya NICU di RSUD - kumparan.com",
-     "tautan": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1AxMGlLdU9sTEVMbnhXX1BVZ0FLWGY2bE9uWFVGWHdzdl9Zbm9RTU9GYlBvdmQyYWpFd1lEOV8yaFRhSEd2N3Vab29JZnE3YTR3SmZiQkZBckFlei13VEVtcjhkVFNFRDB2VDZnVnp0UWVfeU9hbTVtWWVJdURQQmY4N2t3MEQ5UjNrZTViSk9lZjNGSmFKWTk4YlIxLUVrZERBbmpFdmhSS2Z2QnBLVGo3QWwtbW5hRklxQUlRUFMwck5Na29xc9IB0AFBVV95cUxPZXB6Xy1iZjcweEJ1Qi0zdENLenZkdzJ2ckMzdjg4SGM4M29ZeTZtNE9rWFc1MjVuR3FNNTNkUG1xajQ1UGltTVlvX245ZjUwbGM2U1RIOWlMR0dCYmowRXlWVVNWa1R1Vl9vTXZCNEtEby1uWUY1M3B4bEh4QVp4c3dwNnU0eVFGcFVjUHhCd3NTYjFNc2tlQzhNZktpbGc0cUU1aGY5d1hTLUtXTmlJQXpOdlVMXzJVMXBsXy1LbFc4dkUyU2RYQlhLaGFtWWVB?oc=5",
-     "media": "kumparan",
+     "judul": "Dinkes DKI Ungkap Kronologi Bayi di RSUD Tanjung Priok yang Meninggal Pasca Persalinan",
+     "tautan": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPal9sWVFXMk5PT3ktNTlicUhWNEZEN3hETGYtNXZBaDN1Y205ZEMzMVRhYWx4cm9sWXRXaVlicjUxdXZUbGgwT0VaUmp0akFvRkJFb2V3bkVtX3pWR0R1WFg5ckJLcXU2aXdFVW12Sk9YT2NiNVNvM0NIWGdWMl9ab1hUNFh1TXhYMDMzTXZuczZQUEZmdXVSckduMVJ1WnQwRzBfZzR1aGtxaHJzYlFmSmtfMGFUbnE5V1hDX3BTMW1rcmYzRWFBT1RBZFVUTm1JY1E?oc=5",
+     "media": "Pikiran-Rakyat.com",
      "platform": "Google News",
-     "terbit": "2026-11-24T14:32+07:00",
+     "terbit": "2026-11-24T16:00+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Sorotan DPRD DKI: Gunting Tumpul hingga Lambatnya Rujukan Jadi PR RSUD Priok",
-     "tautan": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2g3WEYxSUxGYWRiMGZhQVgwLUU4N0dLQzI2R2w0c0F6dmFDZlJ5ZEs1Yi04b194cjR1RHlPT1hjUlFzcWxobVNSdGNVNU1JdzFLZlBCX1hGZEt6M1B5cUxMWlRJdmFKRElxaFpRS21WUXEzUmNadVVJaDlQSnFYZVRnRXhXMlNuTGR6MFlVSkhpRmxiOENUbl82TFI?oc=5",
-     "media": "Bewara",
+     "judul": "Kronologi Bayi Meninggal di RSUD Tanjung Priok Setelah Sulit Cari Rujukan",
+     "tautan": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUgtaFpIWjlJY05fcXdUb29wSWZKQ3dqNG81d3JrMmt6LWh0WDRlV3NIQkZJVDMyNkZza2lLMS1JYVlaMDR1RmF1dmJsTVFkNlZhTGhId243QVdnNHNQemozc2Q1b1l2YWZMZHA1b2lYZVVGYkwyYWU3UHc2aFNuRUE4dGhhd2YzWTR4STBHdXpKTHowVDFhZnVwWmk3enZWc0IwelZSSExTVU1pRkE40gGuAUFVX3lxTE92X1VEUjZIM1hoc0k0WVZ6N3FkbC1zeFg4VVcxc0J6c0djRkE4X292LUpnWEpiWjEwTnZrbm8zeEtsQmcwRVpYWFFKbTd1OFh5SWRLcUN4WDlZc2l5YXlaS2NHZE93Nm5YNGZObGxYQTZaRHJDLTZLbmNtMGg4NVlaZXk5b2UzNE1MbC1QaTZxV3pFbExKYU9EMDFBcFJwT2VHaFo0cVZyVkFyb1pxdw?oc=5",
+     "media": "MerahPutih",
      "platform": "Google News",
-     "terbit": "2026-11-24T13:14+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "\"Kenapa Harus Pakai Orang Dalam?\" DPRD DKI Pertanyakan Pihak RSUD Tanjung Priok soal Rujukan",
-     "tautan": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUHAtNDZ0cmN3TkVHbTFHLU9rUTZlU01OUW9fRDh2amVyckpaVVByb3VFdmcwM2t2WWFuRF81Y2YzYk85TVR0d05XY3I2Y1Q3bmRlbWJQUW5iT0xRVXl2bGhDTmhpMFZrVGNtT05OeU1qeXhRX2U1aW5zcXVMT3Q3Tm9xUWlYTE9rQlI4SnRMTll1MHIyRUZyazUydXhTdEV2OEx2RDk5VmFqWnFUbHpkMnFLNTdnNlM2d2duUHQzUzEyWXFLd0JtbDY2QVBaai1hRjBjVGNBc3BLcXhH?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:06+07:00",
+     "terbit": "2026-11-24T15:53+07:00",
      "cuplikan": ""
     }
    ],
@@ -722,222 +569,417 @@
     },
     {
      "jenis": "sumber",
+     "media": "VIVA.co.id",
+     "judul": "Kadinkes DKI Ungkap Kronologi Bayi Meninggal Usai Dirawat di RSUD Tanjung Priok",
+     "url": "https://www.viva.co.id/berita/metro/1946051-kadinkes-dki-ungkap-kronologi-bayi-meninggal-usai-dirawat-di-rsud-tanjung-priok"
+    },
+    {
+     "jenis": "sumber",
      "media": "kumparan",
      "judul": "DPRD DKI Pertanyakan Audit RSUD Tanjung Priok soal Bayi Meninggal, Minta Bidan Diperiksa - kumparan.com",
      "url": "https://kumparan.com/kumparannews/dprd-dki-pertanyakan-audit-rsud-tanjung-priok-soal-bayi-meninggal-minta-bidan-diperiksa-28dSD2aJzf1"
     },
     {
      "jenis": "terkait",
-     "media": "NU Online Jakarta",
-     "judul": "DPRD Jakarta Dorong Keluarga Bayi Meninggal di RSUD Tanjung Priok Tempuh Jalur Hukum",
-     "url": "https://jakarta.nu.or.id/jakarta-raya/dprd-jakarta-dorong-keluarga-bayi-meninggal-di-rsud-tanjung-priok-tempuh-jalur-hukum-a9NY4"
-    },
-    {
-     "jenis": "terkait",
      "media": "detikNews",
-     "judul": "Legislator Soroti Bayi Meninggal di RSUD Priok: Kenapa Ada Gunting Tumpul?",
-     "url": "https://news.detik.com/berita/d-8767287/legislator-soroti-bayi-meninggal-di-rsud-priok-kenapa-ada-gunting-tumpul"
+     "judul": "Dinkes DKI Jelaskan Kronologi Bayi Meninggal di RSUD Tanjung Priok",
+     "url": "https://news.detik.com/berita/d-8767321/dinkes-dki-jelaskan-kronologi-bayi-meninggal-di-rsud-tanjung-priok"
     }
    ]
   },
   {
-   "id": "2094d1080f2a",
+   "id": "a29cc7aaf833",
+   "tema": "bayi",
+   "peringkat": 2,
+   "label": "Desa · Terara · Samping · Kantor",
+   "skor": 16.5,
+   "ringkasan": "Isu ini dibahas dalam 6 berita dari 6 sumber pada 24 Nov 2026. Inti pemberitaan: “Mayat Bayi Laki-Laki Ditemukan di Gang Samping Kantor Desa Terara Lombok Timur”. Topik yang sering muncul: samping, kantor, desa, terara, laki.",
+   "judul_utama": "Mayat Bayi Laki-Laki Ditemukan di Gang Samping Kantor Desa Terara Lombok Timur",
+   "kata_kunci": [
+    "samping",
+    "kantor",
+    "desa",
+    "terara",
+    "laki",
+    "ditemukan"
+   ],
+   "sorotan": [
+    "Polres Lombok Timur Dalami Penemuan Jasad Bayi di Gang Samping Kantor Desa Terara (Tribrata News NTB)",
+    "Polisi Selidiki Penemuan Mayat Bayi di Gang Samping Kantor Desa Terara (RRI.co.id)",
+    "Jenguk Bayi Laki-laki yang Ditemukan Pekerja Bangunan, Wali Kota Berniat Mengadopsi (seputarpapua.com)"
+   ],
+   "sumber": [
+    {
+     "judul": "Mayat Bayi Laki-Laki Ditemukan di Gang Samping Kantor Desa Terara Lombok Timur",
+     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHRCX3NVY3ZLUEgzNjBPa1lvSkFhYTJ5bklxNTM0NjB5YzdJc3NTNXZIOUhSWkJsNGRNdWFxdUhWMDBJNjFya2lESXhTRFJfZmkwNHZZSVMtSnhjelhJR3cyVmdualgwRUFiUWkya3JvNmc0UUU4X1ZDdmxJTzBldmFlU05Ka0ZZd19WMVhNOTZjVF80YUcyQXZVMmoyVXNIOE9TTkY0OUtfRlB3VGd5Nkd6TmxfMy1KTWxSaWZmM2ZFck1GZWfSAcsBQVVfeXFMUGh3Um5PajdwMGVKX045UXk0UjBfZ2tseWhIdEFPUzhCdDl6NWJCX1JMTEE5THNvWk9qS2xvNzgwQ3Qycnpfb1Q2R2dXLXhnRDlkY24yNkxYNkdTdlZlN3RLUmJmZDJnMzRIcEVSUjZNZFUtelg2MUFEbnNhX2EtYmpLc0RhcUMzNzdnc21QUE1JVktqNmxIOGtVVmZfVzIyc2ZzOE54Uk11UU03cWVfSVpxeklDeWNPSEE1cmt4dmthVXhFdElOamVvNHc?oc=5",
+     "media": "Lombok Post",
+     "platform": "Google News",
+     "terbit": "2026-11-24T23:35+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Jenguk Bayi Laki-laki yang Ditemukan Pekerja Bangunan, Wali Kota Berniat Mengadopsi",
+     "tautan": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnB6cTJtWnZxRnNtZlQ3cmhQUkJvLVotajRobXpjY3M4bDExN1VDdTV2V1FLeUJCM1RVUnFOeC16VnA1b3BjVm9HUXUzWWJRV29IWWdsRmlJTjQ4TnpMRVBVXzJpalNCR2JzTk5JUnYtaVo5V1NTMVdBalJWSU5ndXdVVkNxT0t2bzJsVm9SMWx3VGw2c0k5VmNIa0hLRG5VMExxaUxqU0xwNlhWbXJGRmQ2SW5fLWQ2?oc=5",
+     "media": "seputarpapua.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T20:33+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Geger! Mayat bayi ditemukan di samping kantor Desa Terara Lombok Timur",
+     "tautan": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjU3X25zWUE4UmxRUXJYcmJxUUpMaGoxTkx0cXJ3blBmWFRDV2tuYU5BalBQaU5iZjd5My1INk9tMGZqNmoxM2JURjRxMmptOXkyeWJNSl83QV9maWhHTHFsR0hHWGk4OFhuZTg2bmd4S013NU5uRXZ4b0s3WWl5N2NFTmhHRFcwZ0dlTktOU0lhVnFJejM1WA?oc=5",
+     "media": "kicknews.today",
+     "platform": "Google News",
+     "terbit": "2026-11-24T19:45+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Polres Lombok Timur Dalami Penemuan Jasad Bayi di Gang Samping Kantor Desa Terara",
+     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazVEODFDYW1tcVdwNEE0NGkza0IzYU8tVEtCUTFoa1g0NGNJVzVVWmstTkJKd054U3J2UERidWdQTS1NMHNuQnRUMjFmSF93THRRdkgyQ09BS0ZjZk9FajlsNnFPdjlMQWdSTlVNOFZmOThncUtWbUIzNXVNVjgwTWRNbkNYbVkzREd5UWxFTVRHQUx5ZzZ6cVlJZ1Z0bWc2a0pyZGlfWWozaC1IczJrSDZXQU9NZHB2X2dpT3F5eDJTandB?oc=5",
+     "media": "Tribrata News NTB",
+     "platform": "Google News",
+     "terbit": "2026-11-24T18:27+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Polisi Selidiki Penemuan Mayat Bayi di Gang Samping Kantor Desa Terara",
+     "tautan": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTzgwRTdlaWNPRDVRR080UWJfdUxzS1RpRlFBS3FXUXByclZDbnl6SXUyVEU4eHkxZHJRWFNfREEtRzlZQkJCX2RyWWtaaEVONEwySGtDU0dWcWpTX3hsUUdHUWNoYm9lUk94OVNmOFRLNlFmQmtrbXhJNTc0Z2VtZVFjMHYzSW1mX00wYWJoV0tDOENVbWN2LUNoc3dlWlNuUmIyYkxFbE1BRElTQXktNDFZdl9MR2c?oc=5",
+     "media": "RRI.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:54+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Bayi Laki-Laki Ditemukan Tak Bernyawa di Samping Kantor Desa Terara",
+     "tautan": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWG00UFJyMFdPamZldDJrOTVaaUgxeEFaR2hXcmMyZkZ4bXoxbTJvVldzYXk1M2dEV3dHU3k2aEJmMkZUWjB2UHJtdzZXc19xTHdGdFlpZGc4VUxzM01mbVd6NGhDNTBnNlVlVm4wTHlCd2xnMjlmX3ZtWWNKdDNyUGtZWURhdk9EUjVJOFFxV1o3akp3MUZoWHdJc1Vfbk5IbXc?oc=5",
+     "media": "SUARANTB.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T13:57+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "Lombok Post",
+     "judul": "Mayat Bayi Laki-Laki Ditemukan di Gang Samping Kantor Desa Terara Lombok Timur",
+     "url": "https://lombokpost.jawapos.com/selong/2611240073/mayat-bayi-laki-laki-ditemukan-di-gang-samping-kantor-desa-terara-lombok-timur"
+    },
+    {
+     "jenis": "sumber",
+     "media": "kicknews.today",
+     "judul": "Geger! Mayat bayi ditemukan di samping kantor Desa Terara Lombok Timur",
+     "url": "https://kicknews.today/geger-mayat-bayi-ditemukan-di-samping-kantor-desa-terara-lombok-timur/"
+    },
+    {
+     "jenis": "sumber",
+     "media": "SUARANTB.com",
+     "judul": "Bayi Laki-Laki Ditemukan Tak Bernyawa di Samping Kantor Desa Terara",
+     "url": "https://suarantb.com/2026/11/24/bayi-laki-laki-ditemukan-tak-bernyawa-di-samping-kantor-desa-terara/"
+    },
+    {
+     "jenis": "terkait",
+     "media": "SELAPARANG NEWS",
+     "judul": "Penemuan Mayat Bayi Laki-laki di Gang Samping Kantor Desa Gegerkan Warga Terara ‎",
+     "url": "https://www.selaparangnews.com/2026/11/penemuan-mayat-bayi-laki-laki-di-gang.html"
+    }
+   ]
+  },
+  {
+   "id": "acfbea8f8da1",
+   "tema": "bayi",
+   "peringkat": 3,
+   "label": "Ambulans · Khusus · Tambah · Dinkes",
+   "skor": 16.3,
+   "ringkasan": "Isu ini dibahas dalam 6 berita dari 6 sumber pada 24 Nov 2026. Inti pemberitaan: “Dinkes DKI Akan Tambah Ambulans Khusus Usai Bayi Meninggal di RSUD Priok”. Topik yang sering muncul: khusus, tambah, ambulans, dinkes, pemprov.",
+   "judul_utama": "Dinkes DKI Akan Tambah Ambulans Khusus Usai Bayi Meninggal di RSUD Priok",
+   "kata_kunci": [
+    "khusus",
+    "tambah",
+    "ambulans",
+    "dinkes",
+    "pemprov",
+    "dki"
+   ],
+   "sorotan": [
+    "Dinkes Jakarta Bakal Tambah Jumlah Ambulans Khusus Bayi (CNN Indonesia)",
+    "Pemprov Jakarta Tambah Ambulans Khusus Seusai Kasus Bayi Meninggal (BeritaSatu.com)",
+    "Pemprov DKI akan Tambah Ambulans Khusus Bayi demi Kurangi Waktu Tunggu Pasien (republika.co.id)"
+   ],
+   "sumber": [
+    {
+     "judul": "Pemprov Jakarta Tambah Ambulans Khusus Seusai Kasus Bayi Meninggal",
+     "tautan": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSE1RRkR5NmtDTFlEQTJjUVR2ZXV1RThKNFFfNU9RVTVETTNEVHYwQlktempYR0tqLW1tQ2dxRXp1WWR3clhFc050c0VIZU5uV0R4U0xURlJVTkktM0tUOU5OTUNDMmZPMXBicTBNQ3NEOE9nM1h3ejY5Sy1oemJIYTJXblFqV01LTlk3X2dabDBUVTI4RXVBSnYzZHFlaDhpSGtjQUpkN0Y1ZWg3S3E4dF9CWQ?oc=5",
+     "media": "BeritaSatu.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T19:03+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Pemprov DKI akan Tambah Ambulans Khusus Bayi demi Kurangi Waktu Tunggu Pasien",
+     "tautan": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjA4QTRYNndzbnJYa3U4QWRoVTA5N05Dc0Z3Yk54eXAySnVsMnFlYTRaMUFTTUZESW10Y29kYlVZaWhKTGVWRURoTWUzQ0dMSXZ0Ynp6NTVVV0dYcG1SckZuRTFPZ1pRSHY5aGxRMFVPLV9GTEdJbVVMeDZPNmF2bnFSOWF6UzJ0S3ZHeTNRLXhCRzhuNjBVWVYyV0V2MGlSRmhxNV9zU212LWpkcnpmSmdkdGpibmZWbUJya2FZLW5wRDA?oc=5",
+     "media": "republika.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T17:43+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Dinkes DKI akan tambah armada ambulans khusus bayi",
+     "tautan": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZlR2b1hvb1RWMk9WWlRGaTBJSDZTNXRDV0FUT3NsYzEtbmw0QUYtcDR4dFpKS1duQ1VIZDV1Q2phVDUyMG1tbmNZaHRIYlBTeTFxOTZYX1FENzdXcE1NM2gzQ3pqM2s2YmRLaDhCbGJJYUVqdF82alBGb19tN0phV0hmdHljeDRHbUcxMWtQZi1rMEVaZDIw0gGaAUFVX3lxTE9JSjQ2T2QzSmpXdzFSVk9oTmNkUThCQXkzTUZSY1lIS1d1RlBSUzUtTjBFYmZRNXNRNURuYkZYRjFCNTBhSGlPRG8tb2ZOWEFnS25BSEhqSFM1VVBRU3ZNaWZRUHc5d3hjSXRvYTAwb3pmVnNwY2trNEVtZ0RreXAtQXFXVnp4WUlHTERxdXNWRkFDcjJhbzc5b3c?oc=5",
+     "media": "ANTARA News",
+     "platform": "Google News",
+     "terbit": "2026-11-24T17:00+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Dinkes Jakarta Bakal Tambah Jumlah Ambulans Khusus Bayi",
+     "tautan": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXVkM2tFR1lsaDA0WkpMaER4N1NJR1FVdWU0dHlKZVRQNUlXR3lhZEFpRTBKT0FDdkU5QzZ5aF9kSzFtRUVHWkQ0ZmozMUluX2dLTGV4NW9SWWhSQWZ1Y0EyUXlPMXl3TEZ2YkNKYVcxSHJad0lZcTJTdWtxQkZhWExKMGc4bkx1WUw5aVhUYXBKQlh3Tk91SDk0NXgxUFpuLUoycHhJVUw1MndBMUlXV3NMU2NDVnk1QkJv0gHAAUFVX3lxTFB6cWRiNHFwc01qajFDNTR0LURSbHYyeDNkT0J3WjFXYXIyQ25RNnZCRXBENzhrbEdUaDlsNzRIcndaU2QzZ2VmQUxtVUR1Z1htVnlJR1BoOGJzWUpzSlgxazBPN183U1FHdERVMnBZeE1zeW8wdTJuSVZiOGJlZWZqQ09Yb2drS2VBbTcxcjBLMXZZejljQU5tOEVYTTEzUEUxUFhOT2psOVBZdjZ6YlY3Nk03SEFfMXNaelR0T3JkMw?oc=5",
+     "media": "CNN Indonesia",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:29+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Bayi Meninggal Setelah Terkendala Rujukan, Dinkes DKI Evaluasi Ambulans Khusus",
+     "tautan": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmd3MEkzYTkyMzVGNnZNY2s5VmI4Sm5HQVlFN05NUW5jM0xOSTRjdzI5d0wwbEZwbnJMTEJkYlo5cXczcFpYYTlSdTJ6eW4xOWNzMVc4QVRyX01YWmJ3TXdEY042THVUZmV3c3dqUmVIOEVNVUJUSFRBWHVXTnVJVko4T3Fqa3NlejNHVm5ld3JDa2k4NzVFMFhyU1htYU5UYktReFItVDRSSXJBQTNfWTlfeWdVU2g0NXF2QXFhRk8yWWM?oc=5",
+     "media": "Wartakotalive.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:23+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Dinkes DKI Akan Tambah Ambulans Khusus Usai Bayi Meninggal di RSUD Priok",
+     "tautan": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGdXNTdFaE1KRmRvQm10RHJYSFlyVmkwV3JPWE53QVpsck1rUEQyTU9JX0tzNE4zbXc1cmp1azNFV3BLSjJCSDB2RXpIZzlYdFRUMUxLbGhvWENwTDlIa01FT05vY0JRVndpcnkyUzdIaVd1UHo0ZC1naVp2Nk9DcVhacHhTV3VLeWZjUnlzSy1qbGNCcVdfRzNia0huaHlvTGx4UlU0SXk4QlV3UWt0Rkpn0gG3AUFVX3lxTFB6TkhFeUlPTU5RS3dwZUJFY0EtbHNPaW55V3VTWjVrNWNYSS1SOVBIQmRRNmx1aDhvT2NuNUUxclVpclhUZjJiU0k5VURFc25TUW9zVjlJX3VhMkxnbFM1eTRfRDRPZW0zLTg1dUUxZjFqMDdfNTR6Z3dULUllNzRDeW83ZHpBNWJucUlhX1RCNVJKWTNLWGVMVGpZc2ZjbWRNU1pMZ3NMRDVFdGR3dUZDYnotaGQ3aw?oc=5",
+     "media": "detikNews",
+     "platform": "Google News",
+     "terbit": "2026-11-24T13:42+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "BeritaSatu.com",
+     "judul": "Pemprov Jakarta Tambah Ambulans Khusus Seusai Kasus Bayi Meninggal",
+     "url": "https://www.beritasatu.com/dki-jakarta/3043559/pemprov-jakarta-tambah-ambulans-khusus-seusai-kasus-bayi-meninggal"
+    },
+    {
+     "jenis": "sumber",
+     "media": "republika.co.id",
+     "judul": "Pemprov DKI akan Tambah Ambulans Khusus Bayi demi Kurangi Waktu Tunggu Pasien",
+     "url": "https://ameera.republika.co.id/berita/tp05t7425/pemprov-dki-akan-tambah-ambulans-khusus-bayi-demi-kurangi-waktu-tunggu-pasien"
+    },
+    {
+     "jenis": "sumber",
+     "media": "ANTARA News",
+     "judul": "Dinkes DKI akan tambah armada ambulans khusus bayi",
+     "url": "https://www.antaranews.com/berita/5875079/dinkes-dki-akan-tambah-armada-ambulans-khusus-bayi"
+    },
+    {
+     "jenis": "terkait",
+     "media": "radartvnews",
+     "judul": "Dinkes DKI Tambah Armada Ambulance Buntut Kasus Bayi Meninggal - radartvnews | Portal Berita Lampung",
+     "url": "https://radartvnews.com/2026/11/25/dinkes-dki-tambah-armada-ambulance-buntut-kasus-bayi-meninggal/?amp"
+    }
+   ]
+  },
+  {
+   "id": "c9499d01d067",
    "tema": "bayi",
    "peringkat": 4,
-   "label": "Modus · Adopsi · TPPO · KPAI",
-   "skor": 14.0,
-   "ringkasan": "Isu ini dibahas dalam 5 berita dari 5 sumber antara 23 Nov 2026 dan 24 Nov 2026. Inti pemberitaan: “KPAI Ungkap TPPO Bayi Indonesia-Singapura Modus Adopsi”. Topik yang sering muncul: adopsi, tppo, kpai, singapura, modus.",
-   "judul_utama": "KPAI Ungkap TPPO Bayi Indonesia-Singapura Modus Adopsi",
+   "label": "Mobil · MBG · Ciamis · Tewas",
+   "skor": 15.0,
+   "ringkasan": "Isu ini dibahas dalam 6 berita dari 5 sumber pada 24 Nov 2026. Inti pemberitaan: “Tragis, Bayi 1 Tahun Tewas Terlindas Mobil MBG di Pesantren Ciamis”. Topik yang sering muncul: mobil, mbg, ciamis, tewas, terlindas.",
+   "judul_utama": "Tragis, Bayi 1 Tahun Tewas Terlindas Mobil MBG di Pesantren Ciamis",
    "kata_kunci": [
-    "adopsi",
-    "tppo",
-    "kpai",
-    "singapura",
-    "modus",
-    "korban"
+    "mobil",
+    "mbg",
+    "ciamis",
+    "tewas",
+    "terlindas",
+    "bulan"
    ],
    "sorotan": [
-    "Modus adopsi ke Singapura, 25 bayi asal Jabar jadi korban TPPO (ANTARA News Yogyakarta)",
-    "KPAI Tegaskan Adopsi Bayi ke Singapura sebagai TPPO, Desak Pemulangan Korban dan Penindakan Sindikat (Koma.id)",
-    "Video KPAI: Belum Ada yang Ditetapkan Sebagai Pelaku TPPO Bayi ke Singapura (20detik)"
+    "Sopir Mengaku Tak Melihat Korban, Bayi 13 Bulan Tewas Terlindas Mobil MBG di Ciamis (Tribunlampung.co.id)",
+    "Kecelakaan di Ciamis: Tragis Nasib Bayi 13 Bulan, Tewas dalam Insiden dengan Mobil MBG (Tribunjakarta.com)",
+    "Daftar Fakta Bayi 13 Bulan Tewas Terlindas Mobil MBG di Ciamis: Pengakuan Sopir, Keluarga Ikhlas (Tribunjakarta.com)"
    ],
    "sumber": [
     {
-     "judul": "KPAI Ungkap TPPO Bayi Indonesia-Singapura Modus Adopsi",
-     "tautan": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUWVpT1FTMkNRWnpnYWhnZndJQWNwZ2tURURUQzhTWHdVc3g4SjdYajFKZ3hmTTYxQjRFa3B3OHctUE9fc1h6SkJ1WUhtRU1ya2V0WmJmei1BOTlmVHhtN0k4QVdrSTBtN0ZNTVd6a19jSkJEVG5qV3AyTFFHTjVlWUZPRi1kMWJsTXYzZEVUeGpGUVRwWnVYSndyU0lkdnJHbVhIUFFNZ25ybWFZb0dlQkRRTDFCR0NDd2dzdldYcjZQN0dBUnpCXw?oc=5",
-     "media": "LIDIK ID",
+     "judul": "Daftar Fakta Bayi 13 Bulan Tewas Terlindas Mobil MBG di Ciamis: Pengakuan Sopir, Keluarga Ikhlas",
+     "tautan": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFZ2dGJrYVhGT2hoMjdqTnVWVkZoUnVVeERxUUw5UlluZV9SWVdXak5qLUFVZ25NblVNNUtWWDNuU3A4SEhaNTYxbEs3aVlFVG9kTFZ2cC1ZRkwzVDdFNVpyeHRtaEZyc1hZdzR0Vkd0aGRDQVVwNG02QXY4VF8wUzdZSmxVbmh1WGRHbkgzeXpJYUppaG4zQUpIUlN3V0QtcWd4c3B2cTd4d2V3RlpkWU9EdXZKazZVNEVXeFNUeldhbk5iVTRtTUNkWlVRZElIbjd3?oc=5",
+     "media": "Tribunjakarta.com",
      "platform": "Google News",
-     "terbit": "2026-11-24T17:35+07:00",
+     "terbit": "2026-11-24T22:22+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "KPAI Catat 30% TPPO Dengan Modus Adopsi Anak",
-     "tautan": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmlhNHZ4Wm9rTDNVR3pXMzluTXZ4U21HY0JwZG9oeGNrWVNuLWNjNTlYc2tHVmh5N1dkYnBQWVRvLUxRSHFiREktMk1UaXNfUXZ3UlFkeldQVDJBb2dfaEsyUFd5OUp4WlZrSWwtVnU3SUpjeXdjbEtqVjhmZE9oazlRdGlHaXg2TW8tUHdMcWthNUExMUh6WWhB?oc=5",
-     "media": "Validnews",
+     "judul": "Sopir Mengaku Tak Melihat Korban, Bayi 13 Bulan Tewas Terlindas Mobil MBG di Ciamis",
+     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmdIc0gxWnVOeGljUXNsNm9wMnlqallEcnI5RnhoQkNTejNpd1JORzc4bnZqU0VCNTdRODdKUXZyRTJRWXNqbDV5UzVfR1h1VGJ6QlBIVmZQUE8yaVZkQXBrX2FJdEktb3lpX2tHUDI3Q2VQaFllVFNrRnJ3S2prZ1loVlNULUhyRWFTSDlZN3NJM3NfOU1Rd2RjaV9heVBQblk3YTRIRXhTYTNvOWJqdWlSTHZuYnhRTmt0WHdBb25oZ1hn?oc=5",
+     "media": "Tribunlampung.co.id",
      "platform": "Google News",
-     "terbit": "2026-11-24T09:56+07:00",
+     "terbit": "2026-11-24T20:49+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Video KPAI: Belum Ada yang Ditetapkan Sebagai Pelaku TPPO Bayi ke Singapura",
-     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0RQeTRqQTRkYUkybTFYck9MRndNUDZpNkpRZkpRemxKaDNLcHhqS25RbXRPUmtuQjJyQXEzdlhhSHU1RlhYSERZUHJVS2VEVmVVanM4aVE3V0pNT3JBaUY5cklBUFQ0UjZYcTRVWkt4czdLdFJTN1VkeXZRYzFsSWw1bzQ1clpSYnl4UkpQZlZiVHhnMUdldHFwbmxBTXd3Q2pxZGduS1lYRV95OXNyN3N4Zm9TRzRpRzcxRXRwNFNFejh6?oc=5",
-     "media": "20detik",
+     "judul": "Tragedi di Ciamis: Bayi 1 Tahun Meninggal Dunia Terlindas Mobil MBG di Area Pesantren - Sukabumi Update",
+     "tautan": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc3ZvZWZWb3NzbXp1Q29LZGZ5SnBudnJYWGxDLXJyYXR0TWlkb3F0NklvcGhBM3M4Yi1WMG44eVoyM1JMWmczWEF3TW5FLU1oUVZHOXR6OWZMdk5GM09CMzhSTzBPSnJfTkNiUGlQM3ZFblVGSlBiby1kbmh4c0FPeUVxVGJSZGdvZnl3aElSMDV5NDVKUHIzQzVWVXNSOHFDYjhqTE5lZ1hhVmQwcklKQl9hc3BpVmVNUFlQWmFmcGUtRnloMHdJSlJBdG9HQdIBzgFBVV95cUxQRkdfcGx5Qi1uOHptVlhDalIxdVZUZHpaaG45RFBpM0xLdU1uUGN3NFpNZUFfVG5fWnlpVDFESnE4a00yX19ZU1JVZWpKZmVYOUUwbjhXOVdEdVp6YS1xcW83c1VNUVJQZXpPcFZLME1kemUwWURaa0N5S182UmVOaUpLUTExeVdDOEhpc0FXMEVRT25jbXZleEVDeF9INFhWV194TlZ2alJKNV9RN0ZtQjgwX3ppZjVaVmFQOTd0UFlFUkNKNXZ6dDBYWGpOdw?oc=5",
+     "media": "Sukabumi Update",
      "platform": "Google News",
-     "terbit": "2026-11-24T06:36+07:00",
+     "terbit": "2026-11-24T18:46+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "KPAI Tegaskan Adopsi Bayi ke Singapura sebagai TPPO, Desak Pemulangan Korban dan Penindakan Sindikat",
-     "tautan": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejU0NGt4T21wNlNGcElUNHpkci1oS09mMnRpLXVzRk9aSWlQbkE4ZzVlbWVtY3VWb0lhUVBNX3U2dUFpVWpfVUNFNldHMS00UEFMdTVDVXR0dVQtRnNpYzBwdGhTMjdqWlFmLUdqSlZYdEpncUhmVERIcHJOdUJGV3Nrdm5uUUFsSHY0OHltX0VQaVZ1aFdEZW9sX3ZNNmZaSktDWUZtR1F6Rm02LWp1LW1aX0Nzanc?oc=5",
-     "media": "Koma.id",
+     "judul": "Kecelakaan di Ciamis: Tragis Nasib Bayi 13 Bulan, Tewas dalam Insiden dengan Mobil MBG",
+     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWmxkWFhmYUpiQTlBbGtmZW8wQ29mYllzRW9ZLTB1d3ZZQmpBMFBwUEltM2hiZHhNcWRiYjRrZkxuMkdaME1jaFNMem55ZFhzcG1KQVFGNHVpVXZsd2tSamhwVUgwdlFIVUhfdG16RVVOc0hUY2xrVk9nMF84cGpBbU5WSzYyOXkzQW8tbWJram13ZjRwSkJLZFA1dkpMUTlPSUp5amR3N0g1MEd1Z182QjZDc2pTYXRJcW1CTXZNZkRVN0kyeXc?oc=5",
+     "media": "Tribunjakarta.com",
      "platform": "Google News",
-     "terbit": "2026-11-24T06:35+07:00",
+     "terbit": "2026-11-24T16:16+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Modus adopsi ke Singapura, 25 bayi asal Jabar jadi korban TPPO",
-     "tautan": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGJaVjFCYng1RDQydXYzNV90SC1qTWc4VTVXRVg5UTZnM213MGVQRXFScU1ydXJ2QmROUzNubmNyN1BfMVU0c0hYbkowU0RVNEswV3JXV1R0Z2s1aEpCXzlRMGlqMXUwWi1kYUZhbE1RSnZNVVRsREdtRTlYOHQ5VW9HQy1TbkE0LVZ2aGlVS01URGlUVlNuQ0dKSDJWd0NYbkxwUkEzYw?oc=5",
-     "media": "ANTARA News Yogyakarta",
+     "judul": "Tragis! Bayi 13 Bulan Tewas dalam Insiden Mobil MBG di Purwadadi Ciamis",
+     "tautan": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0twVWRvVmdIYm1NMGwtSWV6RmpsYUp3X0dNbWxxRGsyZUd4Vzc3VUdLX1cxN2FHOTU3cGdsWUd4aGQ0eHlSblFmWWlIbEYtTEtOWG9KWUxUZzhZaHpsOUR5SVlUS054TnBUNGk3OVFIc21zMFNXYU5wZjZCVlR0Z2pqVWJVRk0tSTJwZE5OdWhIb2pzaGhoNWJiWG1YQUw1R3pQWU1n?oc=5",
+     "media": "SERGAP",
      "platform": "Google News",
-     "terbit": "2026-11-24T06:03+07:00",
+     "terbit": "2026-11-24T15:34+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Tragis, Bayi 1 Tahun Tewas Terlindas Mobil MBG di Pesantren Ciamis",
+     "tautan": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQWc3Q2NkUTU2enItOFBmUElaa1dkMTB2SnpJR1k4Mlk0TjNSZVpGLUkwMWVESjVLVE1WeXdXSHR4VkJER1VJUkFIZVRCQVByT3l2S181dEFuZzFGLUFmckJ0cGh6NzdxTGdVUnplaERCd0txbTQtWXhxYXZYWVNsX1B4bE1xMzJZaC14UlpKaHlVN3hXNjZKN1dIejVTekpmLWhCVUI3ZFlfN3lpM0hsMnp30gG3AUFVX3lxTE1sY1ZaVnBFY21vLV9Fdlp0WTlyb0Y3U0p0RjlBd1FJdHhYd2FZenEzTEJLOVR1bUtDM0o2Q3N1YzNjUG5pRXJkT1BrY1RGcGdTRkdHbXdnMExDOUJ2VmY1ZzVicnN3bU9mLURKUjRfd243NFh4WllOTGpMN24wblVtczR6NHF5Z2stLVMzOFlmTW52aXFqWnF5SHZzcTEzVVFxQ0xSR0VPVzZJSjlLMU9vWnowX01kOA?oc=5",
+     "media": "Suarajabar.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T13:25+07:00",
      "cuplikan": ""
     }
    ],
    "artikel": [
     {
      "jenis": "sumber",
-     "media": "LIDIK ID",
-     "judul": "KPAI Ungkap TPPO Bayi Indonesia-Singapura Modus Adopsi",
-     "url": "https://lidik.id/aparat-kepolisian-bongkar-kasus-tindak-pidana-perdagangan-orang-bermodus-adopsi-bayi-dari-indonesia-ke-singapura"
+     "media": "Sukabumi Update",
+     "judul": "Tragedi di Ciamis: Bayi 1 Tahun Meninggal Dunia Terlindas Mobil MBG di Area Pesantren - Sukabumi Update",
+     "url": "https://www.sukabumiupdate.com/jawa-barat/184055/tragedi-di-ciamis-bayi-1-tahun-meninggal-dunia-terlindas-mobil-mbg-di-area-pesantren"
     },
     {
      "jenis": "sumber",
-     "media": "ANTARA News Yogyakarta",
-     "judul": "Modus adopsi ke Singapura, 25 bayi asal Jabar jadi korban TPPO",
-     "url": "https://jogja.antaranews.com/berita/870327/modus-adopsi-ke-singapura-25-bayi-asal-jabar-jadi-korban-tppo"
+     "media": "Suarajabar.id",
+     "judul": "Tragis, Bayi 1 Tahun Tewas Terlindas Mobil MBG di Pesantren Ciamis",
+     "url": "https://jabar.suara.com/read/2026/11/24/132529/tragis-bayi-1-tahun-tewas-terlindas-mobil-mbg-di-pesantren-ciamis"
     },
     {
      "jenis": "terkait",
-     "media": "ANTARA News",
-     "judul": "KPAI: 24 bayi asal Jabar jadi korban TPPO ke Singapura, modus adopsi",
-     "url": "https://www.antaranews.com/berita/5873471/kpai-24-bayi-asal-jabar-jadi-korban-tppo-ke-singapura-modus-adopsi"
+     "media": "Kompas.com",
+     "judul": "Polres Ciamis Amankan Sopir Mobil MBG yang Diduga Lindas Balita hingga Tewas",
+     "url": "https://bandung.kompas.com/read/2026/11/24/203506378/polres-ciamis-amankan-sopir-mobil-mbg-yang-diduga-lindas-balita-hingga-tewas"
     },
     {
      "jenis": "terkait",
-     "media": "Tirto.id",
-     "judul": "KPAI: Hampir 30% Aduan TPPO & Eksploitasi Anak Bermodus Adopsi",
-     "url": "https://tirto.id/kpai-hampir-30-aduan-tppo-eksploitasi-anak-bermodus-adopsi-id7v"
+     "media": "detikcom",
+     "judul": "Batita di Ciamis Tewas Usai Terlindas Mobil Logistik MBG",
+     "url": "https://www.detik.com/jabar/berita/d-8767361/batita-di-ciamis-tewas-usai-terlindas-mobil-logistik-mbg"
     }
    ]
   },
   {
-   "id": "76b8aa24f58d",
+   "id": "5afdb77d12b8",
    "tema": "bayi",
    "peringkat": 5,
-   "label": "Dinkes · DKI · Jam · Rujukan",
-   "skor": 12.4,
-   "ringkasan": "Isu ini dibahas dalam 5 berita dari 4 sumber pada 24 Nov 2026. Inti pemberitaan: “Dinkes DKI Ungkap Bayi Meninggal Usai Tunggu Rujukan Lima Jam”. Topik yang sering muncul: dinkes, jam, dki, rujukan, maksimal.",
-   "judul_utama": "Dinkes DKI Ungkap Bayi Meninggal Usai Tunggu Rujukan Lima Jam",
+   "label": "Hasil · Audit · Priok · Medis",
+   "skor": 9.8,
+   "ringkasan": "Isu ini dibahas dalam 4 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam”. Topik yang sering muncul: hasil, audit, priok, medis, standar.",
+   "judul_utama": "Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam",
    "kata_kunci": [
-    "dinkes",
-    "jam",
-    "dki",
-    "rujukan",
-    "maksimal",
-    "meninggal"
+    "hasil",
+    "audit",
+    "priok",
+    "medis",
+    "standar",
+    "terlambat"
    ],
    "sorotan": [
-    "Cegah Kasus Bayi Meninggal Terulang, Dinkes DKI Patok Respons Ambulans Maksimal 2 Jam (detikHealth)",
-    "Dinkes DKI Ungkap Bayi di RSUD Priok Menunggu Rujukan 5 Jam (cwibc.co.id)",
-    "Dinkes DKI Batasi Waktu Rujukan Bayi Kritis Maksimal 120 Menit (bsinews.id)"
+    "Ini Hasil Audit 2 Organisasi Profesi soal Kasus Bayi Meninggal di RSUD Tanjung Priok (Tribunjakarta.com)",
+    "Hasil Audit Bayi Meninggal di RSUD Priok: Nunggu Terlalu Lama (detikHealth)"
    ],
    "sumber": [
     {
-     "judul": "Dinkes DKI Ungkap Bayi Meninggal Usai Tunggu Rujukan Lima Jam",
-     "tautan": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EVkNkc19wXzhxcGJRNUZ4ZlZWNnhBMG9XaHhkLXVyUC1UdDVtM2NXODg4Rlptd1VwTWpDb0NVNnR2RVZGdjFCa2FmSWFWeWV6UlUyckhPS2JLQU5kbDVpYWliaw?oc=5",
-     "media": "bsinews.id",
+     "judul": "Ini Hasil Audit 2 Organisasi Profesi soal Kasus Bayi Meninggal di RSUD Tanjung Priok",
+     "tautan": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1lNSTBZNnVLb3ZTSjYxeE1wNlgwdmxFMzZjejNPdkRxSEZXb0JHUG9XV3VBQmZ1UWNEb09zc3RVZHdRaEFxVkd1NVl5Um5ZaUZscUpoc2FpWlp3cFVibVd2bWtnSmczRG9IZ1ZpRG4xa2xybVVWbFhjWEtXMm5hN0FJdDVBb2QtZTFKbzBFc2M1ckVWUEwwMWlJSlZLR2EzM3NQSVljUHV6bDAtU0NsSHY5N1hYYmtpX3U1WkFfTHM0cnlhLUxjcER3?oc=5",
+     "media": "Tribunjakarta.com",
      "platform": "Google News",
-     "terbit": "2026-11-24T13:23+07:00",
+     "terbit": "2026-11-24T17:33+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Dinkes DKI Ungkap Bayi Meninggal Setelah Terlambat Dirujuk",
-     "tautan": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MDJvdzNmTHA5T3B3cDRtc3BCWVJMN21fRS0zenhaMXpJSkpjamtWLU53bDdyNXhDeUt4NGtnN3E2VEdrcE83RklNWEdpQXJOSW9EX3k3ejJsU0pkUTB2cXZQSkxDbFhQcHVyRXczSU1Jdw?oc=5",
-     "media": "Demokratis.co.id",
+     "judul": "Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam",
+     "tautan": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzIzd1JreUxLb1lGZ3Q4MkJ1YnRrT1ZzQURVd05sTDg3SHg1M2UwRWF4OGxBdWZjWDFNZ1dtaW11MGw3NnhNU3B3c1V1d2t6VEZVOXJIN2lFd0tfMzdQeWEyWFU2YW9KOTBTV0d5Vl9ydHZGSllqdDVXUVNrY1dNbDNyTnU5cEVfRFhrVnZZbFlNN0RnTXdGR0pXckVXQ05LM1pQRFNXQ0szMm5kT0dYRGQ5LXYyT3drNS1IMVhOdnQ4bWR2YTUtemZuU2tqNElJQkNEV1dta0k5TXpUZExqelJ30gHnAUFVX3lxTE1jYnY4c0lYVTVKcUpfdjFoVk9UeFVkdHF3clJxSnJEeVU1VUhZQnJ2dGNCdXdYVDJSb3k3VUxRR2h3R0hMUUdpN0FkZUJJbUFBVjZUQW9TR1lxdm9lRWJqWVJ3YkZnbm0yVUNSRm9mcmNTc085SF9kOU1pcWNfc2RnUU9ZNFdiS3NRMlVoSEEwQ1dHSEY1cV9kTjZsenNlNDl3Q0RRSEp0R3FfbnNpVWxrMFRWTGV5amVDYngwMVdaUGNlR0VlVlFVWGhCcW9sU3p2N0pUbGFPbEFURjZJZlU1bzBFVFlTNA?oc=5",
+     "media": "NU Online Jakarta",
      "platform": "Google News",
-     "terbit": "2026-11-24T13:17+07:00",
+     "terbit": "2026-11-24T09:00+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Dinkes DKI Ungkap Bayi di RSUD Priok Menunggu Rujukan 5 Jam",
-     "tautan": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92WG4wXzBheFF5dzU5NjY5a2wzamk2Y21IVTJ0NTBKUlowRTV4OXNyUDRTNFRSeUNNbnBZckIyNnFEYVkzaEE5Z2hjZjIybU9VSWFET1FGclRVdGdEYnFDaQ?oc=5",
-     "media": "cwibc.co.id",
+     "judul": "Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Tindakan Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam",
+     "tautan": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQTZvTnNTR0dEaFFZelhQbkNaNXhiUmRSTkFOb1ZjdmxualM4Q0ExVzR6OFJFR0NwSzIyWUEwRXRGcGVxUm80M3c3a18tSHhVZzVVbUU1d3Viam9ZVXRWZ0VldlZsMkxjQTRqbTV5Y0prV0cySk1NX2FERlU0N1JzMjNacURoaDh5VFNVQXFFa1Y3UU9pYXNJbVBkYTV0bU1zengzRXVsQ01kOG5mQ2dEcUp0MER3U2FJb2pPMWNsMDRXQlJOZ0pTb204MUxYNU1yNWh2WjFRYzJGbThZN1k2MHNxZWhiaE9aWVYzeGJtNHYtczTSAfMBQVVfeXFMT0E2b05zU0dHRGhRWXpYUG5DWjV4YlJkUk5BTm9WY3ZsbmpTOENBMVc0ejhSRUdDcEsyMllBMEV0RnBlcVJvNDN3N2tfLUh4VWc1VW1FNXd1YmpvWVV0VmdFZXZWbDJMY0E0am01eWNKa1dHMkpNTV9hREZVNDdSczIzWnFEaGg4eVRTVUFxRWtWN1FPaWFzSW1QZGE1dG1Nc3p4M0V1bENNZDhuZkNnRHFKdDBEd1NhSW9qTzFjbDA0V0JSTmdKU29tODFMWDVNcjVodloxUWMyRm04WTdZNjBzcWVoYmhPWllWM3hibTR2LXM0?oc=5",
+     "media": "NU Online Jakarta",
      "platform": "Google News",
-     "terbit": "2026-11-24T13:15+07:00",
+     "terbit": "2026-11-24T09:00+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Dinkes DKI Batasi Waktu Rujukan Bayi Kritis Maksimal 120 Menit",
-     "tautan": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdld1LUVGa0lVempNNU83UUlhaDRrRWNtRlJMb29Za0JhaURkczVVVXFWWDF4SENDM3N1UXRMQU1iMS1nNGhqeVd4MHZjS1FhTFdnS3NBcWpSam95eHQxYndoTHg?oc=5",
-     "media": "bsinews.id",
-     "platform": "Google News",
-     "terbit": "2026-11-24T10:20+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Cegah Kasus Bayi Meninggal Terulang, Dinkes DKI Patok Respons Ambulans Maksimal 2 Jam",
-     "tautan": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFRlalFHU2JIbjJJeGJKeHo1U2syTHI1cEJpTDV4V3RFdE02NHhqSUJqUElMb2FISTVyc1JFTnJCLUctYWFoVEZBNW5DTGc5bElvaDBPZjl5SUpKbzNtN2cxaTBvWGVGeG1KQUh2NEZtdWZXYUs0YVhJdzBmeEpLOFIxM2hEdmxpWXpMT3pjWi05enJId2Z1VzdNeHhiU1ZzQUtVblZSclhzcXREa2NEUHBlRGJ3WXR4OHNXWE1XZzY4TmZOYzdROEstbEx4dFFYTEFNV9IB2gFBVV95cUxPbHVlUTQ3S1pQaGZHNFA0WWdTMTI4endrU3RPT0t5TWo5R0V1SUhGNzBFUGpETEo3N3owZkhzeVJaY0xIVFBQNFoxNTZQZ1pXZzFfa1RhU01nMTVGOUI3bGcxMlQyX2YwUl9aWXB5LWRMQ1h1bXVGdlBaYkdvUFZoOVk3YzdtS2I2N1ZKbVN0WHdodERIVTRueGtqUWlJZ1Z6eURFYjg1bmVuOXJ4SnUzTXQtMzlQM3E2WmZkWktWZ09Xbmc1c3Utckw3TEJmYU5jVFcwcENzTmw5Zw?oc=5",
+     "judul": "Hasil Audit Bayi Meninggal di RSUD Priok: Nunggu Terlalu Lama",
+     "tautan": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZVOW91dEJTd0EzNXFmaFpWYXVmeGlzcnFmd3hWaU55RXluc285aHFwVEYxa3M3V3JadGtTQkg1RXp0SVlISzJqZ2x1YXZ3cTN5dXZSa1hWNWhHLU5VZEw4Qjc1RE1FMTFMSzRfRHl0RnY3VG1JbnY0RldmUXd1UVNYcTdWWmhMSk14WVhDbUIxRGRXOTF4RTQ4Mk00U2tOb2l3NlhXc3BscmxfOHAzRXlUNkXSAboBQVVfeXFMTVVQWFdmMUdKSWZZMGpRU0p1TDZvQUlNS2dSZVk5YzJTRFRaRzJiQ2RkVWxkUy16Z295RGRFQnA0TTI2eng1NERzTldXX2p4MmxWdFpLUVZnVXhFVmVsSHNGWU13N2ozMFEzXzZXdENuakpFMy1xV3NudTJYeWlsVGZYdFp6V2pNSWhaajV0RC02amNfRVVEM0lXZFlZdnVrdlp3QXAxS19JbjZfR3MxTGktdDJab1o4QTJB?oc=5",
      "media": "detikHealth",
      "platform": "Google News",
-     "terbit": "2026-11-24T10:14+07:00",
+     "terbit": "2026-11-24T08:16+07:00",
      "cuplikan": ""
     }
    ],
    "artikel": [
     {
      "jenis": "sumber",
-     "media": "bsinews.id",
-     "judul": "Dinkes DKI Ungkap Bayi Meninggal Usai Tunggu Rujukan Lima Jam",
-     "url": "https://bsinews.id/audit-bayi-meninggal-rujukan-priok"
+     "media": "NU Online Jakarta",
+     "judul": "Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam",
+     "url": "https://jakarta.nu.or.id/jakarta-raya/hasil-audit-bayi-meninggal-di-rsud-tanjung-priok-medis-sesuai-standar-rujukan-terlambat-lebih-dari-5-jam-NUJjL"
     },
     {
      "jenis": "sumber",
-     "media": "Demokratis.co.id",
-     "judul": "Dinkes DKI Ungkap Bayi Meninggal Setelah Terlambat Dirujuk",
-     "url": "https://demokratis.co.id/audit-bayi-meninggal-rujukan-rsud-priok"
-    },
-    {
-     "jenis": "sumber",
-     "media": "cwibc.co.id",
-     "judul": "Dinkes DKI Ungkap Bayi di RSUD Priok Menunggu Rujukan 5 Jam",
-     "url": "https://cwibc.co.id/audit-bayi-meninggal-rsud-priok"
+     "media": "detikHealth",
+     "judul": "Hasil Audit Bayi Meninggal di RSUD Priok: Nunggu Terlalu Lama",
+     "url": "https://health.detik.com/berita-detikhealth/d-8766848/hasil-audit-bayi-meninggal-di-rsud-priok-nunggu-terlalu-lama"
     },
     {
      "jenis": "terkait",
-     "media": "Peradaban.id",
-     "judul": "Dinkes DKI Ungkap Bayi di RSUD Priok Menunggu Rujukan 5 Jam",
-     "url": "https://peradaban.id/dinkes-audit-rujukan-bayi-priok"
+     "media": "kumparan",
+     "judul": "Hasil Audit Kematian Bayi di RSUD Tj Priok: Bayi Punya Penyakit Jantung Bawaan - kumparan.com",
+     "url": "https://kumparan.com/kumparannews/hasil-audit-kematian-bayi-di-rsud-tj-priok-bayi-punya-penyakit-jantung-bawaan-28cy2GxdP5J"
+    },
+    {
+     "jenis": "terkait",
+     "media": "CentralBatam",
+     "judul": "Dinkes DKI Ungkap Audit Bayi Meninggal di RSUD Priok",
+     "url": "https://centralbatam.co.id/audit-bayi-meninggal-rsud-priok"
     }
    ]
   },
   {
-   "id": "61c29f6ff534",
+   "id": "30250fdceff9",
    "tema": "bayi",
    "peringkat": 6,
    "label": "Cipete · Jaksel · Diduga · Korban",
-   "skor": 10.8,
-   "ringkasan": "Isu ini dibahas dalam 6 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Fakta 13 Bayi Tanpa Orang Tua Ditemukan di Cipete Jaksel, Diduga Korban Perdagangan Orang Halaman 1”. Topik yang sering muncul: jaksel, diduga, cipete, korban, orang.",
-   "judul_utama": "Fakta 13 Bayi Tanpa Orang Tua Ditemukan di Cipete Jaksel, Diduga Korban Perdagangan Orang Halaman 1",
+   "skor": 9.4,
+   "ringkasan": "Isu ini dibahas dalam 5 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Temuan 13 Bayi Diduga Korban TPPO di Cipete Jaksel Dilimpahkan ke Polda Metro”. Topik yang sering muncul: jaksel, diduga, cipete, korban, tppo.",
+   "judul_utama": "Temuan 13 Bayi Diduga Korban TPPO di Cipete Jaksel Dilimpahkan ke Polda Metro",
    "kata_kunci": [
     "jaksel",
     "diduga",
     "cipete",
     "korban",
-    "orang",
-    "perdagangan"
+    "tppo",
+    "orang"
    ],
    "sorotan": [
-    "Temuan 13 Bayi Diduga Korban TPPO di Cipete Jaksel Dilimpahkan ke Polda Metro Halaman 1 (Kompas.com)",
+    "Sebanyak 13 Bayi Diduga Korban Perdagangan Orang di Cipete Jaksel (Lentera.co)",
     "Polisi Periksa 7 Saksi Kasus 13 Bayi Diduga Korban TPPO di Cipete Jaksel (Kompas.com)"
    ],
    "sumber": [
@@ -974,14 +1016,6 @@
      "cuplikan": ""
     },
     {
-     "judul": "Fakta 13 Bayi Tanpa Orang Tua Ditemukan di Cipete Jaksel, Diduga Korban Perdagangan Orang Halaman 1",
-     "tautan": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOanVQalNYMi01ZFhaWVJGRzVYbWNGX20xbnhuMUE0TnN2NGljQ2dfclZHMU5NcDhpTUNEZHlZYzc0Snllay1rNWRPNlBFLW1LR0RtR1o2anJKVEE0aV9zMmxpamR0TDc5LVlfeFBsUzN1NFRsaVpTcVFfUE5tT1Nicjg5Qm14amp4RElCVDNnTWdHSUc1Uy1QanR0NWUtdGVVN0tNUHEzd0dJX1M0VWVLaFNYcWRJVVVaamVoTlI5V243V082QzFwX1Y5a2I3aTA?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T07:48+07:00",
-     "cuplikan": ""
-    },
-    {
      "judul": "Fakta 13 Bayi Tanpa Orang Tua Ditemukan di Cipete Jaksel, Diduga Korban Perdagangan Orang",
      "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXQ3RUZseDR5UlByeG1MSWIyTmlnU0ttNllqVElhekN6N0JJSGVNVmJNYllBYU9IT2U5UjFtZmZFQUxXcW02T1pFQTY0bDFEUUtHN1NuTnpRRXB6S2N1WGVHcFk5NU1zNnlXaURBbHhJVnowRjRfbmpiaGs0SW1aZHUxcWxROGdWRGFmWXRrUHVrM0doSW10c0xJWVh2WEZGZU4yWGpGQUcyZXo4NjJsd19BbV9Ic1pPS1FlVGdFc3ZIdEh2?oc=5",
      "media": "Kompas.com",
@@ -993,189 +1027,56 @@
    "artikel": [
     {
      "jenis": "sumber",
+     "media": "Kompas.com",
+     "judul": "Temuan 13 Bayi Diduga Korban TPPO di Cipete Jaksel Dilimpahkan ke Polda Metro",
+     "url": "https://megapolitan.kompas.com/read/2026/11/24/21212231/temuan-13-bayi-diduga-korban-tppo-di-cipete-jaksel-dilimpahkan-ke-polda?source=terkini_artikel"
+    },
+    {
+     "jenis": "sumber",
      "media": "Lentera.co",
      "judul": "Sebanyak 13 Bayi Diduga Korban Perdagangan Orang di Cipete Jaksel",
      "url": "https://lentera.co/post/item/241396/Sebanyak-13-Bayi-Diduga-Korban-Perdagangan-Orang-di-Cipete-Jaksel"
     },
     {
      "jenis": "terkait",
+     "media": "detikNews",
+     "judul": "Rumah di Cipete Jaksel Jadi Tempat Penampungan 13 Anak, Polisi Usut",
+     "url": "https://news.detik.com/berita/d-8768363/rumah-di-cipete-jaksel-jadi-tempat-penampungan-13-anak-polisi-usut"
+    },
+    {
+     "jenis": "terkait",
      "media": "ANTARA News Makassar",
      "judul": "Polri geledah posko penyadapan di Jaksel",
      "url": "https://makassar.antaranews.com/berita/643959/polri-geledah-posko-penyadapan-di-jaksel"
-    },
-    {
-     "jenis": "terkait",
-     "media": "ANTARA News",
-     "judul": "Pengemudi ojol meninggal di Cilandak diduga akibat serangan jantung",
-     "url": "https://www.antaranews.com/berita/5868075/pengemudi-ojol-meninggal-di-cilandak-diduga-akibat-serangan-jantung"
     }
    ]
   },
   {
-   "id": "5afdb77d12b8",
+   "id": "40b55701a23b",
    "tema": "bayi",
    "peringkat": 7,
-   "label": "Hasil · Audit · Priok · Meninggal",
-   "skor": 10.0,
-   "ringkasan": "Isu ini dibahas dalam 4 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam”. Topik yang sering muncul: hasil, audit, priok, meninggal, medis.",
-   "judul_utama": "Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam",
+   "label": "Kondisi · Sehat · Kota · Abisai",
+   "skor": 9.1,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Wali Kota Abisai Rollo Kunjungi Bayi Ditemukan Warga, Siap Mengadopsi Jika Kondisi Sehat”. Topik yang sering muncul: kota, kondisi, sehat, abisai, rollo.",
+   "judul_utama": "Wali Kota Abisai Rollo Kunjungi Bayi Ditemukan Warga, Siap Mengadopsi Jika Kondisi Sehat",
    "kata_kunci": [
-    "hasil",
-    "audit",
-    "priok",
-    "meninggal",
-    "medis",
-    "standar"
-   ],
-   "sorotan": [
-    "Ini Hasil Audit 2 Organisasi Profesi soal Kasus Bayi Meninggal di RSUD Tanjung Priok (Tribunjakarta.com)",
-    "Hasil Audit Bayi Meninggal di RSUD Priok: Nunggu Terlalu Lama (detikHealth)"
-   ],
-   "sumber": [
-    {
-     "judul": "Ini Hasil Audit 2 Organisasi Profesi soal Kasus Bayi Meninggal di RSUD Tanjung Priok",
-     "tautan": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1lNSTBZNnVLb3ZTSjYxeE1wNlgwdmxFMzZjejNPdkRxSEZXb0JHUG9XV3VBQmZ1UWNEb09zc3RVZHdRaEFxVkd1NVl5Um5ZaUZscUpoc2FpWlp3cFVibVd2bWtnSmczRG9IZ1ZpRG4xa2xybVVWbFhjWEtXMm5hN0FJdDVBb2QtZTFKbzBFc2M1ckVWUEwwMWlJSlZLR2EzM3NQSVljUHV6bDAtU0NsSHY5N1hYYmtpX3U1WkFfTHM0cnlhLUxjcER3?oc=5",
-     "media": "Tribunjakarta.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T17:33+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam",
-     "tautan": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzIzd1JreUxLb1lGZ3Q4MkJ1YnRrT1ZzQURVd05sTDg3SHg1M2UwRWF4OGxBdWZjWDFNZ1dtaW11MGw3NnhNU3B3c1V1d2t6VEZVOXJIN2lFd0tfMzdQeWEyWFU2YW9KOTBTV0d5Vl9ydHZGSllqdDVXUVNrY1dNbDNyTnU5cEVfRFhrVnZZbFlNN0RnTXdGR0pXckVXQ05LM1pQRFNXQ0szMm5kT0dYRGQ5LXYyT3drNS1IMVhOdnQ4bWR2YTUtemZuU2tqNElJQkNEV1dta0k5TXpUZExqelJ30gHnAUFVX3lxTE1jYnY4c0lYVTVKcUpfdjFoVk9UeFVkdHF3clJxSnJEeVU1VUhZQnJ2dGNCdXdYVDJSb3k3VUxRR2h3R0hMUUdpN0FkZUJJbUFBVjZUQW9TR1lxdm9lRWJqWVJ3YkZnbm0yVUNSRm9mcmNTc085SF9kOU1pcWNfc2RnUU9ZNFdiS3NRMlVoSEEwQ1dHSEY1cV9kTjZsenNlNDl3Q0RRSEp0R3FfbnNpVWxrMFRWTGV5amVDYngwMVdaUGNlR0VlVlFVWGhCcW9sU3p2N0pUbGFPbEFURjZJZlU1bzBFVFlTNA?oc=5",
-     "media": "NU Online Jakarta",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:55+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Tindakan Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam",
-     "tautan": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQTZvTnNTR0dEaFFZelhQbkNaNXhiUmRSTkFOb1ZjdmxualM4Q0ExVzR6OFJFR0NwSzIyWUEwRXRGcGVxUm80M3c3a18tSHhVZzVVbUU1d3Viam9ZVXRWZ0VldlZsMkxjQTRqbTV5Y0prV0cySk1NX2FERlU0N1JzMjNacURoaDh5VFNVQXFFa1Y3UU9pYXNJbVBkYTV0bU1zengzRXVsQ01kOG5mQ2dEcUp0MER3U2FJb2pPMWNsMDRXQlJOZ0pTb204MUxYNU1yNWh2WjFRYzJGbThZN1k2MHNxZWhiaE9aWVYzeGJtNHYtczTSAfMBQVVfeXFMT0E2b05zU0dHRGhRWXpYUG5DWjV4YlJkUk5BTm9WY3ZsbmpTOENBMVc0ejhSRUdDcEsyMllBMEV0RnBlcVJvNDN3N2tfLUh4VWc1VW1FNXd1YmpvWVV0VmdFZXZWbDJMY0E0am01eWNKa1dHMkpNTV9hREZVNDdSczIzWnFEaGg4eVRTVUFxRWtWN1FPaWFzSW1QZGE1dG1Nc3p4M0V1bENNZDhuZkNnRHFKdDBEd1NhSW9qTzFjbDA0V0JSTmdKU29tODFMWDVNcjVodloxUWMyRm04WTdZNjBzcWVoYmhPWllWM3hibTR2LXM0?oc=5",
-     "media": "NU Online Jakarta",
-     "platform": "Google News",
-     "terbit": "2026-11-24T09:00+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Hasil Audit Bayi Meninggal di RSUD Priok: Nunggu Terlalu Lama",
-     "tautan": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZVOW91dEJTd0EzNXFmaFpWYXVmeGlzcnFmd3hWaU55RXluc285aHFwVEYxa3M3V3JadGtTQkg1RXp0SVlISzJqZ2x1YXZ3cTN5dXZSa1hWNWhHLU5VZEw4Qjc1RE1FMTFMSzRfRHl0RnY3VG1JbnY0RldmUXd1UVNYcTdWWmhMSk14WVhDbUIxRGRXOTF4RTQ4Mk00U2tOb2l3NlhXc3BscmxfOHAzRXlUNkXSAboBQVVfeXFMTVVQWFdmMUdKSWZZMGpRU0p1TDZvQUlNS2dSZVk5YzJTRFRaRzJiQ2RkVWxkUy16Z295RGRFQnA0TTI2eng1NERzTldXX2p4MmxWdFpLUVZnVXhFVmVsSHNGWU13N2ozMFEzXzZXdENuakpFMy1xV3NudTJYeWlsVGZYdFp6V2pNSWhaajV0RC02amNfRVVEM0lXZFlZdnVrdlp3QXAxS19JbjZfR3MxTGktdDJab1o4QTJB?oc=5",
-     "media": "detikHealth",
-     "platform": "Google News",
-     "terbit": "2026-11-24T08:16+07:00",
-     "cuplikan": ""
-    }
-   ],
-   "artikel": [
-    {
-     "jenis": "sumber",
-     "media": "NU Online Jakarta",
-     "judul": "Hasil Audit Bayi Meninggal di RSUD Tanjung Priok: Medis Sesuai Standar, Rujukan Terlambat Lebih dari 5 Jam",
-     "url": "https://jakarta.nu.or.id/jakarta-raya/hasil-audit-bayi-meninggal-di-rsud-tanjung-priok-medis-sesuai-standar-rujukan-terlambat-lebih-dari-5-jam-NUJjL"
-    },
-    {
-     "jenis": "terkait",
-     "media": "kumparan",
-     "judul": "Hasil Audit Kematian Bayi di RSUD Tj Priok: Bayi Punya Penyakit Jantung Bawaan - kumparan.com",
-     "url": "https://kumparan.com/kumparannews/hasil-audit-kematian-bayi-di-rsud-tj-priok-bayi-punya-penyakit-jantung-bawaan-28cy2GxdP5J"
-    },
-    {
-     "jenis": "terkait",
-     "media": "detikNews",
-     "judul": "Dinkes Ungkap Audit Bayi Meninggal di RSUD Priok: Nunggu Ambulans Berjam-jam",
-     "url": "https://news.detik.com/berita/d-8765950/dinkes-ungkap-audit-bayi-meninggal-di-rsud-priok-nunggu-ambulans-berjam-jam"
-    }
-   ]
-  },
-  {
-   "id": "78df143e181d",
-   "tema": "bayi",
-   "peringkat": 8,
-   "label": "Samping · Kantor · Desa · Terara",
-   "skor": 9.4,
-   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Mayat Bayi Laki-Laki Ditemukan di Gang Samping Kantor Desa Terara Lombok Timur”. Topik yang sering muncul: samping, kantor, desa, terara, laki.",
-   "judul_utama": "Mayat Bayi Laki-Laki Ditemukan di Gang Samping Kantor Desa Terara Lombok Timur",
-   "kata_kunci": [
-    "samping",
-    "kantor",
-    "desa",
-    "terara",
-    "laki",
-    "gang"
-   ],
-   "sorotan": [],
-   "sumber": [
-    {
-     "judul": "Mayat Bayi Laki-Laki Ditemukan di Gang Samping Kantor Desa Terara Lombok Timur",
-     "tautan": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaHdSbk9qN3AwZUpfTjlReTRSMF9na2x5aEh0QU9TOEJ0OXo1YkJfUkxMQTlMc29aT2pLbG83ODBDdDJyel9vVDZHZ1cteGdEOWRjbjI2TFg2R1N2VmU3dEtSYmZkMmczNEhwRVJSNk1kVS16WDYxQURuc2FfYS1iaktzRGFxQzM3N2dzbVBQTUlWS2o2bEg4a1VWZl9XMjJzZnM4TnhSTXVRTTdxZV9JWnF6SUN5Y09IQTVya3h2a2FVeEV0SU5qZW80d9IBywFBVV95cUxQaHdSbk9qN3AwZUpfTjlReTRSMF9na2x5aEh0QU9TOEJ0OXo1YkJfUkxMQTlMc29aT2pLbG83ODBDdDJyel9vVDZHZ1cteGdEOWRjbjI2TFg2R1N2VmU3dEtSYmZkMmczNEhwRVJSNk1kVS16WDYxQURuc2FfYS1iaktzRGFxQzM3N2dzbVBQTUlWS2o2bEg4a1VWZl9XMjJzZnM4TnhSTXVRTTdxZV9JWnF6SUN5Y09IQTVya3h2a2FVeEV0SU5qZW80dw?oc=5",
-     "media": "Lombok Post",
-     "platform": "Google News",
-     "terbit": "2026-11-24T23:35+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Polres Lombok Timur Dalami Penemuan Jasad Bayi di Gang Samping Kantor Desa Terara",
-     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazVEODFDYW1tcVdwNEE0NGkza0IzYU8tVEtCUTFoa1g0NGNJVzVVWmstTkJKd054U3J2UERidWdQTS1NMHNuQnRUMjFmSF93THRRdkgyQ09BS0ZjZk9FajlsNnFPdjlMQWdSTlVNOFZmOThncUtWbUIzNXVNVjgwTWRNbkNYbVkzREd5UWxFTVRHQUx5ZzZ6cVlJZ1Z0bWc2a0pyZGlfWWozaC1IczJrSDZXQU9NZHB2X2dpT3F5eDJTandB?oc=5",
-     "media": "Tribrata News NTB",
-     "platform": "Google News",
-     "terbit": "2026-11-24T18:27+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Bayi Laki-Laki Ditemukan Tak Bernyawa di Samping Kantor Desa Terara",
-     "tautan": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWG00UFJyMFdPamZldDJrOTVaaUgxeEFaR2hXcmMyZkZ4bXoxbTJvVldzYXk1M2dEV3dHU3k2aEJmMkZUWjB2UHJtdzZXc19xTHdGdFlpZGc4VUxzM01mbVd6NGhDNTBnNlVlVm4wTHlCd2xnMjlmX3ZtWWNKdDNyUGtZWURhdk9EUjVJOFFxV1o3akp3MUZoWHdJc1Vfbk5IbXc?oc=5",
-     "media": "SUARANTB.com",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:57+07:00",
-     "cuplikan": ""
-    }
-   ],
-   "artikel": [
-    {
-     "jenis": "sumber",
-     "media": "Lombok Post",
-     "judul": "Mayat Bayi Laki-Laki Ditemukan di Gang Samping Kantor Desa Terara Lombok Timur",
-     "url": "https://lombokpost.jawapos.com/amp/selong/2611240073/mayat-bayi-laki-laki-ditemukan-di-gang-samping-kantor-desa-terara-lombok-timur"
-    },
-    {
-     "jenis": "sumber",
-     "media": "SUARANTB.com",
-     "judul": "Bayi Laki-Laki Ditemukan Tak Bernyawa di Samping Kantor Desa Terara",
-     "url": "https://suarantb.com/2026/11/24/bayi-laki-laki-ditemukan-tak-bernyawa-di-samping-kantor-desa-terara/"
-    },
-    {
-     "jenis": "terkait",
-     "media": "Poros Lombok",
-     "judul": "Geger Penemuan Mayat Bayi Laki-Laki di Samping Kantor Desa Terara Lombok Timur, Polisi Buru Pelaku",
-     "url": "https://poroslombok.com/peristiwa/geger-penemuan-mayat-bayi-laki-laki-di-samping-kantor-desa-terara-lombok-timur-polisi-buru-pelaku/"
-    }
-   ]
-  },
-  {
-   "id": "72d51ae57a0c",
-   "tema": "bayi",
-   "peringkat": 9,
-   "label": "Wali · Kota · Mengadopsi · Ditemukan",
-   "skor": 9.2,
-   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Jenguk Bayi yang Ditemukan Warga, Wali Kota Abisai Rollo : Saya Bisa Mengadopsi Anak ini”. Topik yang sering muncul: mengadopsi, wali, kota, ditemukan, jenguk.",
-   "judul_utama": "Jenguk Bayi yang Ditemukan Warga, Wali Kota Abisai Rollo : Saya Bisa Mengadopsi Anak ini",
-   "kata_kunci": [
-    "mengadopsi",
-    "wali",
     "kota",
-    "ditemukan",
-    "jenguk",
-    "abisai"
+    "kondisi",
+    "sehat",
+    "abisai",
+    "rollo",
+    "warga"
    ],
    "sorotan": [
-    "Jenguk Bayi Laki-laki yang Ditemukan Pekerja Bangunan, Wali Kota Berniat Mengadopsi (seputarpapua.com)"
+    "Ketua TP PKK Kota Cilegon Tinjau Bayi Terlantar, Pastikan Kondisi Sehat dan Terawat (Berita Cilegon)"
    ],
    "sumber": [
     {
-     "judul": "Jenguk Bayi Laki-laki yang Ditemukan Pekerja Bangunan, Wali Kota Berniat Mengadopsi",
-     "tautan": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnB6cTJtWnZxRnNtZlQ3cmhQUkJvLVotajRobXpjY3M4bDExN1VDdTV2V1FLeUJCM1RVUnFOeC16VnA1b3BjVm9HUXUzWWJRV29IWWdsRmlJTjQ4TnpMRVBVXzJpalNCR2JzTk5JUnYtaVo5V1NTMVdBalJWSU5ndXdVVkNxT0t2bzJsVm9SMWx3VGw2c0k5VmNIa0hLRG5VMExxaUxqU0xwNlhWbXJGRmQ2SW5fLWQ2?oc=5",
-     "media": "seputarpapua.com",
+     "judul": "Ketua TP PKK Kota Cilegon Tinjau Bayi Terlantar, Pastikan Kondisi Sehat dan Terawat",
+     "tautan": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYm5PU3JrR2tRQmYtZ0M3QW1kbDdDcDY1RUs3ZVc2RU9vaTY4ZlFDczBJY0J5SGU5eDBGb1kwaldOUmJUWFd0WWVkM0lyQjVkelFhQzhkVXhOZDR6X0pFZnJlTmhPRUVGX2NOblBhdElRWHlVWU11UjUxR0c5ZGtqQkpFZlNBVmVDeENDRHNta3k4VF9nR0tOM3NuWEdWMEVTcXF0VlNnTGhITDhlbW0zQ2syNk9iVWp3amhrdGFMaDEzVUFhaHdOd21VRzMyQmN6?oc=5",
+     "media": "Berita Cilegon",
      "platform": "Google News",
-     "terbit": "2026-11-24T20:33+07:00",
+     "terbit": "2026-11-25T00:01+07:00",
      "cuplikan": ""
     },
     {
@@ -1210,15 +1111,116 @@
     },
     {
      "jenis": "terkait",
-     "media": "Pemerintah Kota Surabaya",
-     "judul": "Wali Kota Eri Larang Iuran Kado Hari Guru di SD-SMP Negeri Surabaya",
-     "url": "https://www.surabaya.go.id/id/berita/25962/wali-kota-eri-larang-iuran-kado-hari-guru-di-sd-smp-negeri-surabaya"
+     "media": "Nokenlive",
+     "judul": "Wali Kota Jayapura Tinjau Pelayanan dan Fasilitas RS Ramela, Upayakan Pengembangan dari Tipe D ke Tipe C",
+     "url": "https://www.nokenlive.com/2026/11/25/wali-kota-jayapura-tinjau-pelayanan-dan-fasilitas-rs-ramela-upayakan-pengembangan-dari-tipe-d-ke-tipe-c/"
     },
     {
      "jenis": "terkait",
-     "media": "https://sibolgakota.go.id/",
-     "judul": "Wali Kota Sibolga Buka Lomba Bertutur SD/MI 2026, Tingkatkan Minat Baca dan Kecintaan Generasi Muda terhadap Budaya",
-     "url": "https://sibolgakota.go.id/wali-kota-sibolga-buka-lomba-bertutur-sd-mi-2026-tingkatkan-minat-baca-dan-kecintaan-generasi-muda-terhadap-budaya/"
+     "media": "Kompas.com",
+     "judul": "Wali Kota Jayapura Berencana Adopsi Bayi yang Dibuang di Muara Tami",
+     "url": "https://surabaya.kompas.com/read/2026/11/25/060033678/wali-kota-jayapura-berencana-adopsi-bayi-yang-dibuang-di-muara-tami"
+    }
+   ]
+  },
+  {
+   "id": "001861ad7798",
+   "tema": "bayi",
+   "peringkat": 8,
+   "label": "Dinkes · DKI · NETS · Ambulans",
+   "skor": 8.8,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Buntut Bayi Meninggal di RSUD Tanjung Priok, Dinkes DKI Janji Bakal Tambah Ambulans NETS”. Topik yang sering muncul: nets, ambulans, dinkes, tambah, dki.",
+   "judul_utama": "Buntut Bayi Meninggal di RSUD Tanjung Priok, Dinkes DKI Janji Bakal Tambah Ambulans NETS",
+   "kata_kunci": [
+    "nets",
+    "ambulans",
+    "dinkes",
+    "tambah",
+    "dki",
+    "tanjung"
+   ],
+   "sorotan": [
+    "Bayi Meninggal di RSUD Tanjung Priok, Dinkes DKI Siapkan Tambahan Ambulans NETS (Pikiran-Rakyat.com)",
+    "Dinkes DKI Evaluasi Rujukan Bayi dan Tambah Ambulans NETS (bsinews.id)"
+   ],
+   "sumber": [
+    {
+     "judul": "Buntut Bayi Meninggal di RSUD Tanjung Priok, Dinkes DKI Janji Bakal Tambah Ambulans NETS",
+     "tautan": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd3RsakU1NXhkLS1PdDFUTGUyajRyVmNlWjh5Z0R2OS1WdU1jYTV5LTBXejdvNllYYXFldU84ZE1neW5SaWctN3J4T0JZYTBjS1l6MW5PZ2FzVkRlVGpWcnVLbExLSTkwTFZVbUJOcjBuN2N3VXJKUnRPbkU5dzBHcXhVZUp4eTVkN05FaVBCTTNlSkRsbkZlaTBfRnJGV09GdF92ckZlTmdoMFBvZHp2bGtCUU1pZjNVYlV5SjRLU2VhemlzdXd1dUZLWUY5dw?oc=5",
+     "media": "Tribunjakarta.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T17:28+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Bayi Meninggal di RSUD Tanjung Priok, Dinkes DKI Siapkan Tambahan Ambulans NETS",
+     "tautan": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUFwbHZ3Q1poUXJDWUE4SGs3XzN2UlpjbXEwd0RzS0ZvT1l1d29ZWUhDdnRZMndGRU92ZURsSDN1OVBDTjNLSjV4MkpEUDdGQzNXcDg5cEE5aHc3cDBpSE5tTHlTVnpKRnBFOXJmWDVoNmdfdmJTNDdrUUg5OHpEVEdiVVdpQ3pIZ3Nic1NSMXpjWGc5VWwwcnVrVVpPZHVIV05rYjlJaUFNZEtpclQ3V0o2V2QxeE9JODc4X1Y5cE5pQzQzLU9n?oc=5",
+     "media": "Pikiran-Rakyat.com",
+     "platform": "Google News",
+     "terbit": "2026-11-24T13:27+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Dinkes DKI Evaluasi Rujukan Bayi dan Tambah Ambulans NETS",
+     "tautan": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56ajMxRFNLTURiZmFHMkVWcG9pOTVCdkk5MGxKSzZlWDR4Q2hVWWdGcGpWb1Z2dlY1bzRWcFBHNVhadkN0QnVMdkM0X1RiT1hYc21iSG1yOTZMLTc1dW4zRm9aNTR1aWs?oc=5",
+     "media": "bsinews.id",
+     "platform": "Google News",
+     "terbit": "2026-11-24T08:23+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "6539ffe5f033",
+   "tema": "bayi",
+   "peringkat": 9,
+   "label": "Legislator · Soroti · Tumpul · Keterbatasan",
+   "skor": 8.3,
+   "ringkasan": "Isu ini dibahas dalam 4 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Legislator Soroti Bayi Meninggal di RSUD Priok: Kenapa Ada Gunting Tumpul?”. Topik yang sering muncul: legislator, soroti, tumpul, keterbatasan, rsud.",
+   "judul_utama": "Legislator Soroti Bayi Meninggal di RSUD Priok: Kenapa Ada Gunting Tumpul?",
+   "kata_kunci": [
+    "legislator",
+    "soroti",
+    "tumpul",
+    "keterbatasan",
+    "rsud",
+    "gunting"
+   ],
+   "sorotan": [
+    "Kasus Bayi Meninggal di RSUD Priok, Legislator Soroti Keterbatasan NICU (detikNews)"
+   ],
+   "sumber": [
+    {
+     "judul": "Legislator soroti dugaan gunting tumpul dalam kematian bayi di RSUD",
+     "tautan": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXkyZWttaWt4UUJzX3ZoajlMLXhMbTk5MG1wZXBMVGw5eFE3WjhoMHB6OEpFM1QzS080VDFlRzRRTlRjcmthQ2FJN3B4Y21ZSlFpN2dNZXMyajQ1aUMyU2N3VTZUTXB5cE5QblRmbUtsd0VvYU9YRVZ0bGVGemZ5REprX09JdGVSdlJjSjJyNmFqM19aUkxkbE1vdlA3M1ZoN05XTXc3VTFiLWtNcHNBVdIBsAFBVV95cUxNNXkyZWttaWt4UUJzX3ZoajlMLXhMbTk5MG1wZXBMVGw5eFE3WjhoMHB6OEpFM1QzS080VDFlRzRRTlRjcmthQ2FJN3B4Y21ZSlFpN2dNZXMyajQ1aUMyU2N3VTZUTXB5cE5QblRmbUtsd0VvYU9YRVZ0bGVGemZ5REprX09JdGVSdlJjSjJyNmFqM19aUkxkbE1vdlA3M1ZoN05XTXc3VTFiLWtNcHNBVQ?oc=5",
+     "media": "ANTARA News",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:32+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Legislator soroti keterbatasan NICU pada RSUD di Jakarta sejak 2009",
+     "tautan": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0F5VnFBeUszMEFKc2doMlRWRXIzZUlrXzBKX0xlY0wyeVlValJvWkNZUXFVaUJndHh4VnVlUzdBSzd3OVl6dFZhRHNHQUw3Q0dWY1JiQkRWblVQWWpSQkZvYWZyNUdZRWJmcjAzcUMxbll4aGktRHdFUlBvOEtMNHVOQjJhX1Q1WFNtcS16YkNHZUptQUpUaWxIUENDX2dXT1dteGpyUExvWkFSZlHSAbABQVVfeXFMT092LXV5QmlSWU50cGFMQ0ZweVZ5X2pqalA1cWhIQXNndzA4ZUJqUmhPMFBzY0dRS3FxM1N3U1pfLXk5YnA5cmR3NHl4OUphaXdDaUd5d0hoNjE0TmJzTldyQmtQRGVxOWI1ZEVPNWxJV2JMTFhwRUJuNGNiXzZBVElZMlkxRjI4UmVlZUVIcGVOVkRtVlNrV0J4cUgwc3lwdldZTUh3a1BucUhNNTdMM0w?oc=5",
+     "media": "ANTARA News",
+     "platform": "Google News",
+     "terbit": "2026-11-24T15:34+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Legislator Soroti Bayi Meninggal di RSUD Priok: Kenapa Ada Gunting Tumpul?",
+     "tautan": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkRNX3pvbVZ2anhXcE9lSVNIWWtJZ0Q4OXZIcDFHTVRjc3Z0NEl3bFFyMU1veUxRNFJCT1ZDcWtrX3U2cDA4UUw4Y0U4dE9hU3JqZTkxZFVUTkpfMU9Fbk4xazlpclNRSTk3MUd6OHZ5NDFnWmczRGtfeEFYZHJpa0h0czJjSXYxQWFmYy1NVkJCbEY3VW81WVJCclVuM1V6bDNiXzJrcWVGdmFYZWo0eGpB0gG3AUFVX3lxTE04N1c2aEx2ZUxtUTc2enVETEMyOFlNM3pBYjQ1YVBCZGJpVjhDcUZOYjJLTHlGeDR1dklQYnF2NXhFWG81RTBxS09FN1NJbzc5eldfLWRaRzRyZ0tfdV9RQXZfWjVpNFZoVmdlYThGeGdqMVdRczd1MkVpOU8waGo2Umpsc1p6VjdLam96b3hpT2xEWmgycHF1TVBVRFd3Uk9sMGs3X0daTnlmRUc0VTNRQ09IQVpUTQ?oc=5",
+     "media": "detikNews",
+     "platform": "Google News",
+     "terbit": "2026-11-24T12:39+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Kasus Bayi Meninggal di RSUD Priok, Legislator Soroti Keterbatasan NICU",
+     "tautan": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUURReFVlT3RiS2drSE1ZdmVvWUJYRk1HelB5WGdmcG1qbFpQNndwSDctbUhpbFJQQkl0OGIzREhtTDV1NG5GN1pYVHJkTEcyWk92SnM5U3V6N01mWGItQnNQZE9DUGJkSWNGWG96Y3VzcnN5bWNUV1p0dDRjQUR4eE4xOVNmdk51T3JSQkJBcVNCZXFNVzBveGN4dE1PazN1V1Y2SDZrN2xHZXlTSkJr0gG0AUFVX3lxTE9aTEgyN2I1ZUVNaW9DTnNkZUVET0J2d3R5bnRFQUc5YWFrbDZpc3NTR1NuOTQ2YmNBSFp1Y0lsQXowZGszZDN4VVdiSlFVcFhlbmQxa2s4NE1SS3Y2NEE1S3hDYmdCRWNHTjlPSXRVaXdnNDRfRW5LallOWlFyLW5uSmtlbGkzcXZ6T2xGNDg4Y0s2VjJWcGlCWDZJTUduQVd4UEszcmx1Nnoyd3dpU3FuVGpCTQ?oc=5",
+     "media": "detikNews",
+     "platform": "Google News",
+     "terbit": "2026-11-24T12:13+07:00",
+     "cuplikan": ""
     }
    ]
   },
@@ -1226,21 +1228,22 @@
    "id": "9a82650f25ad",
    "tema": "kesehatan",
    "peringkat": 1,
-   "label": "Kemenhaj · Bentuk · Satgas · Haji",
-   "skor": 17.0,
-   "ringkasan": "Isu ini dibahas dalam 6 berita dari 6 sumber pada 24 Nov 2026. Inti pemberitaan: “Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi”. Topik yang sering muncul: kemenhaj, bentuk, satgas, haji, istitaah.",
+   "label": "Bentuk · Satgas · Kemenhaj · Istitaah",
+   "skor": 18.0,
+   "ringkasan": "Isu ini dibahas dalam 7 berita dari 6 sumber pada 24 Nov 2026. Inti pemberitaan: “Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi”. Topik yang sering muncul: satgas, kemenhaj, bentuk, istitaah, haji.",
    "judul_utama": "Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi",
    "kata_kunci": [
+    "satgas",
     "kemenhaj",
     "bentuk",
-    "satgas",
-    "haji",
     "istitaah",
+    "haji",
     "manipulasi"
    ],
    "sorotan": [
     "Perketat Istitaah Kesehatan Haji 2027, Kemenhaj Bentuk Satgas di Daerah dan Ancam Pidana Praktik Manipulasi (tvMu)",
-    "Istithaah Kesehatan Tak Bisa Ditawar, Kemenhaj Bentuk Satgas Istithaah Haji 2027 (MUI - Majelis Ulama Indonesia)"
+    "Istithaah Kesehatan Tak Bisa Ditawar, Kemenhaj Bentuk Satgas Istithaah Haji 2027 (MUI - Majelis Ulama Indonesia)",
+    "Kemarin, Satgas Istitaah Kesehatan hingga peringatan Hari Anak Sedunia (ANTARA News)"
    ],
    "sumber": [
     {
@@ -1248,7 +1251,15 @@
      "tautan": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2JJVTY5ZVFEaFlheGE4QmpkRVlfcDk5YmFUbDJQNlpiVHdGN3ZaV0RyUi1vTDBGbHk3SThHMHBEYzFjUkNDWmF2c3IwVE8wMExzdTN5SFlvRDFVd0dRQnVWbnhSMGRTM282QUFwUndNOVROc292OGU0WHZFdGpNblIwRFl1NG9LM19XNDZZOA?oc=5",
      "media": "Amphuri",
      "platform": "Google News",
-     "terbit": "2026-11-25T00:35+07:00",
+     "terbit": "2026-11-25T06:41+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Kemarin, Satgas Istitaah Kesehatan hingga peringatan Hari Anak Sedunia",
+     "tautan": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNllrdGtDQnVYT1ZLbXpYb3JoVVVmVXhlc1AtRGJyZFJPWWVZTEdWT01XYXVHQmE1ZHcwckhIWElXdmNZWExhY0VPSkRQZFVzaDJISkU4Ylo1aEw4bmlIRlEyazdFOWFQN3B2eldCdDJUdWJydHhqMDIzc2dLNTUtVkVYeUo0X0ZiZkVsdDFTaEF0ZzhqWHY4bS1sQ29rMWd6bkdVN2ZrZEQ1UkpTZ01ZXw?oc=5",
+     "media": "ANTARA News",
+     "platform": "Google News",
+     "terbit": "2026-11-25T06:05+07:00",
      "cuplikan": ""
     },
     {
@@ -1302,8 +1313,8 @@
     {
      "jenis": "sumber",
      "media": "ANTARA News",
-     "judul": "Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi",
-     "url": "https://www.antaranews.com/berita/5876063/kemenhaj-bentuk-satgas-istitaah-kesehatan-haji-cegah-manipulasi"
+     "judul": "Kemarin, Satgas Istitaah Kesehatan hingga peringatan Hari Anak Sedunia",
+     "url": "https://www.antaranews.com/berita/5876343/kemarin-satgas-istitaah-kesehatan-hingga-peringatan-hari-anak-sedunia"
     },
     {
      "jenis": "sumber",
@@ -1323,24 +1334,32 @@
    "id": "8d5bb1df7eff",
    "tema": "kesehatan",
    "peringkat": 2,
-   "label": "Cek · Wamenhaj · Jalani · Haji",
-   "skor": 11.8,
-   "ringkasan": "Isu ini dibahas dalam 4 berita dari 4 sumber pada 24 Nov 2026. Inti pemberitaan: “172.322 Calon Jemaah Haji Reguler Jalani Cek Kesehatan, Wamenhaj Ingatkan 90 Persen Ibadah Haji adalah Aktivitas Fisik”. Topik yang sering muncul: jalani, haji, calon, reguler, jemaah.",
+   "label": "Jemaah · Haji · Jalani · Calon",
+   "skor": 12.5,
+   "ringkasan": "Isu ini dibahas dalam 5 berita dari 4 sumber pada 24 Nov 2026. Inti pemberitaan: “172.322 Calon Jemaah Haji Reguler Jalani Cek Kesehatan, Wamenhaj Ingatkan 90 Persen Ibadah Haji adalah Aktivitas Fisik”. Topik yang sering muncul: haji, jalani, jemaah, calon, wamenhaj.",
    "judul_utama": "172.322 Calon Jemaah Haji Reguler Jalani Cek Kesehatan, Wamenhaj Ingatkan 90 Persen Ibadah Haji adalah Aktivitas Fisik",
    "kata_kunci": [
-    "jalani",
     "haji",
-    "calon",
-    "reguler",
+    "jalani",
     "jemaah",
-    "wamenhaj"
+    "calon",
+    "wamenhaj",
+    "reguler"
    ],
    "sorotan": [
     "172 Ribu Calon Jamaah Haji 2027 Sudah Jalani Cek Kesehatan, Wamenhaj: Siapkan Fisik Sejak Sekarang (MUI - Majelis Ulama Indonesia)",
     "172.322 Jemaah Haji Reguler Jalani Pemeriksaan Kesehatan, 1.172 Belum Penuhi Syarat Istitaah (Kompas.com)",
-    "172 Ribu Calon Haji 2027 Jalani Pemeriksaan Kesehatan, Ribuan Belum Istithaah (republika.co.id)"
+    "Berita Calon Jemaah Haji 2027 Wajib Jalani Skrining Kesehatan, Ini Tahapan dan Kriterianya (Pemkab Aceh Utara)"
    ],
    "sumber": [
+    {
+     "judul": "Berita Calon Jemaah Haji 2027 Wajib Jalani Skrining Kesehatan, Ini Tahapan dan Kriterianya",
+     "tautan": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSTlXNXJPRWZWZThCNThlSEZpN29MTHlGLUMxRHE3ckdUTjZHSERWbGNGbS1HbVB3Z2VjV2tIdXRpYndUVDVycE5TZDNRNVpnUmM1bDNuei14dVNjSkpBaEQzWmxGTmhET1hNYVJuZmJYVDVUMF9CcC1NY082R0djQ1oxcjkwc3VEX0t0bVdiZlRLTk9Uajd0YUlsQ2VDRUZqNk0tNE0tVlJsN0VqUllnUzVtd3I2eGhRU1d1b25yc3VlaHF3SWVCZThuMXZfa2g5WjB3?oc=5",
+     "media": "Pemkab Aceh Utara",
+     "platform": "Google News",
+     "terbit": "2026-11-24T22:25+07:00",
+     "cuplikan": ""
+    },
     {
      "judul": "172.322 Calon Jemaah Haji Reguler Jalani Cek Kesehatan, Wamenhaj Ingatkan 90 Persen Ibadah Haji adalah Aktivitas Fisik",
      "tautan": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcThEaVRjRHhwc0d0TWc4em9CZTROaFVIZ2xkdXBMQmZDSXd1dXBnQjBidjV2bTlVWUdRZGlZSTN5a253QThiRzI1MmtIVzZiMXMxejd3VjFNY29kQldyRy1nWGtpWWZWOHRlRlBQay1WZURGWFlad25CU1pXcXl3czJ0NUx1VGhYdkFHdjJGZUNyUVlyY3RfUGVMcjRuM0VKTFcwTUQwaVVET1JiQXJENkdsaDdnSUwyYW9GSTZaaVQ1blIzOXNrNGFlV2o?oc=5",
@@ -1366,15 +1385,21 @@
      "cuplikan": ""
     },
     {
-     "judul": "172 Ribu Calon Haji 2027 Jalani Pemeriksaan Kesehatan, Ribuan Belum Istithaah",
-     "tautan": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjJPdmhwRnVRa0dMdUlLbEFOZUFYQ1J5ckxBZjdvY3VhVllPN3BfZnVjVUx5eUtpb0ROVnZqeGVyVW0zdHdTeWRZb1piNUJpeFo2cW0tXzBzVzlRSWFJY3h0ZTBlU25QNDQtZFJjMVhrdGwyQ0V0NmlYX0NWZEhIanNyWWJyelRRS1lPY21xSU5CNGxHSFBDQWRMR1VhMGh1dEN4RC1aRmtpVTFIOG56aHBpbjBmMDljdW9BbE50NUJmVkI4?oc=5",
-     "media": "republika.co.id",
+     "judul": "Wamenhaj: Jangan Coba-coba Mengintervensi Pemeriksaan Kesehatan Jemaah Haji",
+     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMThGbWdNOHV1M1VGRWE5elk4ZjNnWkNHdlZJOXlFNmVRU0cwRF80SkxQUDZpSWxPeUxJRllVOXl5dWNMeTRNLW5Nc1lNZU9iM1FfY1lhWVNwd0laQklaamNnVmlYbDZYdklMOVFodlBLUnViU2psSWhselJTck9HUzhpS2l0SlZSbjVlellMRG9FVXdQbFItVTNYY1dhQ1hHZmQwUkRrb01TMngwUVNJNlJ6dzhqMVBLc01TbFZGLTVZU1JMaGc?oc=5",
+     "media": "Kompas.com",
      "platform": "Google News",
-     "terbit": "2026-11-24T16:48+07:00",
+     "terbit": "2026-11-24T16:44+07:00",
      "cuplikan": ""
     }
    ],
    "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "Kompas.com",
+     "judul": "172.322 Jemaah Haji Reguler Jalani Pemeriksaan Kesehatan, 1.172 Belum Penuhi Syarat Istitaah",
+     "url": "https://nasional.kompas.com/read/2026/11/24/19173681/172322-jemaah-haji-reguler-jalani-pemeriksaan-kesehatan-1172-belum-penuhi"
+    },
     {
      "jenis": "sumber",
      "media": "MUI - Majelis Ulama Indonesia",
@@ -1382,32 +1407,147 @@
      "url": "https://mui.or.id/public/baca/berita/172-ribu-calon-jamaah-haji-2027-sudah-jalani-cek-kesehatan-wamenhaj-siapkan-fisik-sejak-sekarang"
     },
     {
-     "jenis": "sumber",
+     "jenis": "terkait",
      "media": "republika.co.id",
      "judul": "172 Ribu Calon Haji 2027 Jalani Pemeriksaan Kesehatan, Ribuan Belum Istithaah",
      "url": "https://khazanah.republika.co.id/berita/tp038y320/172-ribu-calon-haji-2027-jalani-pemeriksaan-kesehatan-ribuan-belum-istithaah"
     },
     {
      "jenis": "terkait",
-     "media": "Malang Inspirasi",
-     "judul": "172.322 Jemaah Haji 2027 Sudah Jalani Pemeriksaan Kesehatan, Wamenhaj Imbau Jemaah Jaga Pola Makan dan Kebugaran",
-     "url": "https://malanginspirasi.com/berita-utama/33099/172-322-jemaah-haji-2027-sudah-jalani-pemeriksaan-kesehatan-wamenhaj-imbau-jemaah-jaga-pola-makan-dan-kebugaran/"
+     "media": "NU Online Lampung",
+     "judul": "172 Ribu Lebih Jamaah Jalani Pemeriksaan Kesehatan, Wamenhaj Imbau Siapkan Fisik Sejak Dini",
+     "url": "https://lampung.nu.or.id/amp/warta/172-ribu-lebih-jamaah-jalani-pemeriksaan-kesehatan-wamenhaj-imbau-siapkan-fisik-sejak-dini-gGo7L"
+    }
+   ]
+  },
+  {
+   "id": "718a383162c9",
+   "tema": "kesehatan",
+   "peringkat": 3,
+   "label": "Tingkat · Jawa · Penghargaan · Puncak",
+   "skor": 8.7,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 24 Nov 2026. Inti pemberitaan: “Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat”. Topik yang sering muncul: tingkat, penghargaan, puncak, jawa, hkn.",
+   "judul_utama": "Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat",
+   "kata_kunci": [
+    "tingkat",
+    "penghargaan",
+    "puncak",
+    "jawa",
+    "hkn",
+    "kota"
+   ],
+   "sorotan": [
+    "49 Penghargaan Diberikan pada Puncak HKN ke-62 Tingkat Kota Tangerang (Pemerintah Kota Tangerang)",
+    "Kota Pasuruan Borong 4 Penghargaan Bidang Kesehatan Tingkat Jawa Timur (RAMAPATI Kota Pasuruan)"
+   ],
+   "sumber": [
+    {
+     "judul": "Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat",
+     "tautan": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEk0a1NrNTZnMU95MXNBT0ZJTTRQRWJYdmZ1MEtsOTJFRUg1VjhUejRDalEzYWhfY09URjdjYlFZek12VFBkbFJXZk8xSkdkVWN6S2pvNHRIa2xlTkMwVXVObXpmNTdZT1c2X3ZaWnI0RzdEcDNOTGhrVVpPMmJ5bFU0eU1OQ1J3UWhBc0FrZUZHdmZzQmZvMjZfZnhiOU5mMzRmRWNZNy1UdVVqUnc?oc=5",
+     "media": "Portal Jabarprov",
+     "platform": "Google News",
+     "terbit": "2026-11-24T14:35+07:00",
+     "cuplikan": ""
     },
     {
-     "jenis": "terkait",
-     "media": "Media Indonesia",
-     "judul": "Wamenhaj: Istithaah Kesehatan Haji 2027 tidak Bisa Dikompromikan",
-     "url": "https://mediaindonesia.com/humaniora/959746/wamenhaj-istithaah-kesehatan-haji-2027-tidak-bisa-dikompromikan"
+     "judul": "Kota Pasuruan Borong 4 Penghargaan Bidang Kesehatan Tingkat Jawa Timur",
+     "tautan": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHVNcFg3TG5pbS1FUnJjdTEzbXFqSzA0LVFraFczanFNaHZ2Nkd3UTc0YzY0VDhoNDJtVUN2MHFZRVByQU91YjM1ZWlFOW5PUDVfci1xNFhpOUM5NE9iU05uR2FzTnR4LXd0WWpGeks1Wk9neXNLQzZnZVh2dFdrdUpnX2lLNElPUkhGaHYxbWhXTmdiVVJlckVPc0Q4M3B5OVhmT3pGd1hDSFhUVkdfR3VoRjNZZXdSekE?oc=5",
+     "media": "RAMAPATI Kota Pasuruan",
+     "platform": "Google News",
+     "terbit": "2026-11-24T12:52+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "49 Penghargaan Diberikan pada Puncak HKN ke-62 Tingkat Kota Tangerang",
+     "tautan": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQU1UOW1qZ1NCWXdiZ0xXVWNOcGRJVDFBTE84TlJ0S19hRExDMUpSMTZLdk9mRGF2bEh5MktvVk1nRGwzRTQ4WjJQTEZZN1ZFTVBaazNzOWtRbVU0b1lnM2F5anAyVDR5MHQxOHdCdGk1dFprVk5wRW9rNEZodnpUcVlMLVp4Qng1TGZ1S3NRaGtCUzFkRTVlQnQ1Q3F0YkVoZDQtVExjZVpGdDhtdTZQdFo4dlM5ZjJ0?oc=5",
+     "media": "Pemerintah Kota Tangerang",
+     "platform": "Google News",
+     "terbit": "2026-11-24T10:51+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "747c73278d73",
+   "tema": "kesehatan",
+   "peringkat": 4,
+   "label": "Pap · Smear · BMKG · Posbindu",
+   "skor": 6.7,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “DWP BMKG Gelar Posbindu dan Pemeriksaan Pap Smear untuk Tingkatkan Kesadaran Kesehatan Pegawai”. Topik yang sering muncul: pap, smear, bmkg, posbindu, kesadaran.",
+   "judul_utama": "DWP BMKG Gelar Posbindu dan Pemeriksaan Pap Smear untuk Tingkatkan Kesadaran Kesehatan Pegawai",
+   "kata_kunci": [
+    "pap",
+    "smear",
+    "bmkg",
+    "posbindu",
+    "kesadaran",
+    "langkah"
+   ],
+   "sorotan": [
+    "Pap Smear: Langkah Kecil yang Bisa Menyelamatkan Nyawa (Pemerintahan Aceh)"
+   ],
+   "sumber": [
+    {
+     "judul": "DWP BMKG Gelar Posbindu dan Pemeriksaan Pap Smear untuk Tingkatkan Kesadaran Kesehatan Pegawai",
+     "tautan": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0NQNGV5a0t2TUhocHQ4bTFKVXNWLU9TWW00cFBvOTBsRXhWRl9qVEQ1M0RYeXFtZjh4RF9JOWFnTktTOEJkQUViNFF5WTJvOEk2WWFKU0MxclZ2X1Y1QkZudVRha29vSGs3RlZYVzViQXVBSnU1akVUSWZPbXFHVWVBd1V5REgyYkhud2hnSEptNGZpVjk0dEd5RXBiUXhfa2lkeGUxbHlFZ240TzBtSUJiS1pWeGE3aFpVdEVlcUNFUQ?oc=5",
+     "media": "BMKG",
+     "platform": "Google News",
+     "terbit": "2026-11-25T02:00+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Pap Smear: Langkah Kecil yang Bisa Menyelamatkan Nyawa",
+     "tautan": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTW96Nm1hN1M3WUhub2Jqdmdnc1dlRzRXYmN4X2M5c3lDZmYyYXlPQ1Y0X3liN2xYc1pYd1JhODhObS13OXREa0xhZ0V1THZ5cEl0VHNYTjVWMVFLc2VZNHdBQ1VmMzI3NUsxTUhHQm5naHUxRW1EbVFfNnYwUTdsRVNHalZDNmVJYkhJZ2VSTVRBdlFGWmpJZjJzUUg4WjRXOFZINTNQbWl3cE85am9zX3dR?oc=5",
+     "media": "Pemerintahan Aceh",
+     "platform": "Google News",
+     "terbit": "2026-11-24T16:17+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "ba7eb65e15f0",
+   "tema": "kesehatan",
+   "peringkat": 5,
+   "label": "Kecamatan · Tamban · Lintas · Sektor",
+   "skor": 6.5,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Pemerintah Kecamatan Tamban Catur Dukung Penguatan Sinergi Lintas Sektor dalam Pelayanan Kesehatan Masyarakat Melalui Lokakarya Mini Lintas Sektor UPT Puskesmas Tamban Baru”. Topik yang sering muncul: tamban, lintas, sektor, pemerintah, kecamatan.",
+   "judul_utama": "Pemerintah Kecamatan Tamban Catur Dukung Penguatan Sinergi Lintas Sektor dalam Pelayanan Kesehatan Masyarakat Melalui Lokakarya Mini Lintas Sektor UPT Puskesmas Tamban Baru",
+   "kata_kunci": [
+    "tamban",
+    "lintas",
+    "sektor",
+    "pemerintah",
+    "kecamatan",
+    "catur"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Pemerintah Kecamatan Tamban Catur Dukung Penguatan Sinergi Lintas Sektor",
+     "tautan": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEthdnVVaUVwRUJ5NWVsZzEwNk5SemF4elJuanl5UzM0bHNvRmFWdm5TcThZdUNRQ2d5akFOS3FFVTg2S0lQZ0NPUjBBS29YMHpTNWoyd0FLMS1NV0FMdFdPZ1F1dHVzQnZJV3c4RGYtVi1DclA2MnZxVXBLdVZFbElCcEJEZ2x4YkVOd0tuZjJwbmNwUDQ2Xy13cDRTXzdFU1JJQjg0S0JOcXZiUmVFZ09VajY?oc=5",
+     "media": "Berita Seputar Borneo",
+     "platform": "Google News",
+     "terbit": "2026-11-24T23:16+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Pemerintah Kecamatan Tamban Catur Dukung Penguatan Sinergi Lintas Sektor dalam Pelayanan Kesehatan Masyarakat Melalui Lokakarya Mini Lintas Sektor UPT Puskesmas Tamban Baru",
+     "tautan": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQUVZ3a0tYYVN2ZXFVZDFfR1RqaEVtTnN3a3hYeDFWUm5YOUZFMDVtZDNKRkZNZUR5LWZzSG1ZMGM0X2c0YXhqMXo1YjBBMVVyNFNFQURjYURjN25SM0ZBU2pJTWhyRVRXLUFsdF9yb0NfZTJZREZkQTJjZUJVb0tHUTZVNjFONDNZSHhhTUg3MDA5V0V5bDNVWEFxN1lJWFp1eWlNUWYzcndwSFJMTlVTVWVzLVdPeHBQLXdRcDlQSHYwUlpQLThybTd2RWl1ekRUeEg1OHA1RnhjdGtDaUZ3VERCdU9pclVfUGpSS1d2WVJUbDJlNEh6Z1ZROEdRaVpINnBjLUg2U0hlRUI0WUhrRzRLQ1JMUVozaW1UVm9IM0pEMS1uUkg1MmppU1VWbXpsWW43VURiZzRYQXFGZ2Fv?oc=5",
+     "media": "kapuas infokom publik",
+     "platform": "Google News",
+     "terbit": "2026-11-24T11:55+07:00",
+     "cuplikan": ""
     }
    ]
   },
   {
    "id": "307c72877fc5",
    "tema": "kesehatan",
-   "peringkat": 3,
+   "peringkat": 6,
    "label": "Ibu · Anak · Pemkot · Layanan",
-   "skor": 6.8,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 23 Nov 2026 dan 24 Nov 2026. Inti pemberitaan: “Pemkot Tingkatkan Kualitas Penanganan Medis Layanan Kesehatan Ibu dan Anak”. Topik yang sering muncul: pemkot, ibu, anak, layanan, kebidanan.",
+   "skor": 6.4,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Pemkot Tingkatkan Kualitas Penanganan Medis Layanan Kesehatan Ibu dan Anak”. Topik yang sering muncul: pemkot, ibu, anak, layanan, kebidanan.",
    "judul_utama": "Pemkot Tingkatkan Kualitas Penanganan Medis Layanan Kesehatan Ibu dan Anak",
    "kata_kunci": [
     "pemkot",
@@ -1434,45 +1574,7 @@
      "tautan": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanlZVmVraUFUWGZnN2V4OEFNRFZnSXdjUmpLZ294WTFMOW5HeGY5bGk1cEZMYXdKRUktWU5LOTBlQ29FSlNzWVJuVjhuNzBuLWxiZGI4cDh2MkR4YldQQUVRT3ZqaWFhQlZtUklHU05UZUtJcF9LQS12UkdxcUNXNDNaOWJiNWJkcWFtS2VhTzJrWGRTaXNTYndKX3RyQ3pBSlVyZ082SHVibGloWWszTmZNZnZWSzJZbkpUZ2hqQlJvNk1yNjFZbHZvR1FXT28?oc=5",
      "media": "Pemerintah Kota Yogyakarta",
      "platform": "Google News",
-     "terbit": "2026-11-24T05:42+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "c903fec6ea68",
-   "tema": "kesehatan",
-   "peringkat": 4,
-   "label": "AKI · AKB · Penurunan · Jabar",
-   "skor": 6.7,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Tingkatkan Kapasitas Kader, TP PKK Kabupaten Madiun Perkuat Upaya Penurunan AKI, AKB, dan Peningkatan Capaian Imunisasi”. Topik yang sering muncul: penurunan, aki, akb, jabar, madiun.",
-   "judul_utama": "Tingkatkan Kapasitas Kader, TP PKK Kabupaten Madiun Perkuat Upaya Penurunan AKI, AKB, dan Peningkatan Capaian Imunisasi",
-   "kata_kunci": [
-    "penurunan",
-    "aki",
-    "akb",
-    "jabar",
-    "madiun",
-    "imunisasi"
-   ],
-   "sorotan": [
-    "Borong 13 Penghargaan Bidang Kesehatan Tingkat Jabar 2026, Garut Raih Juara I Penurunan AKI dan AKB (StatusJabar)"
-   ],
-   "sumber": [
-    {
-     "judul": "Borong 13 Penghargaan Bidang Kesehatan Tingkat Jabar 2026, Garut Raih Juara I Penurunan AKI dan AKB",
-     "tautan": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVVTbWZaZW02QklsSkxXcnVFdmhmOENSVEkyNDgydk14aGJnajFpYk5qVlhWTFk1ZjBkWE5vN0Njc2VfR2RxWWV3UGV1MVZUZXV2MFNfUTdfTnQzVDZYT2pRa1hkZXBaMmpwd0dZeUdFV21BdUtJRVktMnZXd040TG5tc3BVVmxOSk5tNE5OWEFxS0syZk1HT09SU3NpSi1wYlpCYmhzZW1JRHV6YnhjdkFfZXRkY1BwMFZ4RURaek4?oc=5",
-     "media": "StatusJabar",
-     "platform": "Google News",
-     "terbit": "2026-11-24T19:53+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Tingkatkan Kapasitas Kader, TP PKK Kabupaten Madiun Perkuat Upaya Penurunan AKI, AKB, dan Peningkatan Capaian Imunisasi",
-     "tautan": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQklFWGZOTTFSN191UVVjZkVLM19ad1AycWs0UzdteXFONGZwVFZGbk5INm1VUVRDRlhsSkU2cVVqcUpmSUZsbTU2SEhFblJkUGVXNmxyOWNOVUFMbmhENDJqQjlyY1RNb0ZsSEFVNFdTSm5EdEFVWnF1NWhBRndfSE9vZWh2NGVtZ210TUJHc3RubEtCRnRZa2VsbG1FcS0tRy1BU0Z5dE1ZMHEzOUFrQmphUEx3blhsQ0tBbHFaWUozQmJDMDVEeEpkd0hDUUZ0Y19zZmNtSTU?oc=5",
-     "media": "https://madiunkab.go.id/",
-     "platform": "Google News",
-     "terbit": "2026-11-24T16:20+07:00",
+     "terbit": "2026-11-24T08:47+07:00",
      "cuplikan": ""
     }
    ]
@@ -1480,9 +1582,9 @@
   {
    "id": "f24ff6d45d0f",
    "tema": "kesehatan",
-   "peringkat": 5,
+   "peringkat": 7,
    "label": "Fun · Karaoke · HKN · Unjuk",
-   "skor": 6.4,
+   "skor": 6.2,
    "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Fun Karaoke HKN ke-62 di Jakut Jadi Upaya Jaga Kesehatan Mental”. Topik yang sering muncul: fun, karaoke, hkn, unjuk, bakat.",
    "judul_utama": "Fun Karaoke HKN ke-62 di Jakut Jadi Upaya Jaga Kesehatan Mental",
    "kata_kunci": [
@@ -1518,16 +1620,16 @@
   {
    "id": "4be3dd5bee67",
    "tema": "kesehatan",
-   "peringkat": 6,
-   "label": "Kemanusiaan · Psikososial · Bakti",
-   "skor": 6.4,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Bakti Kemanusiaan di Talio Muara, Lazismu dan Relawan Hadirkan Layanan Kesehatan dan Psikososial”. Topik yang sering muncul: kemanusiaan, psikososial, bakti, hadirkan, talio.",
+   "peringkat": 8,
+   "label": "Kemanusiaan · Psikososial · Hadirkan",
+   "skor": 6.2,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Bakti Kemanusiaan di Talio Muara, Lazismu dan Relawan Hadirkan Layanan Kesehatan dan Psikososial”. Topik yang sering muncul: kemanusiaan, psikososial, hadirkan, bakti, talio.",
    "judul_utama": "Bakti Kemanusiaan di Talio Muara, Lazismu dan Relawan Hadirkan Layanan Kesehatan dan Psikososial",
    "kata_kunci": [
     "kemanusiaan",
     "psikososial",
-    "bakti",
     "hadirkan",
+    "bakti",
     "talio",
     "relawan"
    ],
@@ -1554,49 +1656,11 @@
    ]
   },
   {
-   "id": "718a383162c9",
-   "tema": "kesehatan",
-   "peringkat": 7,
-   "label": "Tingkat · Jawa · Penghargaan · Pasuruan",
-   "skor": 6.4,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat”. Topik yang sering muncul: jawa, tingkat, penghargaan, pasuruan, timur.",
-   "judul_utama": "Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat",
-   "kata_kunci": [
-    "jawa",
-    "tingkat",
-    "penghargaan",
-    "pasuruan",
-    "timur",
-    "garut"
-   ],
-   "sorotan": [
-    "Kota Pasuruan Borong 4 Penghargaan Bidang Kesehatan Tingkat Jawa Timur (RAMAPATI Kota Pasuruan)"
-   ],
-   "sumber": [
-    {
-     "judul": "Garut Raih Sejumlah Penghargaan pada Puncak HKN ke-62 Tingkat Jawa Barat",
-     "tautan": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEk0a1NrNTZnMU95MXNBT0ZJTTRQRWJYdmZ1MEtsOTJFRUg1VjhUejRDalEzYWhfY09URjdjYlFZek12VFBkbFJXZk8xSkdkVWN6S2pvNHRIa2xlTkMwVXVObXpmNTdZT1c2X3ZaWnI0RzdEcDNOTGhrVVpPMmJ5bFU0eU1OQ1J3UWhBc0FrZUZHdmZzQmZvMjZfZnhiOU5mMzRmRWNZNy1UdVVqUnc?oc=5",
-     "media": "Portal Jabarprov",
-     "platform": "Google News",
-     "terbit": "2026-11-24T14:35+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Kota Pasuruan Borong 4 Penghargaan Bidang Kesehatan Tingkat Jawa Timur",
-     "tautan": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHVNcFg3TG5pbS1FUnJjdTEzbXFqSzA0LVFraFczanFNaHZ2Nkd3UTc0YzY0VDhoNDJtVUN2MHFZRVByQU91YjM1ZWlFOW5PUDVfci1xNFhpOUM5NE9iU05uR2FzTnR4LXd0WWpGeks1Wk9neXNLQzZnZVh2dFdrdUpnX2lLNElPUkhGaHYxbWhXTmdiVVJlckVPc0Q4M3B5OVhmT3pGd1hDSFhUVkdfR3VoRjNZZXdSekE?oc=5",
-     "media": "RAMAPATI Kota Pasuruan",
-     "platform": "Google News",
-     "terbit": "2026-11-24T12:52+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
    "id": "efd73946bbce",
    "tema": "kesehatan",
-   "peringkat": 8,
+   "peringkat": 9,
    "label": "Layanan · Gratis · Milad · Lazismu",
-   "skor": 6.4,
+   "skor": 6.2,
    "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Pemko Sibolga Bersama Lazismu dan BAZNAS Gelar Sunat Massal dan Layanan Kesehatan Gratis pada Milad Muhammadiyah ke-114”. Topik yang sering muncul: milad, lazismu, gratis, layanan, penyaluran.",
    "judul_utama": "Pemko Sibolga Bersama Lazismu dan BAZNAS Gelar Sunat Massal dan Layanan Kesehatan Gratis pada Milad Muhammadiyah ke-114",
    "kata_kunci": [
@@ -1625,44 +1689,6 @@
      "media": "https://sibolgakota.go.id/",
      "platform": "Google News",
      "terbit": "2026-11-24T14:03+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "d0d0c683b747",
-   "tema": "kesehatan",
-   "peringkat": 9,
-   "label": "Pelayanan · Masyarakat · Posyandu · TONGKOL",
-   "skor": 6.4,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 24 Nov 2026. Inti pemberitaan: “Tingkatkan Kualitas Pelayanan Kesehatan Masyarakat, Kelurahan Kamal Muara Monitoring Posyandu TONGKOL 1 di RW 02”. Topik yang sering muncul: posyandu, pelayanan, masyarakat, tongkol, kraksaan.",
-   "judul_utama": "Tingkatkan Kualitas Pelayanan Kesehatan Masyarakat, Kelurahan Kamal Muara Monitoring Posyandu TONGKOL 1 di RW 02",
-   "kata_kunci": [
-    "posyandu",
-    "pelayanan",
-    "masyarakat",
-    "tongkol",
-    "kraksaan",
-    "wetan"
-   ],
-   "sorotan": [
-    "Kader Posyandu Kraksaan Wetan Evaluasi Pelayanan Kesehatan Masyarakat (Pemerintah Kabupaten Probolinggo)"
-   ],
-   "sumber": [
-    {
-     "judul": "Tingkatkan Kualitas Pelayanan Kesehatan Masyarakat, Kelurahan Kamal Muara Monitoring Posyandu TONGKOL 1 di RW 02",
-     "tautan": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDdWOVp2NGdfR09rLWFDQ3VEZmhvY3dCcUluX2VpZGdHMXR6U1lDMk5lY09WcEVXcWc0eXhRTHJtWEU3d2w2RUt6akZPNkhXSHMxMkZWaUFVQ1hveW4xclNvRnpqT2tDbTJQTnEtUUR0XzZUSkVrQTdmVEtFNTM1bmpPUW1YazJFdDVQbVlFYUpGdTJQOFk2ZU8xb200Wl9xdUFPVGVDV2VNeUtleEphNmdTNktuQ3hPbmxVSmRaSk1pZmVxZ2NfSDhzSVJ1Q1cwT2oxMmdlZmNZZWxaNGtRckV4NE1seE0?oc=5",
-     "media": "DKI Jakarta",
-     "platform": "Google News",
-     "terbit": "2026-11-24T13:25+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Kader Posyandu Kraksaan Wetan Evaluasi Pelayanan Kesehatan Masyarakat",
-     "tautan": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmo2aEM0ZUFxcGlRS1lsNE1VbGN1VWthVDE0aEoxY2tuT19BcVpWRXZ4YTQ2THVRSFRPdjFCQjZWS2FuREd2WkpwcENXQVdMZUhKRjB4WkNnU2owZzRKVlZPelAzYkVMQTRleEpjQkYzS2FGd0hJSnpNVTQxREJSNjhEMFZHV3NFc3ZoemtFaGZKYUlvVHJndmUyU0hPeGdP?oc=5",
-     "media": "Pemerintah Kabupaten Probolinggo",
-     "platform": "Google News",
-     "terbit": "2026-11-24T08:24+07:00",
      "cuplikan": ""
     }
    ]
