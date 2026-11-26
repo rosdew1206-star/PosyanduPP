@@ -6,7 +6,7 @@ Hanya memakai pustaka standar Python agar ringan.
 
 from __future__ import annotations
 
-__build__ = "2026.11.24-eac7c33b"
+__build__ = "2026.11.26-97239d55"
 import html
 import json
 import re
@@ -108,6 +108,61 @@ def fetch_google_news(query: str, region: str, time_range: str, limit: int = 100
                 snippet=snippet,
             )
         )
+        if len(items) >= limit:
+            break
+    return items
+
+
+_KATA_UMUM = {"dan", "yang", "di", "ke", "dari", "untuk", "pada", "dengan", "the", "and", "of", "for", "to", "in", "cara", "tips"}
+
+
+def _kata_tema(query: str) -> list[str]:
+    return [w for w in re.findall(r"[0-9a-zA-ZÀ-ɏ]+", query.lower()) if len(w) >= 3 and w not in _KATA_UMUM]
+
+
+def relevan(judul: str, query: str) -> bool:
+    """Judul memuat kata tema: semua kata bila tema 1 sampai 2 kata, minimal separuhnya bila lebih panjang."""
+    kata = _kata_tema(query)
+    if not kata:
+        return True
+    t = judul.lower()
+    ada = sum(1 for w in kata if w in t)
+    return ada >= (len(kata) if len(kata) <= 2 else (len(kata) + 1) // 2)
+
+
+def fetch_informatif(query: str, region: str, sites: list[str], limit: int = 100) -> list[Item]:
+    """Artikel penjelasan dan panduan (bukan berita harian) dari situs pilihan, lewat pencarian Google News
+    yang dibatasi ke situs-situs itu dan tanpa batas waktu terbit. Hasil yang judulnya tidak memuat kata
+    tema (mis. halaman beranda situs) dibuang."""
+    if not sites:
+        return []
+    cfg = REGIONS[region]
+    situs = " OR ".join(f"site:{s}" for s in sites)
+    params = {"q": f"{query} ({situs})", "hl": cfg["hl"], "gl": cfg["gl"], "ceid": cfg["ceid"]}
+    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
+    root = ET.fromstring(_get(url))
+    items: list[Item] = []
+    for node in root.iter("item"):
+        raw_title = (node.findtext("title") or "").strip()
+        source_el = node.find("source")
+        source = (source_el.text or "").strip() if source_el is not None else ""
+        title = raw_title
+        if source and title.endswith(" - " + source):
+            title = title[: -len(" - " + source)]
+        elif " - " in title:
+            title, _, maybe_src = title.rpartition(" - ")
+            source = source or maybe_src
+        if not relevan(title, query):
+            continue
+        published = None
+        pub = node.findtext("pubDate")
+        if pub:
+            try:
+                published = parsedate_to_datetime(pub)
+            except (TypeError, ValueError):
+                pass
+        items.append(Item(title=title.strip(), link=(node.findtext("link") or "").strip(),
+                          source=source or "Artikel", platform="Artikel", published=published))
         if len(items) >= limit:
             break
     return items

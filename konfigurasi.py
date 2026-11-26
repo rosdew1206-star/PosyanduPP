@@ -7,7 +7,7 @@ Variable tidak terlihat oleh pengunjung repo publik, hanya oleh pemilik repo.
 
 from __future__ import annotations
 
-__build__ = "2026.11.24-eac7c33b"
+__build__ = "2026.11.26-97239d55"
 import json
 import re
 from pathlib import Path
@@ -20,6 +20,23 @@ WORKFLOW_FILE = "laporan-harian.yml"
 HARI = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"]  # indeks = datetime.weekday()
 
 EMAIL_RE = re.compile(r"^[^@\s,;]+@[^@\s,;]+\.[^@\s,;]+$")
+DOMAIN_RE = re.compile(r"^(?=.{4,80}$)([a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,}$")
+
+# Jenis bahan laporan: "berita" (Google News beberapa hari terakhir + Reddit) atau "informatif"
+# (artikel penjelasan dan panduan dari situs pilihan, tanpa batas waktu terbit)
+JENIS_BAHAN = ("berita", "informatif")
+SITUS_INFORMATIF_BAWAAN = ["alodokter.com", "halodoc.com", "hellosehat.com", "klikdokter.com", "kemkes.go.id", "idai.or.id"]
+MAKS_SITUS = 15
+
+
+def bersihkan_situs(daftar) -> list[str]:
+    """Nama domain saja (mis. alodokter.com): tanpa https://, jalur, atau spasi; maks. 15, tanpa duplikat."""
+    hasil = []
+    for s in daftar if isinstance(daftar, list) else []:
+        d = re.sub(r"^https?://", "", str(s).strip().lower()).split("/")[0].removeprefix("www.")
+        if DOMAIN_RE.match(d) and d not in hasil:
+            hasil.append(d)
+    return hasil[:MAKS_SITUS]
 
 
 def _tema_dari_file() -> list[str]:
@@ -43,6 +60,8 @@ def default() -> dict:
         "wilayah": "Indonesia (Bahasa Indonesia)",
         "rentang": "24 jam terakhir",
         "jumlah_isu": 5,
+        "jenis_bahan": "berita",
+        "situs_informatif": list(SITUS_INFORMATIF_BAWAAN),
     }
 
 
@@ -69,6 +88,11 @@ def normalisasi(data: dict | None) -> dict:
         cfg["jumlah_isu"] = max(1, min(10, int(data.get("jumlah_isu", cfg["jumlah_isu"]))))
     except (TypeError, ValueError):
         pass
+    if data.get("jenis_bahan") in JENIS_BAHAN:
+        cfg["jenis_bahan"] = data["jenis_bahan"]
+    situs = bersihkan_situs(data.get("situs_informatif"))
+    if situs:
+        cfg["situs_informatif"] = situs
     return cfg
 
 

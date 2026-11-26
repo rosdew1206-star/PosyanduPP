@@ -12,7 +12,7 @@ Cara kerja:
 
 from __future__ import annotations
 
-__build__ = "2026.11.24-eac7c33b"
+__build__ = "2026.11.26-97239d55"
 import math
 import re
 from collections import Counter
@@ -253,6 +253,8 @@ def build_issues(
             counts.append(f"{pf['Google News']} berita")
         if pf.get("Reddit"):
             counts.append(f"{pf['Reddit']} diskusi Reddit")
+        if pf.get("Artikel"):
+            counts.append(f"{pf['Artikel']} artikel informatif")
         span = ""
         if dates:
             d0, d1 = _fmt_date(min(dates)), _fmt_date(max(dates))
@@ -260,7 +262,8 @@ def build_issues(
         parts.append(
             f"Isu ini dibahas dalam {' dan '.join(counts)} dari {n_sources} sumber{span}."
         )
-        parts.append(f"Inti pemberitaan: “{issue.headline.title}”.")
+        informatif = pf.get("Artikel") and not pf.get("Google News") and not pf.get("Reddit")
+        parts.append(f"{'Artikel utama' if informatif else 'Inti pemberitaan'}: “{issue.headline.title}”.")
         if issue.keywords:
             parts.append("Topik yang sering muncul: " + ", ".join(issue.keywords[:5]) + ".")
         if engagement and pf.get("Reddit"):

@@ -22,7 +22,7 @@ Variabel lingkungan:
 
 from __future__ import annotations
 
-__build__ = "2026.11.24-eac7c33b"
+__build__ = "2026.11.26-97239d55"
 import hashlib
 import html
 import json
@@ -35,7 +35,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
 
-from fetchers import REGIONS, TIME_RANGES, fetch_google_news, fetch_reddit
+from fetchers import REGIONS, TIME_RANGES, fetch_google_news, fetch_informatif, fetch_reddit
 from konfigurasi import HARI, dari_json
 from summarizer import build_issues, issues_to_markdown
 
@@ -62,8 +62,18 @@ def tandai_data_baru() -> None:
             f.write("baru=true\n")
 
 
-def collect(theme: str, region: str, rentang: str, jumlah: int):
+def collect(theme: str, region: str, rentang: str, jumlah: int, jenis: str = "berita", situs: list[str] | None = None):
     items, notes = [], []
+    if jenis == "informatif":
+        # Artikel penjelasan dan panduan dari situs pilihan, tanpa batas waktu terbit; tanpa Reddit
+        try:
+            items += fetch_informatif(theme, region, situs or [])
+        except Exception as e:  # noqa: BLE001
+            notes.append(f"Pencarian artikel informatif gagal: {e}")
+        if not items:
+            notes.append("Tidak ada artikel informatif yang cocok di situs pilihan; coba kata kunci tema yang lebih umum atau tambah situs.")
+        issues, _ = build_issues(items, theme, max_issues=jumlah) if items else ([], None)
+        return issues, len(items), notes
     try:
         items += fetch_google_news(theme, region, rentang)
     except Exception as e:  # noqa: BLE001
@@ -283,12 +293,14 @@ def main() -> None:
     sections, md_parts = [], []
     for theme in themes:
         print(f"Memproses tema: {theme}")
-        issues, n_items, notes = collect(theme, region, rentang, jumlah)
+        issues, n_items, notes = collect(theme, region, rentang, jumlah, cfg["jenis_bahan"], cfg["situs_informatif"])
         sections.append((theme, issues, n_items, notes))
         md_parts.append(issues_to_markdown(issues, theme, f"{region} · {rentang}"))
 
-    title = f"Isu Populer {now:%d %b %Y}"
-    meta = f"{region} · {rentang} · {now:%d %b %Y %H:%M} WIB · {len(themes)} tema"
+    informatif = cfg["jenis_bahan"] == "informatif"
+    title = f"{'Artikel Informatif' if informatif else 'Isu Populer'} {now:%d %b %Y}"
+    keterangan = "artikel informatif dari " + ", ".join(cfg["situs_informatif"][:4]) + ("…" if len(cfg["situs_informatif"]) > 4 else "") if informatif else rentang
+    meta = f"{region} · {keterangan} · {now:%d %b %Y %H:%M} WIB · {len(themes)} tema"
     html_body = render_html(sections, title, meta)
     text_body = "\n\n".join(md_parts)
     simpan_json(sections, now, meta)
