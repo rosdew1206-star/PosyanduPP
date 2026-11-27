@@ -1,6 +1,6 @@
 {
- "dibuat": "2026-11-27T13:08+07:00",
- "keterangan": "Indonesia (Bahasa Indonesia) · 24 jam terakhir · 27 Nov 2026 13:08 WIB · 3 tema",
+ "dibuat": "2026-11-27T19:00+07:00",
+ "keterangan": "Indonesia (Bahasa Indonesia) · 24 jam terakhir · 27 Nov 2026 19:00 WIB · 3 tema",
  "tema": [
   "kesehatan lansia",
   "kesehatan anak",
@@ -8,140 +8,203 @@
  ],
  "isu": [
   {
-   "id": "119d9e1e0618",
+   "id": "213d8a3f54f9",
    "tema": "kesehatan lansia",
    "peringkat": 1,
-   "label": "Pemkab · Taput · Wisuda · Aktif",
-   "skor": 11.5,
-   "ringkasan": "Isu ini dibahas dalam 4 berita dari 4 sumber pada 26 Nov 2026. Inti pemberitaan: “150 Lansia di Taput Ikuti Wisuda Sekolah Lansia Tangguh, Pemkab Dorong Hidup Sehat dan Mandiri”. Topik yang sering muncul: pemkab, taput, wisuda, aktif, dorong.",
-   "judul_utama": "150 Lansia di Taput Ikuti Wisuda Sekolah Lansia Tangguh, Pemkab Dorong Hidup Sehat dan Mandiri",
+   "label": "Sentul · City · Posbindu · Ajak",
+   "skor": 9.4,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 27 Nov 2026. Inti pemberitaan: “Posbindu Sentul City Ajak Lansia Tetap Aktif dan Bahagia”. Topik yang sering muncul: posbindu, sentul, city, ajak, bahagia.",
+   "judul_utama": "Posbindu Sentul City Ajak Lansia Tetap Aktif dan Bahagia",
    "kata_kunci": [
-    "pemkab",
-    "taput",
-    "wisuda",
-    "aktif",
-    "dorong",
-    "tangguh"
+    "posbindu",
+    "sentul",
+    "city",
+    "ajak",
+    "bahagia",
+    "kebahagiaan"
    ],
    "sorotan": [
-    "Bukan Sekadar Wisuda, Pemkab Taput Dampingi Lansia Belajar Menjaga Kesehatan dan Tetap Aktif (Lensa Warga)",
-    "150 Lansia Taput Diwisuda, Pemkab Dorong Tetap Sehat dan Aktif (SINATA.ID)"
+    "Posbindu Sentul City Ajak Lansia Jaga Kesehatan Mental dan Kebahagiaan (Bogor-Kita.com)"
    ],
    "sumber": [
     {
-     "judul": "Bukan Sekadar Wisuda, Pemkab Taput Dampingi Lansia Belajar Menjaga Kesehatan dan Tetap Aktif",
-     "tautan": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGt3TnExWVMtUWo4akdLd0xZZExkb0tuV3doYXZSX3BHLUdvaVpxR3E2NDRkUUNRbTZ1US1oNTdsQTlLQXRiVk9DTG0tVS1fekFHdVc0S1NxNlV2MUJuX1RnRDh4aXVLdlhpTHJ3LVdabHIweHc3YmxvcUo4aU5BZmFjeE1qdHhtekJIOXZrQU81bS1vVElvX1lrQ3Uxel9iNjBRUVh0SkRJMXlJbDk4NzRUTmw2dzZfNngzZE4xU1lqUQ?oc=5",
-     "media": "Lensa Warga",
+     "judul": "Posbindu Sentul City Ajak Lansia Tetap Aktif dan Bahagia",
+     "tautan": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXN3eGxLbkZab1RPY2p1MTB5NjRUeXNqMjh4aFpQNG5ybjVIU0hqT1FwX1NiYk5WbUtXUXdsU1VXM20zNWFMZUx2LTBORHAwakhQS3Z1M1FmY1dKN2twVGdjQ0djTWVMdXczUG1oa1BBcHlCelk0cXFKRUNIcHdaaFRrTC1NQ2l2My1zWERPMXk3OGhLU0NlQkxZOEM?oc=5",
+     "media": "Tribunnewsbogor.com",
      "platform": "Google News",
-     "terbit": "2026-11-27T05:54+07:00",
+     "terbit": "2026-11-27T18:05+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "150 Lansia Taput Diwisuda, Pemkab Dorong Tetap Sehat dan Aktif",
-     "tautan": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWlId0VrTHBvSXk0OVdwdUZnZDZ6MFBqVmZsb3NXaGJiLTJKUENKUzFrcngzWUxTMXUtUDF0d0pxNEk2T3ZoREZNY0F5N1Mxck0wMVllN3k2TVFEcFh6a3BqeEFkNm5jcU9DSnVkc1NqQmRPaENUVzBoZlNsMHZSTkVGcmludw?oc=5",
-     "media": "SINATA.ID",
+     "judul": "Posbindu Sentul City Ajak Lansia Jaga Kesehatan Mental dan Kebahagiaan",
+     "tautan": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3BLeXhXc1hqUEN6Yzh5ellIVENCOUtFWFVGSTdmeEJPTnVhNm80R1pueWJxR0U1bmg5Rkk3b0swa1Nyc3N6Q1VEM1ZheWV4aGJsZEM0MWRaNEJ5cDRnQ2V1VXBYbXVfQUJyZ2VLRlUwU1ZVamIzTDBXWk95N2dZRHkxYTJkclpiYnVtTHZMRlc0aWJPT0I5RDJn?oc=5",
+     "media": "Bogor-Kita.com",
      "platform": "Google News",
-     "terbit": "2026-11-26T18:30+07:00",
+     "terbit": "2026-11-27T15:10+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "150 Lansia di Taput Ikuti Wisuda Sekolah Lansia Tangguh, Pemkab Dorong Hidup Sehat dan Mandiri",
-     "tautan": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1JBSjh2WnNmZ2U4Z0FiODNDZXgyYXNDQUJjcDJqaTNaako4RklGUl9ZSk96NktHMlQ2YllnSzJVcGpYbVNlb0FJbXdfckRITnVpRl9PQ19oSVJMLU5pT0ZKM1V3OEd6T1F3SzhOZWhiOXhoQzdyWlNTM2R4LXM0V1BHdjg1MnpSc1R0d0NKaEE1c3lTVGNjc2xqRlI5eG1WbVpQQWRzRjRPVjhhcUIwRTJ6RHBfeXJCWS03WFdXMA?oc=5",
-     "media": "Putra Bhayangkara",
+     "judul": "Posbindu Sentul City Ajak Lansia Lawan Kesepian dan Tetap Bahagia",
+     "tautan": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDlpWmFvSk9FWkJtdmJjX3JCY09VRTZTM2dqbUtoOHdnTUI3c0NtZm1OeW45aXVUMzQyVmo3R1ZRMUFCVlpuNWVMUS1DRmMzYmlBZzBYTTM2NlRUOHV5ZElvNTBlWlk2aGMwc3ROT0NablRlRDZXWGZSVkJIQXN5aG91WDI1MDk2UnNsYUFUMHgwczlQZUdxZHpWR1FIU2wwSnJiNWQtTlZaRzVSU3JaONIBsAFBVV95cUxQdDlpWmFvSk9FWkJtdmJjX3JCY09VRTZTM2dqbUtoOHdnTUI3c0NtZm1OeW45aXVUMzQyVmo3R1ZRMUFCVlpuNWVMUS1DRmMzYmlBZzBYTTM2NlRUOHV5ZElvNTBlWlk2aGMwc3ROT0NablRlRDZXWGZSVkJIQXN5aG91WDI1MDk2UnNsYUFUMHgwczlQZUdxZHpWR1FIU2wwSnJiNWQtTlZaRzVSU3JaOA?oc=5",
+     "media": "VIVA Bogor",
      "platform": "Google News",
-     "terbit": "2026-11-26T17:48+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Pemkab Taput Wisuda 150 Peserta Sekolah Lansia Tangguh",
-     "tautan": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkZ5Wlo1c2drVUpUeTNsU3lRV2l2UUt1bDZ2aWNGM0NWaDB1OEZvMFU1TWpENjZKb0JyaGE0SklRUHJnTFZfcmpfV2xTcHVwYlVwZkFqcEEybWdGMHljLUhKNEtGellucVQ3Ym9IbFZYNXJxUDNoUzhldzRQa0NQaktkSHczdXFLWHFBbVdDQ1ZQSzBNYl9Uc1ZmVXVBZw?oc=5",
-     "media": "RRI.co.id",
-     "platform": "Google News",
-     "terbit": "2026-11-26T15:15+07:00",
+     "terbit": "2026-11-27T13:45+07:00",
      "cuplikan": ""
     }
    ],
    "artikel": [
     {
      "jenis": "sumber",
-     "media": "SINATA.ID",
-     "judul": "150 Lansia Taput Diwisuda, Pemkab Dorong Tetap Sehat dan Aktif",
-     "url": "https://sinata.id/150-lansia-taput-diwisuda-pemkab-dorong-tetap-sehat-dan-aktif"
+     "media": "Bogor-Kita.com",
+     "judul": "Posbindu Sentul City Ajak Lansia Jaga Kesehatan Mental dan Kebahagiaan",
+     "url": "https://bogor-kita.com/posbindu-sentul-city-ajak-lansia-jaga-kesehatan-mental-dan-kebahagiaan/"
+    },
+    {
+     "jenis": "sumber",
+     "media": "VIVA Bogor",
+     "judul": "Posbindu Sentul City Ajak Lansia Lawan Kesepian dan Tetap Bahagia",
+     "url": "https://bogor.viva.co.id/amp/kabar-bogor/8238-posbindu-sentul-city-ajak-lansia-lawan-kesepian-dan-tetap-bahagia"
     }
    ]
   },
   {
-   "id": "21480362d8cc",
+   "id": "b41b5249eaf4",
    "tema": "kesehatan lansia",
    "peringkat": 2,
-   "label": "Bekali · Peserta · Pelatihan · Caregiver",
-   "skor": 6.8,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Pelatihan Caregiver ‘Aisyiyah Bekali 27 Peserta Keterampilan Merawat Lansia Profesional”. Topik yang sering muncul: bekali, peserta, pelatihan, caregiver, aisyiyah.",
-   "judul_utama": "Pelatihan Caregiver ‘Aisyiyah Bekali 27 Peserta Keterampilan Merawat Lansia Profesional",
+   "label": "Mangucita · Fest · Janger · Lomba",
+   "skor": 7.0,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “Lincahnya Ratusan Lansia Menari Janger di Ajang Mangucita Fest 2026”. Topik yang sering muncul: janger, mangucita, fest, lomba, tari.",
+   "judul_utama": "Lincahnya Ratusan Lansia Menari Janger di Ajang Mangucita Fest 2026",
    "kata_kunci": [
-    "bekali",
-    "peserta",
-    "pelatihan",
-    "caregiver",
-    "aisyiyah",
-    "keterampilan"
+    "janger",
+    "mangucita",
+    "fest",
+    "lomba",
+    "tari",
+    "lincahnya"
    ],
    "sorotan": [
-    "Sekolah Lansia Taput Bekali Peserta Tujuh Dimensi Ketangguhan (RRI.co.id)"
+    "650 Lansia Ikuti Lomba Tari Janger di Mangucita Fest 2026 (bsinews.id)"
    ],
    "sumber": [
     {
-     "judul": "Pelatihan Caregiver ‘Aisyiyah Bekali 27 Peserta Keterampilan Merawat Lansia Profesional",
-     "tautan": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORU5ucW11aUY1cENQMmZZZjNpa0VGdy0xZ3o4R2xSLUw5Wlg4akhDNnRIWjlsT0swaHNzWS1BRHFDR3BNbUV3UGZjQzVOc19UQVI1RXJCSG5fRmYwTmpnT2hJdFEwb0ZsQ1doZ0hPZjBmWFd1MG44a2RDazFpTnlIbzBGVjVCYmFDRllEYzNoaFc3Ui1fdldhQS1aWnl1dDRiU2I3QmEzZGdoUFltS0d5SVM2Zw?oc=5",
-     "media": "klikmu.co",
+     "judul": "650 Lansia Ikuti Lomba Tari Janger di Mangucita Fest 2026",
+     "tautan": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wM2d5OUtOTGp3d1BXSWpwMHp6RHBSdzZLV3Fya1RlaEtfcy1jN2ZpUXQ3NngyZTgybGgzUUtoWDdROWphNlktVnU0aTZkWUVfemNuVERNQnlpZEZHelE?oc=5",
+     "media": "bsinews.id",
      "platform": "Google News",
-     "terbit": "2026-11-27T11:07+07:00",
+     "terbit": "2026-11-27T18:43+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Sekolah Lansia Taput Bekali Peserta Tujuh Dimensi Ketangguhan",
-     "tautan": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWwzMXVqNUtkQWIwY29CcWJRVDBkd25XVTZsTHA2dmZnVUpzYWp4MlJQWEtXYnV5SVVzWS1UVzcyN2pqXzhONjFNLXRzb3MxbElfNkg5OFhVOW55SGFiSFFURW1UMjBDN0QtbXhacDBIRlpYSWNlR2YyZkl2UHRZdm1pMFNObEdkWXNtWTFfM0FqMEFtNTBSbWNTQUNkaVFmNnFJZEVtUQ?oc=5",
-     "media": "RRI.co.id",
+     "judul": "Lincahnya Ratusan Lansia Menari Janger di Ajang Mangucita Fest 2026",
+     "tautan": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONG1wdzJtWXcyZGloell5bnZCakdJTW9ZTDhjaUR5MDMzVzZMbGFuOGZqOUQwTmxvcUxRbnZFSl9qLVhLLXhodU9haTY4dE5SYjBNWUJENzJwOVRNQ2lUMDZWX285WGpqM0JEZW5JQUhQWkl2TzdJZFRBU3V2ZG52WUdRSGVpWXpDbWF2WVN3QUYta0xHV04tWk9tQ0kwLW1tTURFOEowUlotZndtbTN2RdIBtgFBVV95cUxOU3YzQllCUzd4OHFzYzNOMWxGOG5HN3cyMEdJLVFQNVB2bUZvbko0RGV4Q3BCRkdKdmM4bEsxanB1ZzBWOE95VERnM0FDWUxVV3RiQXB0dnpXUVdhUXBqWkJ5NFRNY0lFdFFvSWlhZ09ieFNkem43aHY0UmpRdFRTeU10enVEVDExWHRrcmExaEVTQ0R2aW5NV1ZYbkZuZlFKSWtGSjJBYU93d3paSXpSUGpkMWppZw?oc=5",
+     "media": "detikcom",
      "platform": "Google News",
-     "terbit": "2026-11-26T15:20+07:00",
+     "terbit": "2026-11-27T18:41+07:00",
      "cuplikan": ""
     }
    ],
    "artikel": [
     {
      "jenis": "sumber",
-     "media": "klikmu.co",
-     "judul": "Pelatihan Caregiver ‘Aisyiyah Bekali 27 Peserta Keterampilan Merawat Lansia Profesional",
-     "url": "https://klikmu.co/pelatihan-caregiver-%E2%80%98aisyiyah-bekali-27-peserta-keterampilan-merawat-lansia-profesional"
+     "media": "bsinews.id",
+     "judul": "650 Lansia Ikuti Lomba Tari Janger di Mangucita Fest 2026",
+     "url": "https://bsinews.id/650-lansia-lomba-janger-badung"
+    }
+   ]
+  },
+  {
+   "id": "7342e83976d3",
+   "tema": "kesehatan lansia",
+   "peringkat": 3,
+   "label": "Anak · Muda · Kelayan · Terkena",
+   "skor": 6.9,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “Bukan Cuma Lansia, Gigi Ompong Kini Banyak Dialami Anak Muda”. Topik yang sering muncul: muda, anak, kelayan, terkena, ompong.",
+   "judul_utama": "Bukan Cuma Lansia, Gigi Ompong Kini Banyak Dialami Anak Muda",
+   "kata_kunci": [
+    "muda",
+    "anak",
+    "kelayan",
+    "terkena",
+    "ompong",
+    "dialami"
+   ],
+   "sorotan": [
+    "Tak Hanya Lansia, Anak Muda di Kelayan Juga Terkena Hipertensi (Radar Banjarmasin)"
+   ],
+   "sumber": [
+    {
+     "judul": "Tak Hanya Lansia, Anak Muda di Kelayan Juga Terkena Hipertensi",
+     "tautan": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ05PZlVGZ2pWbFo0azB5MlBqNGxKMVpiVXZCWVNNNGR5RmpNNVg3aGlFSHpOdHZwNmtzckFvNGZlUXdLdm9pZlpIdFl3aU4xMncxS3hHa2FaLWMwMXJWZFptVDdnM1BCTDUzQTBab3NrNlpUbkNQNVVmRXg3bm1NSjRmMFpRYXprS1FqRThKQXpHd3B6VFZ0eTNhZEpld2dYWnJOMHllRmRUSXN6RTlqTXRoMk9DMENzLUllWdIBwgFBVV95cUxNOVlEUm5QSkdJRFZaamY3R1Q1bnRORWN1WWNqdm9BM2pvUHhudGhpdUVqb0JVdXJCaUQwV2VDMV8zd0VmdnVRVzVJVW8xczNKODRleUZjYmo4b3RmbG5mU3REcWE2Uk5obnBLSmVYdWJWN1hNSHg5dVdDYlpBU0xScjZpTnphcEFNeG9ZaUphMFRvOC1xQU1Yc0l2ZTZGcmtQWTg2NDJuZU1xOGlWVV9lNTVJa21qcTRQS3h3WDVQNFEzdw?oc=5",
+     "media": "Radar Banjarmasin",
+     "platform": "Google News",
+     "terbit": "2026-11-27T17:10+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Bukan Cuma Lansia, Gigi Ompong Kini Banyak Dialami Anak Muda",
+     "tautan": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlI2MVNwT1pPNVlTZDAwdGJVOXg0WDJhU2tfZ3l5N3NlS1hlQi1nN1c2WmhHbk5XRE51bmZ1cGFSZGwtSkxud0ZoR2pGczJ0dENJeFQ5ai1vWlNnUDJucFk1ekVBZy1GM0wyUVdoZExWS04yaGxtQ3JjZVFyaGVlbG9lVXpoZzV1djNLMVphOWNTclh0WVFVdlZSdVg0eTlxV2VSSUVldWhSdVBqa3k4SXAzXzDSAaQBQVVfeXFMTWItVW9Val9xcXhlVG5jTXZ6NDF5MkhQdHNKZURpMlVXSGFjb25QU0VSRE9nTTBRZTNpZVAzaUtxSjhWcWlKVzAtNUd0djl3UUw2ajJlVzFMOUFHRTlkMWFOSjBoU1d5a2NraVdiTFZrc3FuVzgzNG1kTndRSE13SEkzUm01ZlNnMnZBN3lSLW1lcUxvYy0waFllVGFCVjFxbEFnNlg?oc=5",
+     "media": "Liputan6.com",
+     "platform": "Google News",
+     "terbit": "2026-11-27T15:00+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "sumber",
+     "media": "Radar Banjarmasin",
+     "judul": "Tak Hanya Lansia, Anak Muda di Kelayan Juga Terkena Hipertensi",
+     "url": "https://radarbanjarmasin.jawapos.com/radar-kota/2611270049/tak-hanya-lansia-anak-muda-di-kelayan-juga-terkena-hipertensi"
+    },
+    {
+     "jenis": "sumber",
+     "media": "Liputan6.com",
+     "judul": "Bukan Cuma Lansia, Gigi Ompong Kini Banyak Dialami Anak Muda",
+     "url": "https://kesehatan.liputan6.com/info-sehat/read/8343747/bukan-cuma-lansia-gigi-ompong-kini-banyak-dialami-anak-muda"
     },
     {
      "jenis": "terkait",
-     "media": "PWMU.CO",
-     "judul": "Cetak Caregiver Kompeten dan Berakhlak Mulia, Aisyiyah Gelar Pelatihan Pramurukti di Malang",
-     "url": "https://pwmu.co/cetak-caregiver-kompeten-dan-berakhlak-mulia-aisyiyah-gelar-pelatihan-pramurukti-di-malang/"
+     "media": "Pemerintah Kota Depok",
+     "judul": "Katar Masuk Kampus, UI Pertajam Skill Kreativitas Anak Muda Depok",
+     "url": "https://berita.depok.go.id/katar-masuk-kampus-ui-pertajam-skill-kreativitas-anak-muda-depok"
+    },
+    {
+     "jenis": "terkait",
+     "media": "DW.com",
+     "judul": "Tiga Kali Kena PHK, Aufa Nekat Buka Kafe – Kisah Anak Muda Bertaruh pada UMKM",
+     "url": "https://www.dw.com/id/anak-muda-banting-setir-jadi-pelaku-umkm-seberapa-menjanjikan/a-79825081"
     }
    ]
   },
   {
-   "id": "f8c593e471d9",
+   "id": "15ea0caaf94a",
    "tema": "kesehatan lansia",
-   "peringkat": 3,
-   "label": "Pemkot · Tasikmalaya · Perkuat · Perda",
-   "skor": 6.3,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 26 Nov 2026. Inti pemberitaan: “Pemkot Tasikmalaya Perkuat Layanan Ramah Lansia, Dorong Hidup Sehat dan Mandiri”. Topik yang sering muncul: pemkot, tasikmalaya, perkuat, perda, kesejahteraan.",
-   "judul_utama": "Pemkot Tasikmalaya Perkuat Layanan Ramah Lansia, Dorong Hidup Sehat dan Mandiri",
+   "peringkat": 4,
+   "label": "Perda · Kesejahteraan · Tasikmalaya · Tenggat",
+   "skor": 6.4,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Perda Kesejahteraan Lansia Kota Tasikmalaya, Ada Tenggat yang Harus Dikejar Sebelum Akhir Tahun”. Topik yang sering muncul: perda, kesejahteraan, tasikmalaya, tenggat, dikejar.",
+   "judul_utama": "Perda Kesejahteraan Lansia Kota Tasikmalaya, Ada Tenggat yang Harus Dikejar Sebelum Akhir Tahun",
    "kata_kunci": [
-    "pemkot",
-    "tasikmalaya",
-    "perkuat",
     "perda",
     "kesejahteraan",
-    "fokus"
+    "tasikmalaya",
+    "tenggat",
+    "dikejar",
+    "pemkot"
    ],
    "sorotan": [
     "Perda Kesejahteraan Lansia Sudah Ada, Pemkot Tasikmalaya Fokus Perkuat Pelayanan (Fokus Jabar)"
    ],
    "sumber": [
+    {
+     "judul": "Perda Kesejahteraan Lansia Kota Tasikmalaya, Ada Tenggat yang Harus Dikejar Sebelum Akhir Tahun",
+     "tautan": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2J3OWdRbHFwWGFGclRQeGhyMkZ3VEZRVmdUSmNWeWZIWG5Sc0tUb3ItV2hkS3hydlo0LTdXdnlLemhWdUx6OWZ1aFpMVjViWEdnOWczaDFFWks4YVFVWEp2dWtZb0VfU2pMYkNqWTJJd2VheWVBQWhCTFRtZ1dfZkNMT1hOWFkwaVVrQXBYVXVJdGw4R0M0YkRQdTFMVk05eU0zRkhsWkRaQlNlREhYRlJMNk8?oc=5",
+     "media": "Lintas Priangan",
+     "platform": "Google News",
+     "terbit": "2026-11-27T09:10+07:00",
+     "cuplikan": ""
+    },
     {
      "judul": "Perda Kesejahteraan Lansia Sudah Ada, Pemkot Tasikmalaya Fokus Perkuat Pelayanan",
      "tautan": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNG9qR2JFa1RhN01hR3hranFnUXZIeDE2bG1MV3V3a3lldnpWXzZOQ19qaVFhR21YMXJsVkpVc21fMFlRdl9CSmc5c3dodndORVhkczVBV1JwZWlNRUowQVFjMnNTNmJ0a0M3VVl0V0k1dG15M0thVk1NbG1OY3F5R29DSVVOeDhnVkxfOHFXMDl6T0NvdG1hajNtaDYzWHVsZWdpWnVIb2ZLelVXOERSWVNXUQ?oc=5",
@@ -149,39 +212,23 @@
      "platform": "Google News",
      "terbit": "2026-11-26T23:21+07:00",
      "cuplikan": ""
-    },
-    {
-     "judul": "Pemkot Tasikmalaya Perkuat Layanan Ramah Lansia, Dorong Hidup Sehat dan Mandiri",
-     "tautan": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV0VYa1BBdUwtMjFZTzdrUTVUVFhidlBPUnV0SlJZNkcyY21FYWVtZFV4MGVVOXVUZXR5TWM4ZlFnR0hHWTlYRXZudkd0QVZyZXl4WGQyN3RKWjU3SHZZMDNxd2c4cjRvTnl2Rno1eHdpcEN3Z25veU9waGpmVFEteWlndTBlcGtRbC01enJwNG0zMzJpWUUzN01kWjQ1eEg3dllGWW1PdXAwa1J1Zkk0WFZkWDhweGpCZHNkbW1QZG1ZY1FncWt3YU5SbE9sWGszX3VGNHFLYnZPR0pmaXptRXhtcw?oc=5",
-     "media": "Kabar Priangan",
-     "platform": "Google News",
-     "terbit": "2026-11-26T17:00+07:00",
-     "cuplikan": ""
-    }
-   ],
-   "artikel": [
-    {
-     "jenis": "terkait",
-     "media": "SERGAP",
-     "judul": "DPRD Kabupaten Blitar Perkuat Dukungan Pesantren, Sahkan Perubahan Perda Pajak-Retribusi dan Propemperda 2027",
-     "url": "https://sergap.co.id/2026/11/20/dprd-kabupaten-blitar-perkuat-dukungan-pesantren-sahkan-perubahan-perda-pajak-retribusi-dan-propemperda-2027/"
     }
    ]
   },
   {
    "id": "978deb9099ae",
    "tema": "kesehatan lansia",
-   "peringkat": 4,
-   "label": "Dinsos · Parepare · Tangani · Sakit",
-   "skor": 6.2,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 26 Nov 2026. Inti pemberitaan: “Dinsos Parepare Gerak Cepat Tangani Lansia Sakit di Pinggir Jalan, Keluarga Berhasil Ditemukan”. Topik yang sering muncul: parepare, tangani, sakit, pinggir, dinsos.",
+   "peringkat": 5,
+   "label": "Pinggir · Jalan · Dinsos · Parepare",
+   "skor": 6.0,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 26 Nov 2026. Inti pemberitaan: “Dinsos Parepare Gerak Cepat Tangani Lansia Sakit di Pinggir Jalan, Keluarga Berhasil Ditemukan”. Topik yang sering muncul: dinsos, parepare, tangani, sakit, pinggir.",
    "judul_utama": "Dinsos Parepare Gerak Cepat Tangani Lansia Sakit di Pinggir Jalan, Keluarga Berhasil Ditemukan",
    "kata_kunci": [
+    "dinsos",
     "parepare",
     "tangani",
     "sakit",
     "pinggir",
-    "dinsos",
     "jalan"
    ],
    "sorotan": [
@@ -207,182 +254,257 @@
    ]
   },
   {
-   "id": "a8868064f80d",
+   "id": "c58ccddb6925",
    "tema": "kesehatan lansia",
-   "peringkat": 5,
-   "label": "Menjaga · Sekolah · Taput",
-   "skor": 6.1,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 26 Nov 2026. Inti pemberitaan: “Sekolah Lansia Tangguh Taput, Upaya Menjaga Kesehatan dan Mengurangi Kesepian”. Topik yang sering muncul: menjaga, sekolah, taput, kemandirian, upaya.",
-   "judul_utama": "Sekolah Lansia Tangguh Taput, Upaya Menjaga Kesehatan dan Mengurangi Kesepian",
+   "peringkat": 6,
+   "label": "Denpasar · Dharmayatra · Tirta",
+   "skor": 4.5,
+   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Ratusan Lansia Denpasar Ikuti Dharmayatra ke Tirta Empul”. Topik yang sering muncul: denpasar, dharmayatra, tirta, empul, ratusan.",
+   "judul_utama": "Ratusan Lansia Denpasar Ikuti Dharmayatra ke Tirta Empul",
    "kata_kunci": [
-    "menjaga",
-    "sekolah",
-    "taput",
-    "kemandirian",
-    "upaya",
-    "mengurangi"
+    "denpasar",
+    "dharmayatra",
+    "tirta",
+    "empul",
+    "ratusan",
+    "ikuti"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Ratusan Lansia Denpasar Ikuti Dharmayatra ke Tirta Empul",
+     "tautan": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNci0yUjQwVDFtUXByamVXTkJEeWFIY1NGVFZvQkVpS3k4R01lbUxTaDNxSVBmS0RjdWlmRDNYbnM4SkczUXdQdHBtcEJkUmRnUUtuSi1BZEttMWFyaVlfaU9PNFRXVnBvNXNTcktqV3hKVURZOGtaLW5hQjNabGZaRklBVjJ4WGtQaTdZTEYxYWg2TThMNlRNSXUzaFU1eTg?oc=5",
+     "media": "RRI.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T18:39+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "c34f0e23fc08",
+   "tema": "kesehatan lansia",
+   "peringkat": 7,
+   "label": "Ngư · Cao · Mau",
+   "skor": 4.5,
+   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Hội Người cao tuổi Cà Mau dẫn đầu Cụm thi đua số IV năm 2026”. Topik yang sering muncul: ngư, cao, mau, thi, đua.",
+   "judul_utama": "Hội Người cao tuổi Cà Mau dẫn đầu Cụm thi đua số IV năm 2026",
+   "kata_kunci": [
+    "ngư",
+    "cao",
+    "mau",
+    "thi",
+    "đua",
+    "năm"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Hội Người cao tuổi Cà Mau dẫn đầu Cụm thi đua số IV năm 2026",
+     "tautan": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb010OFZfMkliZExHbXRvdDB0bUlHbTNOYk5VWEhlTWx4blJPWWhvMmtjdVgtbWVEYWFBZ1dXR2xsWTVhd2VsV1pPRklHcDBjbVN4bkRHSWlDc3dHcUtFSTdTTENQWDloN2tyNG1VRGFMUlpldHdIa1RTMGhUcEhsR1VLR2xKZ3B3eWhSSUtFbw?oc=5",
+     "media": "Vietnam.vn",
+     "platform": "Google News",
+     "terbit": "2026-11-27T18:35+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "b9517c812746",
+   "tema": "kesehatan lansia",
+   "peringkat": 8,
+   "label": "Penyuluhan · Tensinya · Tinggi",
+   "skor": 4.4,
+   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Lansia China Tak Dapat Penyuluhan Kesehatan Tensinya Lebih Tinggi”. Topik yang sering muncul: penyuluhan, tensinya, tinggi, china.",
+   "judul_utama": "Lansia China Tak Dapat Penyuluhan Kesehatan Tensinya Lebih Tinggi",
+   "kata_kunci": [
+    "penyuluhan",
+    "tensinya",
+    "tinggi",
+    "china"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Lansia China Tak Dapat Penyuluhan Kesehatan Tensinya Lebih Tinggi",
+     "tautan": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2xfakNSaGRUMTBPUDJpdW1hamZLZWhhTFFFRHA0bTFnZDRVeEpiRWVmdzBfay1TalR0OUQ2Z0VHTDd5Y0dlY2NCZ3R3RVlPZHNIQlA0RDFTUV96SzJlVUVfX2Ywel9GNHpPNlNCTGZmazhtWmUyTWFJUHFzZ0d1X19UOUt3dmZORkZEcDI2WQ?oc=5",
+     "media": "Cekricek",
+     "platform": "Google News",
+     "terbit": "2026-11-27T17:30+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "97d7d65908ec",
+   "tema": "kesehatan lansia",
+   "peringkat": 9,
+   "label": "Babinsa · Koramil · Bukit",
+   "skor": 4.4,
+   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Babinsa Koramil 412-03/Bukit Kemuning Sertu Rasbudiyono Dampingi Puskesmas Mider di Pelosok Sukamenanti”. Topik yang sering muncul: babinsa, koramil, bukit, kemuning, sertu.",
+   "judul_utama": "Babinsa Koramil 412-03/Bukit Kemuning Sertu Rasbudiyono Dampingi Puskesmas Mider di Pelosok Sukamenanti",
+   "kata_kunci": [
+    "babinsa",
+    "koramil",
+    "bukit",
+    "kemuning",
+    "sertu",
+    "rasbudiyono"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Babinsa Koramil 412-03/Bukit Kemuning Sertu Rasbudiyono Dampingi Puskesmas Mider di Pelosok Sukamenanti",
+     "tautan": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeU5iQnlsSklsdXhGWWNOejM0YUt3Nk5Md21TNldwLTFTa3JHU2huUHRETzVuODlobkVLUDBkMGpMMUcwcVVWdDVPRXFCOFdJdU1wb1VRRFVOR3FBYnk3elM0cjlVNFhLTEotUnRUR0dWQmVtaUdIMmpyUzltamtTdEMxY3pRbXF3VGV4NVBaaHNyZ3pHZjNaaE43cURtZXR1LWl1ZVJDQVM5RDR2S0F2eko3blplb0g1RXJ0NDdyV0VmTlZnQ1Z2ekk1cVl2RlRFamdCNw?oc=5",
+     "media": "Jejaring 09.com",
+     "platform": "Google News",
+     "terbit": "2026-11-27T17:21+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "46308ec0b97e",
+   "tema": "kesehatan anak",
+   "peringkat": 1,
+   "label": "Gangguan · Mental · Kemenkes · Guru",
+   "skor": 14.1,
+   "ringkasan": "Isu ini dibahas dalam 5 berita dari 5 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Kemenkes Dorong Guru Kenali Gangguan Mental Siswa”. Topik yang sering muncul: kemenkes, mental, guru, gangguan, dorong.",
+   "judul_utama": "Kemenkes Dorong Guru Kenali Gangguan Mental Siswa",
+   "kata_kunci": [
+    "kemenkes",
+    "mental",
+    "guru",
+    "gangguan",
+    "dorong",
+    "siswa"
    ],
    "sorotan": [
-    "Sekolah Lansia Taput: Menjaga Usia, Merawat Kemandirian (Waspada Online)"
+    "Kemenkes Ingatkan Bahaya Gangguan Mental Anak, Guru Diminta Lebih Jeli Melihat Perubahan Perilaku (Koran Jakarta)",
+    "Kemenkes: Guru garda depan deteksi dini kesehatan mental anak (ANTARA News Gorontalo)",
+    "4 dari 10 Remaja RI Kena Gangguan Mental, Ini Sorotan Kemenkes (detikHealth)"
    ],
    "sumber": [
     {
-     "judul": "Sekolah Lansia Taput: Menjaga Usia, Merawat Kemandirian",
-     "tautan": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzNKcThOR1AwbjBsblhLZ1dWaDdPYXFRZjM4X29rQXFrVDFJZzZjMUl3c3g5elROdFE4SEd4Q1ZGWlg5UWVnLUplRTVySkxveG5DUlMwSXR1NkpTR3lSSHB1VWR2NWtIRUVZS1VEOXZlcVZ6N2hjNFpEWlNlWlFKVkQtRGR0eFE?oc=5",
-     "media": "Waspada Online",
+     "judul": "Kemenkes Dorong Guru Kenali Gangguan Mental Siswa",
+     "tautan": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRXlKVWM0QlBCbXVYQkk1X2dfWGxrRm1RbFQzN190RHU3aE11YXdxdzVVVzRqNDBEQkJKV2haaUJyRzNhU0tQY1hFM1FBTGMwQWkxSm9teHF3SS1TZGswb3BRcGpfQQ?oc=5",
+     "media": "bsinews.id",
      "platform": "Google News",
-     "terbit": "2026-11-26T17:16+07:00",
+     "terbit": "2026-11-27T13:07+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Sekolah Lansia Tangguh Taput, Upaya Menjaga Kesehatan dan Mengurangi Kesepian",
-     "tautan": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0RIQjFqYWMtb2xGeXVOM2FQbkZEQjBnYmwtNDZYaU1mZnhmX3lqeDROZC0wclJNb3NWT2lJaHRvNHRKVVJtUmExRlktdEFUMmhPWkIwLXhZQ21qNjBGWlIzTFVVZFpmQ0l1Y3E5eUtJNzgtRUhIWEVZMU9JZThNN0ZYdXFIVWJYU05pdjZjc2JRVDhCajRSRXczTFc2SmFUUlcyV01oZW9PVUZLeXE5b3JZX09OdjZV?oc=5",
-     "media": "www.metro-online.co",
+     "judul": "Kemenkes Dorong Guru Jaga Kesehatan Mental Siswa",
+     "tautan": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kbzdjOUZQNW9YODFiMzdVRm1WUndaUjY1R1BfajhyR2lJUy1ZNEMwT1BSb0diVzVXcHl4Nm5ndHJDSlNwUDJYOTZkQjYyTzhWTkRZNDhzZ0xXSE1yeW5hckdrb21ERDBGbjFEdjZR?oc=5",
+     "media": "Lensa Hukum",
      "platform": "Google News",
-     "terbit": "2026-11-26T14:54+07:00",
+     "terbit": "2026-11-27T13:07+07:00",
      "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "1fc12c5e03b0",
-   "tema": "kesehatan lansia",
-   "peringkat": 6,
-   "label": "China · Terbagi · Menyiapkan",
-   "skor": 4.4,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Lansia China Terbagi Tiga dalam Menyiapkan Perawatan Akhir Hidup”. Topik yang sering muncul: china, terbagi, menyiapkan, akhir, perawatan.",
-   "judul_utama": "Lansia China Terbagi Tiga dalam Menyiapkan Perawatan Akhir Hidup",
-   "kata_kunci": [
-    "china",
-    "terbagi",
-    "menyiapkan",
-    "akhir",
-    "perawatan",
-    "hidup"
-   ],
-   "sorotan": [],
-   "sumber": [
+    },
     {
-     "judul": "Lansia China Terbagi Tiga dalam Menyiapkan Perawatan Akhir Hidup",
-     "tautan": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzRPQ01ZbnVKUEZEODN3LUsyU3BMcVI1RWJYRXo5enZ0dGMzSHNlbHpjdllja0d6M2IyeHBWTjVzNmE1em16RG9Xa01oQk1xWUhDdGxMZFlxdTFJWmtBMk5NaWFtSDdYSFZybnFhSXVWaGpLaGtnUVFCZHdjUDNzWXlNUzlTZUJTU0M0WjZR?oc=5",
-     "media": "Cekricek",
+     "judul": "4 dari 10 Remaja RI Kena Gangguan Mental, Ini Sorotan Kemenkes",
+     "tautan": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXNXbTZKSUstSC1UQU51Qy1JYlRxQm8xRlpkUGJVaHBYR2VrSUlnMWZPeDdnQVl6aVkzczdHS3U1R2tWU2pZT0p1bk9sTHRFQWRya1E5aFY1SERzS2Y1LU9DWW8tSmdCWEFSa2gydWdhQXZUSzM4RUJkZU5NSGItdzZiMnFTalBHMmMxVm5yc2IxVUpfUHE0VlYwVGZMMFA0elMzRzlvbmk3OTY1SnJTTXR1NXdMd9IBuwFBVV95cUxNUXhmRDhoWEFmczB1NjZGUG9JRWtndXFyTGZmTE1NTVM1aW9kOThNWVpWNzE2eW5zVjd1MWkxQ0FLNE5lWmoySl90TGF4Ym8xOUFudHYxX2hYNUpjbndSMkd5YUlVZnZEcXI4ei1jZEhjWFhCQkpHN1Z5d3QwZ1hzRjJxcl9sSG1XNENzQ1oxV19DcmZPcUJfM19yZ1ptR2ZzeFNVVG0wN2l1VUJSU3VhYmh0THIzZWZlOUFv?oc=5",
+     "media": "detikHealth",
      "platform": "Google News",
-     "terbit": "2026-11-27T12:30+07:00",
+     "terbit": "2026-11-27T13:00+07:00",
      "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "26d9ec42657a",
-   "tema": "kesehatan lansia",
-   "peringkat": 7,
-   "label": "PERMENLANSIA · Perawat · Baubau",
-   "skor": 4.4,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “PERMENLANSIA, Perawat Lapas Baubau Jemput Bola Periksa Kesehatan WBP Lansia”. Topik yang sering muncul: permenlansia, perawat, baubau, jemput, bola.",
-   "judul_utama": "PERMENLANSIA, Perawat Lapas Baubau Jemput Bola Periksa Kesehatan WBP Lansia",
-   "kata_kunci": [
-    "permenlansia",
-    "perawat",
-    "baubau",
-    "jemput",
-    "bola",
-    "periksa"
-   ],
-   "sorotan": [],
-   "sumber": [
+    },
     {
-     "judul": "PERMENLANSIA, Perawat Lapas Baubau Jemput Bola Periksa Kesehatan WBP Lansia",
-     "tautan": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUNnOXZkNTJKNFlsU2hIS0VLMTRhMTAzTlBPbmpQbHpmYTRualNPR0lHWGNyMlV6UFQ4MlVaX2JSWnZrYU1tWHh4RnlWZ1ZuNGJVX2tUTGJtbE01ZnduWFM1Vk5RbS0tT2JpbWdSSjdKR1NIYTQ1LUp5Xzg0V1ZfQ0RqRW44WlZVSHliRl9iSUVMNjRUMEIxaDZ2MlY4OVZOUnc2RjhNb0QzTEtlSTZsbm45U2pkT1J6S3hPSE1uSENvdFpJaTZwWlFPbXotaVNDMTV3MlBhZHEzTDdMRW1jZQ?oc=5",
-     "media": "Kompasiana.com",
+     "judul": "Kemenkes Ingatkan Bahaya Gangguan Mental Anak, Guru Diminta Lebih Jeli Melihat Perubahan Perilaku",
+     "tautan": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWhoeVBwUDF2WTdKbWx3NFBwNFhMdzM4dmlOTGRxVEYyNWdEVXI2LUs0eHJKNWgwaUsyRTNYWnl1RHZ5ZXU5R0JidjgtUjFmZEROakRuZWhmbzhRU3pxU1NfUjZlYnhsTGNqYWMwTlc3ckowN0ZiS0F6TFQwN2Z0RVkxUExWQWMtUzVtQ2M4Z3dST0FmYmRCcTRUTk0wb1ZwUF9lTFc4R0JVaWtzWE9JRXJDeVF5WEphbDdwQ051ZV9xQUtnSy1fYkl0b2o2Z9IB0wFBVV95cUxORk1qZmNCZHVEYVVObl8wR0gyYU9PLVpPRDFuelYwZHY3amtsQ3RITDRJRzBtUjA4X2xmamVDajd5YWxLTmk4bVF0bHhoNmpYUmF4XzZVZ2s4V3ZJV21Jd0QwakRvUkRmQmRHLTNlZ2MzZTRVRTNkQlRnUWkxWEJUNnFGTVBfcVpIM1hTQ3ZPTlJvcWpWZVJ0cGdhdDZiQ3diOGNYUXd6T0hIc3ItX0k2X1BaemNhUm1uVVdqaE5wY1JVQllFbXdPMWdYVXhvSmpxd1Jr?oc=5",
+     "media": "Koran Jakarta",
      "platform": "Google News",
-     "terbit": "2026-11-27T12:10+07:00",
+     "terbit": "2026-11-27T00:26+07:00",
      "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "705c2899c035",
-   "tema": "kesehatan lansia",
-   "peringkat": 8,
-   "label": "Berita · Ginjal · Pria",
-   "skor": 4.3,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Berita Ginjal Pria 35 Tahun Setua Lansia Umur 70 karena Kebiasaan Makan Ini”. Topik yang sering muncul: berita, ginjal, pria, setua, umur.",
-   "judul_utama": "Berita Ginjal Pria 35 Tahun Setua Lansia Umur 70 karena Kebiasaan Makan Ini",
-   "kata_kunci": [
-    "berita",
-    "ginjal",
-    "pria",
-    "setua",
-    "umur",
-    "kebiasaan"
-   ],
-   "sorotan": [],
-   "sumber": [
+    },
     {
-     "judul": "Berita Ginjal Pria 35 Tahun Setua Lansia Umur 70 karena Kebiasaan Makan Ini",
-     "tautan": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbzA3aUh3SWxTMWhZek5NVURxaENxYXZzWEtKNjZvcE1SQndaeEZDbm41QTdTb2piTl9OUkczVVcxT2VoWU5EZVF0dklKM01YS3dqN1Ftd0doeTd0a294VTZpOXh4UnJSQktBbW5vUmxra3dhY0JDX3JsY1JiM1YwbnlVLXFHWkpnRnlIVkl0eS1udnJtRHF6TXM3VXV6NFZjeFNvd3pZVi16ekZpWG8ybEMtVi16bzZVckRBeHIzLUsxRF9vR0MxOXFCVHZGTGpKTC12SWRkYXF6bmVNTS1CN24wU2ZLY2xV?oc=5",
-     "media": "PUSKESMAS TANGAN-TANGAN",
+     "judul": "Kemenkes: Guru garda depan deteksi dini kesehatan mental anak",
+     "tautan": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQW11Y0c0QThyMWxtQWFIXzhHaV9UOUt4bjdwVHU3UzNuNUgwT3NhMENkaU83R09sU1hXWEw5Ul85TTI5R3ZGSTFibFc5bGNOcTh0NEtkOFJnX0cycUN5Mzl5VXJqcHNKb3lkWUNtbGpIX1Ayc1l6U1dxLVh1b2RobWo0Qnp0Z0t1OHNtVFJEa2tQMTRfV2dWek52d1MwOWNmRnBYTjQ2OHI3dVXSAbABQVVfeXFMTUE2YkdseFl1aFhZVkF0SVoxSEtLTUlrQ1gtbDU1NlZOck5nUy1xZnlDZ3BPX044cllpY09xWVBxTkQ4SVNYcmVEV3hDR1FjdUdvSS1sNGxrZ3dRMGZoTjZnTEVxemRrLXduVVJrVTgxa1ZBTlgzMDdobjgtbmRjM2ljb241Si1oYy1xSjBGeFZSRmJZTlVWeGtBUUdzOVpsSlhoOGJXRk1HYS1DdDFObUs?oc=5",
+     "media": "ANTARA News Gorontalo",
      "platform": "Google News",
-     "terbit": "2026-11-27T10:51+07:00",
+     "terbit": "2026-11-26T20:58+07:00",
      "cuplikan": ""
     }
-   ]
-  },
-  {
-   "id": "65280bfcecf0",
-   "tema": "kesehatan lansia",
-   "peringkat": 9,
-   "label": "Balik · Agenda · Baksos",
-   "skor": 4.3,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Di Balik Agenda Baksos di Masjid Besar Tarogong Kidul, Ada Pesan Menyentuh dari Sekdis Dinsos Garut”. Topik yang sering muncul: balik, agenda, baksos, tarogong, kidul.",
-   "judul_utama": "Di Balik Agenda Baksos di Masjid Besar Tarogong Kidul, Ada Pesan Menyentuh dari Sekdis Dinsos Garut",
-   "kata_kunci": [
-    "balik",
-    "agenda",
-    "baksos",
-    "tarogong",
-    "kidul",
-    "menyentuh"
    ],
-   "sorotan": [],
-   "sumber": [
+   "artikel": [
     {
-     "judul": "Di Balik Agenda Baksos di Masjid Besar Tarogong Kidul, Ada Pesan Menyentuh dari Sekdis Dinsos Garut",
-     "tautan": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ21MWmxyaFZzbnBwTUR1aDJva0ptdGZXTzVuQkFoeFdfWUstZ0VyVGc5dk1JQzJ5aldQVWFJTnhqVTZldURfR3k3ekZwWHJtQmJCNkllazZaS1MxbVZxV1FkTjRGMk11aUdfSmxyRWhyMzlTNGRHMGI2cnc4bld0TFJGNUhEeGRtZ25BMXU0bW5FQ3EwTThMRjhETFF0VW1US2RmMVQyUlNXRGUwRGphblNWUndYQ0V3UGt1MHRSZUJ5UG5rSE84NnJiTV83N3ZfRWx1T3JaZUhyVUZ2NkozelRRZERiZw?oc=5",
-     "media": "Pikiran Rakyat Garut",
-     "platform": "Google News",
-     "terbit": "2026-11-27T10:35+07:00",
-     "cuplikan": ""
+     "jenis": "sumber",
+     "media": "bsinews.id",
+     "judul": "Kemenkes Dorong Guru Kenali Gangguan Mental Siswa",
+     "url": "https://bsinews.id/kemenkes-guru-kesehatan-mental-siswa"
+    },
+    {
+     "jenis": "sumber",
+     "media": "Lensa Hukum",
+     "judul": "Kemenkes Dorong Guru Jaga Kesehatan Mental Siswa",
+     "url": "https://lensahukum.co.id/kemenkes-guru-kesehatan-mental-siswa"
+    },
+    {
+     "jenis": "sumber",
+     "media": "Koran Jakarta",
+     "judul": "Kemenkes Ingatkan Bahaya Gangguan Mental Anak, Guru Diminta Lebih Jeli Melihat Perubahan Perilaku",
+     "url": "https://koran-jakarta.com/2026-11-27/kemenkes-ingatkan-bahaya-gangguan-mental-anak-guru-diminta-lebih-jeli-melihat-perubahan-perilaku"
+    },
+    {
+     "jenis": "terkait",
+     "media": "KoranIndopos.com",
+     "judul": "Hampir 4 dari 10 Remaja Indonesia Alami Masalah Kesehatan Jiwa, Kemenkes Soroti Peran Krusial Guru",
+     "url": "https://koranindopos.com/hampir-4-dari-10-remaja-indonesia-alami-masalah-kesehatan-jiwa-kemenkes-soroti-peran-krusial-guru/"
     }
    ]
   },
   {
-   "id": "a35721637edf",
+   "id": "9b656c61caa1",
    "tema": "kesehatan anak",
-   "peringkat": 1,
-   "label": "Zat · Besi · Kekurangan · Gemuk",
-   "skor": 9.4,
-   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 27 Nov 2026. Inti pemberitaan: “Hati-hati, Anak Bisa Kekurangan Zat Besi Meski Tampak Sehat dan Gemuk”. Topik yang sering muncul: zat, besi, kekurangan, gemuk, hati.",
-   "judul_utama": "Hati-hati, Anak Bisa Kekurangan Zat Besi Meski Tampak Sehat dan Gemuk",
+   "peringkat": 2,
+   "label": "Zat · Besi · Kekurangan · Tua",
+   "skor": 13.9,
+   "ringkasan": "Isu ini dibahas dalam 6 berita dari 4 sumber pada 27 Nov 2026. Inti pemberitaan: “Orang Tua Kenali Tanda Kekurangan Zat Besi pada Anak”. Topik yang sering muncul: zat, besi, kekurangan, tua, orang.",
+   "judul_utama": "Orang Tua Kenali Tanda Kekurangan Zat Besi pada Anak",
    "kata_kunci": [
     "zat",
     "besi",
     "kekurangan",
-    "gemuk",
-    "hati",
-    "bertambah"
+    "tua",
+    "orang",
+    "gemuk"
    ],
    "sorotan": [
+    "Hati-hati, Anak Bisa Kekurangan Zat Besi Meski Tampak Sehat dan Gemuk (detikHealth)",
     "Anak Gemuk Belum Tentu Cukup Zat Besi Ini Penjelasannya (Lensa Hukum)",
-    "Kekurangan Zat Besi pada Anak Bisa Terjadi Meski Berat Badan Bertambah (gadget.qoo10.co.id)"
+    "Kenali Tanda Remaja Sedang Tertekan dan Cara Orang Tua Merespons (TIMES Network AI)"
    ],
    "sumber": [
     {
-     "judul": "Kekurangan Zat Besi pada Anak Bisa Terjadi Meski Berat Badan Bertambah",
-     "tautan": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTY2UjZKajlHblNMTlNHeW1OSnZEaWRybFE1Z2R6WE8yaER5LTR5b01yZ0t5Y3V0UUdBRXd0RHhtUGtQeExsdGszb0IxWkNSQXdBMHlydUN0MzRMT3VfMDJoQkVVZk9CWk4zRUFQSElPS3pXYTFlT1d6RDlrdHlZT3JLWkYxRkZ2SUF6LS1qcG1IbE5GVF8tWmI1UQ?oc=5",
-     "media": "gadget.qoo10.co.id",
+     "judul": "Kenali Tanda Remaja Sedang Tertekan dan Cara Orang Tua Merespons",
+     "tautan": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWJoemxXRWtianpsN2tKNGRrTkh0OU0yaHFBY2xidnJJRXlMcGdJN184SzN5ZnZwVDFvemFqalhLTXlvRHMyZjVGVktqVGJYNlpDRVRKUzJtUWpHOGZvU2ZhOEROeEtRR2g1enN0U3hTb3ByVkhDYkI3ZUNzS1VISFNvUkZ3TVEtNm0xNA?oc=5",
+     "media": "TIMES Network AI",
      "platform": "Google News",
-     "terbit": "2026-11-27T11:29+07:00",
+     "terbit": "2026-11-27T17:44+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Orang Tua Kenali Tanda Kekurangan Zat Besi pada Anak",
+     "tautan": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xeDNYRWVLejR0eS1FRzNWQjIyLVdLQTVqTktCVkU2Y1JNOWN6WjhyV09QM0x3QXY4MUlmcWYwVkYtM25XQVh6RThpV1NHaDN2VG81c0x1WTVoMkx1MDBz?oc=5",
+     "media": "bsinews.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T15:22+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Orang Tua Perlu Mengenali Gejala Kekurangan Zat Besi pada Anak",
+     "tautan": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YSk5IeFRGdFZhMDlfRGdkQlh5dDVIQ2gyelNpWGYxMUZuVEw5eTliVTBBdVJXVTAyTS1YSXBTRmMxMzdkVEtFQnp1Y050cC1mWm12UzBYeE1tUUpMYUFaTDR6ZFdmOG8?oc=5",
+     "media": "Lensa Hukum",
+     "platform": "Google News",
+     "terbit": "2026-11-27T15:22+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Curiga Anak Kekurangan Zat Besi? Ini yang Perlu Dilakukan Orang Tua",
+     "tautan": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnBnY2FRSFNtZmtzdUVMaVU3cGEtS0hTR214SWtJaW9oUmNPckEtQTZfVTVoZjVyd3o5eks3Wm9YenJHUVNMUENtMVRJYTFDWjNQSmR6Y0JWamN5a2FTbW5kZFA2bWgybndkSm1fZWtYOUpldi1DbzlJcDNYWmVCejRob25MT1JreUJWWU5icXFaMEJ5Y3lGNDBub0tRS2tJWHBDTk5YMElNZ9IBrwFBVV95cUxPMzNrWm55U3BJNjdlb0dtbUNZQ2Z4Y3p6M19aX1FPNlJGTDJOdkhCQUQwTTJhcC04eF92UWdzQ2h4Ny1ZU1gyTWFOa0p3akNYT3ZOZ05pb1M0Wm1XNFMyVUd5a0VvVnZuVkxiMVhpeVNnRTBSd0JHZ2RJZkJZVXAxUnJrNlp3SFZmMHNLX2w0MU9PdTN4RnVxd0hySXhTT3J0SG1rbDdTZmVCX1dVeG9n?oc=5",
+     "media": "detikHealth",
+     "platform": "Google News",
+     "terbit": "2026-11-27T15:17+07:00",
      "cuplikan": ""
     },
     {
@@ -405,212 +527,121 @@
    "artikel": [
     {
      "jenis": "sumber",
+     "media": "bsinews.id",
+     "judul": "Orang Tua Kenali Tanda Kekurangan Zat Besi pada Anak",
+     "url": "https://bsinews.id/gejala-kekurangan-zat-besi-anak"
+    },
+    {
+     "jenis": "sumber",
      "media": "Lensa Hukum",
-     "judul": "Anak Gemuk Belum Tentu Cukup Zat Besi Ini Penjelasannya",
-     "url": "https://lensahukum.co.id/anak-gemuk-kekurangan-zat-besi"
-    },
-    {
-     "jenis": "terkait",
-     "media": "ANTARA News Riau",
-     "judul": "Ahli Gizi: Variasi protein hewani penting untuk optimalkan tumbuh kembang anak",
-     "url": "https://riau.antaranews.com/berita/459875/ahli-gizi-variasi-protein-hewani-penting-untuk-optimalkan-tumbuh-kembang-anak"
-    },
-    {
-     "jenis": "terkait",
-     "media": "Vietnam.vn",
-     "judul": "Saat menjalani pemeriksaan untuk anemia berat, seorang wanita menemukan 'penyebabnya' di ususnya.",
-     "url": "https://www.vietnam.vn/id/kham-vi-thieu-mau-nang-nguoi-phu-nu-phat-hien-thu-pham-trong-ruot"
+     "judul": "Orang Tua Perlu Mengenali Gejala Kekurangan Zat Besi pada Anak",
+     "url": "https://lensahukum.co.id/gejala-kekurangan-zat-besi-anak"
     }
    ]
   },
   {
-   "id": "0b1152a2411e",
-   "tema": "kesehatan anak",
-   "peringkat": 2,
-   "label": "Ramah · Wujudkan · Vale",
-   "skor": 7.0,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Wujudkan Layanan Kesehatan Ramah Anak, Vale Indonesia Gelar Khitanan Modern bagi Warga Tiga Desa di Sorowako”. Topik yang sering muncul: ramah, wujudkan, vale, indonesia, khitanan.",
-   "judul_utama": "Wujudkan Layanan Kesehatan Ramah Anak, Vale Indonesia Gelar Khitanan Modern bagi Warga Tiga Desa di Sorowako",
-   "kata_kunci": [
-    "ramah",
-    "wujudkan",
-    "vale",
-    "indonesia",
-    "khitanan",
-    "modern"
-   ],
-   "sorotan": [
-    "Cegah Stunting, Wujudkan Gelogor Ramah Anak (Warta Bali Online)"
-   ],
-   "sumber": [
-    {
-     "judul": "Wujudkan Layanan Kesehatan Ramah Anak, Vale Indonesia Gelar Khitanan Modern bagi Warga Tiga Desa di Sorowako",
-     "tautan": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTjI5NUwySTdKY3hKc2tfeGRpNkxxUm9Jb1lPeGI4aDF3bmZMd1VSaGZFV0puN1lnOTZVajR4TWhldExiWGNZQjFxUXp2RWFabktHVWEzMXpXamVsWno3SW9HVUdNZEZkRnZIc1YtWnBGalpzR2dJWUJZWTNfSUVtaVh4OHVZcFdfY0gxVGlVd0lfOHdTUHNUUFp3Qk1zd29KbDdSdWVnX3phMkYzcmRidzZyOTA4VmJQLWI2MWQ0RGs5RGRNNnpTLXZOX3JHRDRodWlaNDJOeExkRVJPVlBN?oc=5",
-     "media": "FAJAR",
-     "platform": "Google News",
-     "terbit": "2026-11-27T13:00+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Cegah Stunting, Wujudkan Gelogor Ramah Anak",
-     "tautan": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNkhDZ2x2Q2hXeDJUTGJxSTNXV2RjRC10aFRoMjlxV3gtUVNENVItUHhSUG1EamtRMmlqM1hLVmluczZBcVZxU2RVUlFxUEpfTXZxU3Q1NG5CMk43WWh1ZTlpeU5mMnF0QkhwM2JtUk1tSjFRU3pDbnFndVBoa1BlRmpfaTRVNGFXS1E?oc=5",
-     "media": "Warta Bali Online",
-     "platform": "Google News",
-     "terbit": "2026-11-26T13:23+07:00",
-     "cuplikan": ""
-    }
-   ],
-   "artikel": [
-    {
-     "jenis": "sumber",
-     "media": "FAJAR",
-     "judul": "Wujudkan Layanan Kesehatan Ramah Anak, Vale Indonesia Gelar Khitanan Modern bagi Warga Tiga Desa di Sorowako",
-     "url": "https://sulsel.fajar.co.id/2026/11/27/wujudkan-layanan-kesehatan-ramah-anak-vale-indonesia-gelar-khitanan-modern-bagi-warga-tiga-desa-di-sorowako/"
-    },
-    {
-     "jenis": "sumber",
-     "media": "Warta Bali Online",
-     "judul": "Cegah Stunting, Wujudkan Gelogor Ramah Anak",
-     "url": "https://wartabalionline.com/2026/11/26/cegah-stunting-wujudkan-gelogor-ramah-anak/"
-    },
-    {
-     "jenis": "terkait",
-     "media": "ANTARA News Makassar",
-     "judul": "Vale Indonesia dan Boonray Technology wujudkan tambang lebih ramah lingkungan, ada truk listrik",
-     "url": "https://makassar.antaranews.com/berita/645043/vale-indonesia-dan-boonray-technology-wujudkan-tambang-lebih-ramah-lingkungan-ada-truk-listrik"
-    }
-   ]
-  },
-  {
-   "id": "834163fcb949",
+   "id": "2d750e5eb93b",
    "tema": "kesehatan anak",
    "peringkat": 3,
-   "label": "Perhutani · Gelar · Edukasi · Mulut",
-   "skor": 6.8,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Perhutani Gelar Edukasi Kesehatan Gigi dan Mulut bagi Anak TK Tunas Rimba II Randudongkal”. Topik yang sering muncul: perhutani, edukasi, gelar, mulut, tunas.",
-   "judul_utama": "Perhutani Gelar Edukasi Kesehatan Gigi dan Mulut bagi Anak TK Tunas Rimba II Randudongkal",
+   "label": "Kontrol · Pelayanan · Bengkulu · Pastikan",
+   "skor": 9.5,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 27 Nov 2026. Inti pemberitaan: “Pastikan Kesehatan Anak Binaan, LPKA Bengkulu Optimalkan Kontrol dan Pelayanan Medis Berkelanjutan”. Topik yang sering muncul: bengkulu, pastikan, binaan, lpka, kontrol.",
+   "judul_utama": "Pastikan Kesehatan Anak Binaan, LPKA Bengkulu Optimalkan Kontrol dan Pelayanan Medis Berkelanjutan",
    "kata_kunci": [
-    "perhutani",
-    "edukasi",
-    "gelar",
-    "mulut",
-    "tunas",
-    "rimba"
+    "bengkulu",
+    "pastikan",
+    "binaan",
+    "lpka",
+    "kontrol",
+    "pelayanan"
    ],
    "sorotan": [
-    "Perhutani Gelar Bantuan TJSL dan Edukasi Kesehatan di Hari Anak Sedunia 2026 Pemalang (Info Ekonomi)"
+    "LPKA Bengkulu Laksanakan Kontrol dan Pelayanan Kesehatan (Kompasiana.com)",
+    "Pastikan Kesehatan, Lapas Perempuan Bengkulu Periksa Warga Binaan dan Bayi Bawaan (RRI.co.id)"
    ],
    "sumber": [
     {
-     "judul": "Perhutani Gelar Edukasi Kesehatan Gigi dan Mulut bagi Anak TK Tunas Rimba II Randudongkal",
-     "tautan": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkxHWEJYSWtGN2thQWdWUDJ4NENrOUZrdlpwSXFzT0hRLXlKNXpaQlV0SXBMYTR2MHhhNkNOQmxmTVlCS2VubG5MaGliTVFTdGNTTlZBSUI3aE83dXNBb2xsZFFIbG5Oc05vR29LT0JXYXJPdUFJY1JqYU93NnVTSnlXZ0VJZGg3TGd6dTZ5b0ZtMDJESktwZjBSWnNuWUsyRFRfNzQ2T1QtN1hFcGxzdGJhekJlYWU5ZlE?oc=5",
-     "media": "Perhutani",
+     "judul": "Pastikan Kesehatan Anak Binaan, LPKA Bengkulu Optimalkan Kontrol dan Pelayanan Medis Berkelanjutan",
+     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWcyTG1nc1JTTEpiUEFBSWswcFItSy1WbHJleTNwR056Q2FsZUMyVmJRdTlYTWZxRXM3U0Z1RXdYdVJxcHl1TmxfOEx0c2Z2cGZEMWpSMHFzOGFLaHg4SENwQ3VseEFOc19LRjU0V1BoNmZaTlJZRGNHX2hIQXFXS1ZWZGZXSDVwU1lpZnhvNk5jR2NZV1hmVXZyTXYzNDB1cWRXcGsxclNNaEVRNDRfYjdiSVN5TjI1X1ZKSUJoOUtwalhpM2c?oc=5",
+     "media": "Bengkulutoday",
      "platform": "Google News",
-     "terbit": "2026-11-27T10:32+07:00",
+     "terbit": "2026-11-27T18:32+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Perhutani Gelar Bantuan TJSL dan Edukasi Kesehatan di Hari Anak Sedunia 2026 Pemalang",
-     "tautan": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzgyNG9yYWxKanIxdGNuYU5uZF80bjd0NmJXSng4a3FrSFVfaHRibWpXaGt6NUQ4SEdQUjJ1V1VyenVIYk9zdU1qZGF6eWZGUXhGSFY1b0hCNkxlVERxeW1YZnJ5dmdiNWFpMWxaU0tUUkh3aHVFcFRDSzJpalFpMGRRZUpDaXhFTVJLWnRnemRKTmN1ZklHWEcybXdQeW9XTm1wZUpDUWF0NmZlNXlreFpmZjV4bXVN?oc=5",
-     "media": "Info Ekonomi",
+     "judul": "LPKA Bengkulu Laksanakan Kontrol dan Pelayanan Kesehatan",
+     "tautan": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWpPSVZQMm1FUWZNQXY5ZXhNUEJaNDJuejBzR3hGV2ZxOUpnVVR6dXl3R1Z6anM1ZkFwUzJTdEFwYUJjMDUtYlhtVmVYSDJ4YmE4T0VDLU5iVnZ0eWxDaVE4d0ZxYzVVUl9FU3VnRFl3UndtUDBWd0ZpTFN6WUhsdWFGcFFLX2pISjBzWW1oQzlsdUY2SGRQUjZ6WlZ5Q1A2T25sYktWc01PWEdndjlsMGFlMHl5aHhKb0Q5aGp5eHVEQWs?oc=5",
+     "media": "Kompasiana.com",
      "platform": "Google News",
-     "terbit": "2026-11-26T16:03+07:00",
+     "terbit": "2026-11-27T12:50+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Pastikan Kesehatan, Lapas Perempuan Bengkulu Periksa Warga Binaan dan Bayi Bawaan",
+     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLW14NnF5NWw3REZDbWRvMElrRUtjZDl0LV9oeE4tQzZaX3JYR2lqZXNEbVktMnN1eDRLaTRJZm82eUY2dWZfRTBRSWFyWmdnQzBRel9KQ2dLbVZFOTdvRXhxTnpaOGFMQnY1Zlg1Q0cxbzZ2VFc0Tmg0cUF3RTF5YkFtU3ZBYzlhT0Q0alBqNm8xakpvNFNLZlpSNGRvLWdIcG8zWFI1NEpjTlFiWk9RUlh1QmtXRVFyMURzSk1ONUlwTWdIY3c?oc=5",
+     "media": "RRI.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T08:31+07:00",
      "cuplikan": ""
     }
    ],
    "artikel": [
     {
      "jenis": "sumber",
-     "media": "Perhutani",
-     "judul": "Perhutani Gelar Edukasi Kesehatan Gigi dan Mulut bagi Anak TK Tunas Rimba II Randudongkal",
-     "url": "https://www.perhutani.co.id/perhutani-gelar-edukasi-kesehatan-gigi-dan-mulut-bagi-anak-tk-tunas-rimba-ii-randudongkal/"
+     "media": "Bengkulutoday",
+     "judul": "Pastikan Kesehatan Anak Binaan, LPKA Bengkulu Optimalkan Kontrol dan Pelayanan Medis Berkelanjutan",
+     "url": "https://www.bengkulutoday.com/pastikan-kesehatan-anak-binaan-lpka-bengkulu-optimalkan-kontrol-dan-pelayanan-medis-berkelanjutan"
     },
     {
      "jenis": "terkait",
-     "media": "Kabar Banyuwangi",
-     "judul": "Hari Pohon Sedunia, Perhutani KPH Banyuwangi Barat Gandeng PWI Tanam Bibit Buah di Ijen Sky Light",
-     "url": "https://kabarbanyuwangi.co.id/hari-pohon-sedunia-perhutani-kph-banyuwangi-barat-gandeng-pwi-tanam-bibit-buah-di-ijen-sky-light"
+     "media": "Ombudsman Republik Indonesia",
+     "judul": "Ombudsman Gorontalo Ajak Alumni Universitas Terbuka Kawal Pelayanan Publik",
+     "url": "https://ombudsman.go.id/perwakilan/news/r/pwkmedia--ombudsman-gorontalo-ajak-alumni-universitas-terbuka-kawal-pelayanan-publik"
     },
     {
      "jenis": "terkait",
-     "media": "portaljatengnews.com",
-     "judul": "Perhutani Telawa Gelar Cek Kesehatan Bersama Puskesmas Juwangi",
-     "url": "https://portaljatengnews.com/perhutani-telawa-gelar-cek-kesehatan-bersama-puskesmas-juwangi/"
+     "media": "IBM",
+     "judul": "Kedaulatan digital: Menutup kesenjangan kontrol di perusahaan hybrid",
+     "url": "https://www.ibm.com/id-id/think/insights/digital-sovereignty-closing-the-control-gap"
     }
    ]
   },
   {
-   "id": "86f14d014e19",
+   "id": "41e41988de95",
    "tema": "kesehatan anak",
    "peringkat": 4,
-   "label": "Desember · Surabaya · Disuntik",
-   "skor": 6.7,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Mulai 1 Desember, Bayi di Surabaya Cukup Disuntik Sekali untuk Tangkal 6 Penyakit Sekaligus”. Topik yang sering muncul: desember, surabaya, disuntik, tangkal, sekaligus.",
-   "judul_utama": "Mulai 1 Desember, Bayi di Surabaya Cukup Disuntik Sekali untuk Tangkal 6 Penyakit Sekaligus",
+   "label": "Orangtua · Pantau · Prematur · Otak",
+   "skor": 9.4,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 27 Nov 2026. Inti pemberitaan: “Dokter Minta Orangtua Pantau Otak Bayi Prematur”. Topik yang sering muncul: orangtua, prematur, pantau, otak, dokter.",
+   "judul_utama": "Dokter Minta Orangtua Pantau Otak Bayi Prematur",
    "kata_kunci": [
-    "desember",
-    "surabaya",
-    "disuntik",
-    "tangkal",
-    "sekaligus",
-    "pemkot"
-   ],
-   "sorotan": [
-    "Pemkot Surabaya Siap Sukseskan Imunisasi Heksavalen Mulai 1 Desember 2026 (Pemerintah Kota Surabaya)"
-   ],
-   "sumber": [
-    {
-     "judul": "Mulai 1 Desember, Bayi di Surabaya Cukup Disuntik Sekali untuk Tangkal 6 Penyakit Sekaligus",
-     "tautan": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQU9FQ2w0cjBfVDVYaEVSTWZFNUgtNTNXbWY4RkprTXhscXVxdERxS1ZmbTVRek5NWDl0ajUwX1RpcG1fSFlxcXJEenA0OEpsTDVYajA2SGp2ZDJKejFvS1hJZ3ZSM19wQ19UOXhnc251aTlka2Z6anZDRkl2ZHNvM0V1V3JRRHo3SThnWE5qRm95U1I5TmFHVXc2WTZNeWVuanZnTHowcG5kcXM5emNEaG1TWQ?oc=5",
-     "media": "d-onenews.com",
-     "platform": "Google News",
-     "terbit": "2026-11-27T09:33+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Pemkot Surabaya Siap Sukseskan Imunisasi Heksavalen Mulai 1 Desember 2026",
-     "tautan": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWxIOE1BTGJ1dklha290UFFDa1JPZTRiOHlPTE5sdVBTeGpoSjZOZ09heUlVb01uRmRsel9YVXZkZ1BFQWVLaTRDcElyMjdQUHdqYi0zbDdqNTRIMkxDUjd6REtxWVVyMGNRaVZZTGVsOWg0TjRFT29sZDBfWEF4QjZBcVRmaVd3RUxiTFZUS1IwNkxGS3p1VHpuanRkeUxadngtUTNKRmlmVWtIX1pHZVZ3?oc=5",
-     "media": "Pemerintah Kota Surabaya",
-     "platform": "Google News",
-     "terbit": "2026-11-26T16:32+07:00",
-     "cuplikan": ""
-    }
-   ],
-   "artikel": [
-    {
-     "jenis": "sumber",
-     "media": "Pemerintah Kota Surabaya",
-     "judul": "Pemkot Surabaya Siap Sukseskan Imunisasi Heksavalen Mulai 1 Desember 2026",
-     "url": "https://surabaya.go.id/id/berita/25978/pemkot-surabaya-siap-sukseskan-imunisasi-heksavalen-mulai-1-desember-2026"
-    },
-    {
-     "jenis": "terkait",
-     "media": "Lentera.co",
-     "judul": "Mulai Desember, Bayi di Surabaya Dapat Imunisasi Enam Penyakit dalam Satu Suntikan",
-     "url": "https://lentera.co/post/item/241519/Mulai-Desember-Bayi-di-Surabaya-Dapat-Imunisasi-Enam-Penyakit-dalam-Satu-Suntikan"
-    }
-   ]
-  },
-  {
-   "id": "e2f2d5a68716",
-   "tema": "kesehatan anak",
-   "peringkat": 5,
-   "label": "Tumbuh · Kembang · Orangtua · Prematur",
-   "skor": 6.7,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Dari Pencegahan Penyakit hingga Tumbuh Kembang Anak, Ini Pesan Bupati Blitar dalam Peringatan Hari Kesehatan Nasional ke-62”. Topik yang sering muncul: tumbuh, kembang, orangtua, prematur, pesan.",
-   "judul_utama": "Dari Pencegahan Penyakit hingga Tumbuh Kembang Anak, Ini Pesan Bupati Blitar dalam Peringatan Hari Kesehatan Nasional ke-62",
-   "kata_kunci": [
-    "tumbuh",
-    "kembang",
     "orangtua",
     "prematur",
-    "pesan",
-    "bupati"
+    "pantau",
+    "otak",
+    "dokter",
+    "bayi"
    ],
    "sorotan": [
     "Orangtua Perlu Pantau Tumbuh Kembang Anak Prematur (SuaraGarut.ID)"
    ],
    "sumber": [
+    {
+     "judul": "Dokter Minta Orangtua Pantau Otak Bayi Prematur",
+     "tautan": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VSkUteDBYSHVHZHFvVDVud3dLeERvSmxUcmFGVGpFX2hYN0IyelAtZGsxUlRWYV9qM0hmemgzZzdQVFdNdUFtbnhGaWkzc1BWRXd5NHUtX2loNk5ldEpWM2tUODRVZGVheE1SdVlaS1c?oc=5",
+     "media": "Lensa Hukum",
+     "platform": "Google News",
+     "terbit": "2026-11-27T17:06+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Dokter Ingatkan Orangtua Pantau Perkembangan Otak Bayi Prematur",
+     "tautan": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RT0NEWGZNYWxSekFrTmluUHdXOGU1WnF5ZzhyQ2pnaVVoV2txVDQ3WXJ0dmtoc21WMzlhUFpDTDFrWWtlVGs3UXRTYjRFT1daUU1IS1V1eFlUdS03LXJlVVVyOTBWN192?oc=5",
+     "media": "bsinews.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T17:03+07:00",
+     "cuplikan": ""
+    },
     {
      "judul": "Orangtua Perlu Pantau Tumbuh Kembang Anak Prematur",
      "tautan": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01TzBOMGxNMHpEc19NVmtyY1c3NUpxOThCbnViSmg2Vlc0RTdHam5KOHFOMjZldW5IbkpRaW9MZ3duNVc2bXNpbkQwaHVoeGE2QnBCd2NXWVNoMmthSFNjajZ2dndmeG9H?oc=5",
@@ -618,54 +649,231 @@
      "platform": "Google News",
      "terbit": "2026-11-27T08:04+07:00",
      "cuplikan": ""
-    },
-    {
-     "judul": "Dari Pencegahan Penyakit hingga Tumbuh Kembang Anak, Ini Pesan Bupati Blitar dalam Peringatan Hari Kesehatan Nasional ke-62",
-     "tautan": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTFprUnlDTVhtS2wtcHM5X3B5UkRiaTRYQlFuWjhsX2J2V2FFdUJlOUtsM2RiMHUzem9fejRqQ3hkdFc1SUJFVlV6SVpPQ214Nmh2RFM1UkVBMHVqVEptbFZxOU1jd3BYdUVtSGxsV1JYdDliRnBsbmtyeUNZZGhtWm10aWpub25GTVR2V3FGQTRNa1J6RFZOUTgwTVNlLVgtRXVzd1BIZ05mMTZmTjQ4N3pHczRBRWp6SFRkVjZLRDI1X3Q3cmJqY2tmNlJjN1NIOFozU3l3QlBOQUo0RHBjQU13?oc=5",
-     "media": "Persada Blitar",
-     "platform": "Google News",
-     "terbit": "2026-11-26T13:09+07:00",
-     "cuplikan": ""
     }
    ],
    "artikel": [
     {
      "jenis": "sumber",
+     "media": "bsinews.id",
+     "judul": "Dokter Ingatkan Orangtua Pantau Perkembangan Otak Bayi Prematur",
+     "url": "https://bsinews.id/pantau-perkembangan-otak-bayi-prematur"
+    },
+    {
+     "jenis": "sumber",
      "media": "SuaraGarut.ID",
      "judul": "Orangtua Perlu Pantau Tumbuh Kembang Anak Prematur",
      "url": "https://suaragarut.id/pantau-tumbuh-kembang-anak-prematur"
-    },
-    {
-     "jenis": "terkait",
-     "media": "BeritaOne.id",
-     "judul": "Kisah Haru Para Bunda Warnai Perayaan Hari Prematur 2026, RS Zainab Teguhkan Dukungan bagi Pejuang Kecil",
-     "url": "https://beritaone.id/news/detail/14979/kisah-haru-para-bunda-warnai-perayaan-hari-prematur-2026-rs-zainab-teguhkan-dukungan-bagi-pejuang-kecil"
-    },
-    {
-     "jenis": "terkait",
-     "media": "Liputan6.com",
-     "judul": "Orang Tua Perlu Latihan Merawat Bayi Prematur Sejak di Ruang NICU",
-     "url": "https://kesehatan.liputan6.com/ibu-dan-anak/read/8340338/orang-tua-perlu-latihan-merawat-bayi-prematur-sejak-di-ruang-nicu"
     }
    ]
   },
   {
-   "id": "a7506d3ffa06",
+   "id": "b42e34210da7",
    "tema": "kesehatan anak",
-   "peringkat": 6,
-   "label": "Srikandi · Care · PLN · Bandung",
-   "skor": 6.3,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 26 Nov 2026. Inti pemberitaan: “Melalui Srikandi Care 2026, PLN UID Riau dan Kepri dukung pemenuhan gizi balita”. Topik yang sering muncul: srikandi, care, pln, bandung, uid.",
-   "judul_utama": "Melalui Srikandi Care 2026, PLN UID Riau dan Kepri dukung pemenuhan gizi balita",
+   "peringkat": 5,
+   "label": "Srikandi · Care · PLN · Langkah",
+   "skor": 6.9,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Srikandi Care, Langkah Nyata PLN Wujudkan Generasi Sehat dan Berkualitas”. Topik yang sering muncul: srikandi, care, pln, langkah, nyata.",
+   "judul_utama": "Srikandi Care, Langkah Nyata PLN Wujudkan Generasi Sehat dan Berkualitas",
    "kata_kunci": [
     "srikandi",
     "care",
     "pln",
-    "bandung",
-    "uid",
-    "riau"
+    "langkah",
+    "nyata",
+    "wujudkan"
    ],
    "sorotan": [
+    "Srikandi Care 2026, PLN Perkuat Kesehatan Ibu dan Anak serta Cegah Stunting di Bandung Barat (Radar Bandung)"
+   ],
+   "sumber": [
+    {
+     "judul": "Srikandi Care, Langkah Nyata PLN Wujudkan Generasi Sehat dan Berkualitas",
+     "tautan": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3pWVW0zYzRTanoxRE1kVWFNZEpraFJITkZNTkdLNUhvRC1HdG9qTGZKTXpUczVTaldTakR0SDJDNndkVjBpa1VfczViaF9tS3NJWGg4NC16WnpOdndwOWdtSkd5Rm9TZzM2NGhfVlR6ZlBLcWppc1FfREhUV2J4Y0loaHpFakE3ZjVnUkxUVFZiVFc2VXJuYlNQN2gtcU8wNnR5NA?oc=5",
+     "media": "Radar Lombok",
+     "platform": "Google News",
+     "terbit": "2026-11-27T18:12+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Srikandi Care 2026, PLN Perkuat Kesehatan Ibu dan Anak serta Cegah Stunting di Bandung Barat",
+     "tautan": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRDdRNWtzQ094T3RkUHByUWJHZ3k1MFA2dGdZcjZvNmN5UlpraWpWaHlKTHhFRC1jQmJKQWRXc2k2UDNFWER3SUZ2VFNVUDA3TkJZNzViNVdaaG91d2s4WXJfNFhjZkJEM2xFZ0VHVzlzMzQ1dWczR213SDQ3eHUzR1R2ZnJMUzhNczJQZVVHdGZTUEJyRTZuWV9KMndxQXlVWGd3bTlHc0QzMnd2Y2J0SFVRd1RDZjlTWXJlcllncHpTcklCcndrUENvRQ?oc=5",
+     "media": "Radar Bandung",
+     "platform": "Google News",
+     "terbit": "2026-11-26T23:13+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": []
+  },
+  {
+   "id": "8024f9f6d56c",
+   "tema": "kesehatan anak",
+   "peringkat": 6,
+   "label": "Alfamart · Sahabat · Gandeng · Zwitsal",
+   "skor": 6.9,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “Gandeng Zwitsal, Alfamart Sahabat Posyandu Sasar 2.800 Ibu dan Anak pada November 2026 - Ayo Semarang”. Topik yang sering muncul: gandeng, zwitsal, alfamart, sahabat, ibu.",
+   "judul_utama": "Gandeng Zwitsal, Alfamart Sahabat Posyandu Sasar 2.800 Ibu dan Anak pada November 2026 - Ayo Semarang",
+   "kata_kunci": [
+    "gandeng",
+    "zwitsal",
+    "alfamart",
+    "sahabat",
+    "ibu",
+    "posyandu"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Gandeng Zwitsal, Alfamart Sahabat Posyandu Beri Pelayanan Kesehatan 2.800 Ibu dan Anak",
+     "tautan": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjFYOEk0MmJfcDNETXUxeTdISkRzU1lBN1FmUzd4X09jaGhaU01mSE9mRTZEZk02OVRMTlhDTTZIenJVWTBWZElYeE1samFJZzBISkNrdFVmS2RuNWt1Q0VMaWUxWldPVGl0bW9PS1ZfeFNoLXBNSEFiYXBuVUpzQlRpLXRmUzVEMm0wVS03NDFkMWYzNHBEVWVtbThHbk50ZEJfaVZpaEVzOThMUzdCRnJKTEdTYUdxd3ZObzJkd0tWckVaZnJXc2tVLTBsSnNy?oc=5",
+     "media": "jatengpos.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T17:51+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Gandeng Zwitsal, Alfamart Sahabat Posyandu Sasar 2.800 Ibu dan Anak pada November 2026 - Ayo Semarang",
+     "tautan": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGVZRkZJcE5ETUJOT0dkUkdRSWtfZlZvMHR2cnNpZ0xWYWNrYTI0RGtRR0E3ckRqV0JQdlYwRUZpWE9hcVluUkp6eTk4ZzBUbmhUU0x5X0paN3BpR1dFSkN3aS0tV2pFOS1DZExxWmwzbTRuNG00M3dqc0IzQTYwUUJjRS1vQXk5QkliUU5PblBMOGNaQ00xUXJVQWFQbUFsVEN4VXpLV0o5ZWJULWQyRTlfeTU0ZDVaNEtLRUhYbzBVREJzUzdHRV9IQTTSAcwBQVVfeXFMTzBlWUZGSXBORE1CTk9HZFJHUUlrX2ZWbzB0dnJzaWdMVmFja2EyNERrUUdBN3JEaldCUHZWMEVGaVhPYXFZblJKenk5OGcwVG5oVFNMeV9KWjdwaUdXRUpDd2ktLVdqRTktQ2RMcVpsM200bjRtNDN3anNCM0E2MFFCY0Utb0F5OUJJYlFOT25QTDhjWkNNMVFyVUFhUG1BbFRDeFV6S1dKOWViVC1kMkU5X3k1NGQ1WjRLS0VIWG8wVURCc1M3R0VfSEE0?oc=5",
+     "media": "Ayo Semarang",
+     "platform": "Google News",
+     "terbit": "2026-11-27T13:02+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": []
+  },
+  {
+   "id": "89dda42cfaa4",
+   "tema": "kesehatan anak",
+   "peringkat": 7,
+   "label": "Pulau · Obi · Akses · Cerita",
+   "skor": 6.8,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Dari Polindes hingga Posyandu, Upaya Harita Nickel Perluas Akses Kesehatan di Pulau Obi”. Topik yang sering muncul: pulau, obi, akses, cerita, makin.",
+   "judul_utama": "Dari Polindes hingga Posyandu, Upaya Harita Nickel Perluas Akses Kesehatan di Pulau Obi",
+   "kata_kunci": [
+    "pulau",
+    "obi",
+    "akses",
+    "cerita",
+    "makin",
+    "dekat"
+   ],
+   "sorotan": [
+    "Cerita Perubahan di Pulau Obi: Akses Kesehatan Makin Dekat, Anak-anak Lebih Sehat (Warta Ekonomi)"
+   ],
+   "sumber": [
+    {
+     "judul": "Cerita Perubahan di Pulau Obi: Akses Kesehatan Makin Dekat, Anak-anak Lebih Sehat",
+     "tautan": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWJhT2NSYWdNNU4yMXpKbTc0cHhXeEZ0TFhWei1xOHdNaU5fQVBYM1RuQ3ZUZk4ydlU0N09ZOU95VVE4dXhlUWl2MVJXbDVrLV9YX2h5X0oybndCTGctM0liMEVZMHE5VDlUYTZBQnNQQ0xCc1dQVGRSNjE4ZmtBNDNGWjhRM2Fna3FMZmlXa3RVenFFckpoUy1qaE5IVU5nSVVlMEVVdC15Q056SmkxMk9RUHUwemRh0gG-AUFVX3lxTE1aSzBjZURDel9PaTNvMEd1LUlFaFI3QWQ2SmJ0dGhsWTd1dDY2SjVVODZJR2NOSXBJZTFjQWlMMmxyWDhGU3ZjOFhaamJORVFITWRxc0V1eDBhd1hUN0xnb0NBWS1GcElzbl9lSXdkcGVxZ3EyaG4yYUFtUUJab3BxSXExNUZyenA4dTlIOXVaNXFoeHBEODNBZXVGa1lsOGtTazBOd3hHQ1VOQkxVSl9rV0Z2TTlYVWtRTmc3ZHc?oc=5",
+     "media": "Warta Ekonomi",
+     "platform": "Google News",
+     "terbit": "2026-11-27T16:56+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Dari Polindes hingga Posyandu, Upaya Harita Nickel Perluas Akses Kesehatan di Pulau Obi",
+     "tautan": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFhZOGxfRWhERlZTR0tranU0NUpEUWx3UE9FLVlIbzR2Yjc5M0UyaG03V21MZldXVGJxRExhYUwyMEJUTkJiRWFraWQtUklTa1Vub2g5cFJrdFR4dFo5OEJGZ2dYUEx6aGJjZnlIOUZvS1lmd0pTRmV2S0lvcHRROVBtNWluZ2hqY25iai1saUR4U25rQzZkbUM1MjdMUVZVRW1RbjBncDdlY2JNVTZGUXhiZERpLU1Qa054UmgyQXU?oc=5",
+     "media": "Tempo.co",
+     "platform": "Google News",
+     "terbit": "2026-11-27T00:00+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "fdd921fb718a",
+   "tema": "kesehatan anak",
+   "peringkat": 8,
+   "label": "Rumah · Singgah · Surabaya · Ditargetkan",
+   "skor": 6.8,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “Rumah Singgah Gratis di RS Kemenkes Surabaya Ditargetkan Buka April 2027”. Topik yang sering muncul: singgah, rumah, surabaya, ditargetkan, buka.",
+   "judul_utama": "Rumah Singgah Gratis di RS Kemenkes Surabaya Ditargetkan Buka April 2027",
+   "kata_kunci": [
+    "singgah",
+    "rumah",
+    "surabaya",
+    "ditargetkan",
+    "buka",
+    "april"
+   ],
+   "sorotan": [
+    "Rumah Singgah Pasien Anak di Surabaya Mulai Dibangun (RRI.co.id)"
+   ],
+   "sumber": [
+    {
+     "judul": "Rumah Singgah Gratis di RS Kemenkes Surabaya Ditargetkan Buka April 2027",
+     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS1pOU2dCaFM1SUpCcFlUNDV5dlRWLW01Yms5LWNjRzQySzhMeVcyZGN1TmNWUnUzd2FSYVg3NlRCbkFXVE4zR1FtVmpvRFZub2JzTTVzVzhGQUUtUTVZTi0xLUdsSG5EaXRsVjktVGNYSlF0Wk1weXd6Qkt2RGNUYXJlaHFfT3N2bkNjcGpzZXZ4TTMyTWJ6Sk9TQnF6LWVmVWl0VThlbWJWRm0wRWFvdE9lcEhVMnpROWNUN1Q4SGNaVjZpWFE?oc=5",
+     "media": "Surya.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T16:54+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Rumah Singgah Pasien Anak di Surabaya Mulai Dibangun",
+     "tautan": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG5DZ1VwVkZIUll2MlpvbHdPeHV0SnhwYUEtT1JuTS1LaVBDZXFhalhKYmo4UVFfSTdscXU4UFByX3U4Z3NTY1VLejRoUnZOZTQyWURlOV9NNmtmdXV0VzVEc2ZILVU0MWZXSDBuRVRROFhtWXg1aHlMS3VsMEZwV3NlVFlUR0dkWVI5enJpSUNpMlZDN292Q25jd09QQQ?oc=5",
+     "media": "RRI.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T14:32+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "dd8a5a17e048",
+   "tema": "kesehatan anak",
+   "peringkat": 9,
+   "label": "Obat · Cacing · Kaur",
+   "skor": 6.8,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “112 Siswa MIN 2 Kaur Terima Obat Cacing dari Puskesmas Linau”. Topik yang sering muncul: obat, cacing, kaur, terima, linau.",
+   "judul_utama": "112 Siswa MIN 2 Kaur Terima Obat Cacing dari Puskesmas Linau",
+   "kata_kunci": [
+    "obat",
+    "cacing",
+    "kaur",
+    "terima",
+    "linau",
+    "terinfeksi"
+   ],
+   "sorotan": [
+    "Anak Terinfeksi Cacing Gelang? Ini Pilihan Obat dan Penanganan Menurut Dokter (Tribunnews.com)"
+   ],
+   "sumber": [
+    {
+     "judul": "112 Siswa MIN 2 Kaur Terima Obat Cacing dari Puskesmas Linau",
+     "tautan": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXNHbExoUzJ6ZDhCZXJPREtWQlV2VWdpV2dDVFkxeE9WS0VlNzBGemJBc0prcl9seHlzWnN4Vzk1ZG9oLWRncTVucHlCV1NqaldnektWSnZDaFoxSXJSMFRvNVNpM1pkUzhCX0p0ZWtfUEpVUlRBTFNlQ3VIeGhxNEVmeEl6ZjlPRXNvR2I0Vkd4M2UxNHkwanRuMjNkRFRHM3lJcHpXZw?oc=5",
+     "media": "RRI.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T16:13+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Anak Terinfeksi Cacing Gelang? Ini Pilihan Obat dan Penanganan Menurut Dokter",
+     "tautan": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbk9UX3QtN1Npd0hrSkNSYU9yTUZFeDM4WWhZWUFNQ1FJMTdYYUpuVXl4aUttQzhCQ0NyeTNTMTVfQVBSdy1xc3JPR3dVTXZPZkFkemtqY2Fmczl5d0YxM3dBbG9IcXh4cGhhNXVmSXVVTDZIelpzQ25LRXFYMi1GY2NMaTdCbkl1UnZLcFJfS2hXN0plUjcwZEtDRmlCc1lBRExyMVZLNE9fWnRXUmVGMVNfaXluX0ZwMHVXaHV3?oc=5",
+     "media": "Tribunnews.com",
+     "platform": "Google News",
+     "terbit": "2026-11-27T13:24+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "89aab8bf91a8",
+   "tema": "kesehatan ibu",
+   "peringkat": 1,
+   "label": "Cegah · Stunting · Srikandi · PLN",
+   "skor": 8.6,
+   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 26 Nov 2026. Inti pemberitaan: “Srikandi PLN Babel Libatkan 40 Kader Posyandu Bangka Tengah Cegah Stunting”. Topik yang sering muncul: srikandi, pln, babel, kader, cegah.",
+   "judul_utama": "Srikandi PLN Babel Libatkan 40 Kader Posyandu Bangka Tengah Cegah Stunting",
+   "kata_kunci": [
+    "srikandi",
+    "pln",
+    "babel",
+    "kader",
+    "cegah",
+    "posyandu"
+   ],
+   "sorotan": [
+    "Srikandi PLN Babel Latih Kader Posyandu Sungaiselan Tingkatkan Kompetensi (RRI.co.id)",
     "Srikandi Care 2026, PLN Perkuat Kesehatan Ibu dan Anak serta Cegah Stunting di Bandung Barat (Radar Bandung)"
    ],
    "sumber": [
@@ -678,289 +886,209 @@
      "cuplikan": ""
     },
     {
-     "judul": "Melalui Srikandi Care 2026, PLN UID Riau dan Kepri dukung pemenuhan gizi balita",
-     "tautan": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2xubDluS05mWllNb2ZKVFZCUm4td3VUQVhQZEx5MVJrbU52MGZMNkpUVG40bWtTSWZJaGdIYTV0b01uWW9PQmhGYUF0blRXeW8xbnIyUjdwMVJGeVBzekhUdGpkbllTblM5Vjh2TFdDRVZBVGdLQVhqSEJ0dXA0anA3N2NjV0VjbGdvMVJBM0JJSHcwNlg3dzdqclg0cXlJWlRjR2ptVDRRS3BlN1FyUm1HX2htZVF4LXB5LQ?oc=5",
-     "media": "ANTARA News Riau",
+     "judul": "Srikandi PLN Babel Libatkan 40 Kader Posyandu Bangka Tengah Cegah Stunting",
+     "tautan": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1ByX3A1WFYwWjlQT3NaclZwUGpHUnR0NzE0VVIzUUd3ekRjeTFHRjVUTzBaZkFiUlFkZDJjZ1pUNTd5R2hEWVM1YXdzRHhrUFVKUzFjOUdDOGZyWndzaDQ1RXRXRmYxeWJvbVhKQ3hwTW1pdkdIMTB4OThsODhVcjA3NDhDQVRUSXZsZ3BnWC1lTzQzUDE2cTRPNDhESlhZSHR0Tw?oc=5",
+     "media": "Tras Berita Babel",
      "platform": "Google News",
-     "terbit": "2026-11-26T15:52+07:00",
+     "terbit": "2026-11-26T22:26+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Srikandi PLN Babel Latih Kader Posyandu Sungaiselan Tingkatkan Kompetensi",
+     "tautan": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYk05alNoVnhCajlmNTZPdFZtclNtYlk2MmlZdm1LX1AwdTBFZkVLdlRmZlV3dmwwbURHQXZPbTM5MkpwTEVGSE4tTFdheGdBYnJzeUxDdHktUWUwUnVXNnVucUEzNVFDclZVaTRrbldWSFZLbnlObkF6eERBdzNWZ2FNSG5SOXdnV3BYLWw4dGtmRUtRS1dXQm5nSldXTVp1c05ucmF1THkxSjdqNHJVeW9YeXhmRHpPTjZnVA?oc=5",
+     "media": "RRI.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-26T20:18+07:00",
      "cuplikan": ""
     }
    ],
    "artikel": [
     {
-     "jenis": "sumber",
-     "media": "Radar Bandung",
-     "judul": "Srikandi Care 2026, PLN Perkuat Kesehatan Ibu dan Anak serta Cegah Stunting di Bandung Barat",
-     "url": "https://www.radarbandung.id/2026/11/26/srikandi-care-2026-pln-perkuat-kesehatan-ibu-dan-anak-serta-cegah-stunting-di-bandung-barat/"
-    },
-    {
-     "jenis": "sumber",
-     "media": "ANTARA News Riau",
-     "judul": "Melalui Srikandi Care 2026, PLN UID Riau dan Kepri dukung pemenuhan gizi balita",
-     "url": "https://riau.antaranews.com/berita/460239/melalui-srikandi-care-2026-pln-uid-riau-dan-kepri-dukung-pemenuhan-gizi-balita"
-    },
-    {
      "jenis": "terkait",
-     "media": "Jabar News",
-     "judul": "Cegah Stunting di Bandung Barat, PLN Salurkan Nutrisi untuk 135 Ibu Hamil dan Balita",
-     "url": "https://www.jabarnews.com/daerah/pln-uip-jbt-srikandi-care-cegah-stunting-bandung-barat/"
+     "media": "Babelpos.id",
+     "judul": "40 Kader Posyandu Diperkuat, Srikandi PLN Babel Bergerak Cegah Stunting di Bangka Tengah - babelpos.disway.id",
+     "url": "https://babelpos.disway.id/bangka-tengah/read/692532/40-kader-posyandu-diperkuat-srikandi-pln-babel-bergerak-cegah-stunting-di-bangka-tengah"
     }
    ]
   },
   {
-   "id": "3cbdd029693d",
-   "tema": "kesehatan anak",
-   "peringkat": 7,
-   "label": "Mudah · Dijangkau · Kian · Berisiko",
-   "skor": 4.7,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 1 sumber pada 26 Nov 2026. Inti pemberitaan: “Foto : Vape Kian Mudah Dijangkau, Berisiko pada Kesehatan Anak Halaman 1”. Topik yang sering muncul: kian, mudah, dijangkau, berisiko, vape.",
-   "judul_utama": "Foto : Vape Kian Mudah Dijangkau, Berisiko pada Kesehatan Anak Halaman 1",
-   "kata_kunci": [
-    "kian",
-    "mudah",
-    "dijangkau",
-    "berisiko",
-    "vape",
-    "halaman"
-   ],
-   "sorotan": [],
-   "sumber": [
-    {
-     "judul": "Foto : Vape Kian Mudah Dijangkau, Berisiko pada Kesehatan Anak Halaman 1",
-     "tautan": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUU5Yem5SNzA4cGlJLVp1RGVhcnlHVjE3bFo1Uk9iQUNPRUk3aVJkeGNnV2NvLTl4LWtiU2VDMVpDdjJaOXdJLXBualRKanpkQ054R2llRC02V3FPMnRxaHR3SWZXdmJaSWFEUzZrbnRhcG5FNHVtT2xlbFJnV0dzVkVGMVBBUTZLem1PWl9zaC1xX2s0SDFDdHh3cnZiQmFjUkp5eG41RzFmaHNXOVBBSkVFRXYzUkNGU0xUdA?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-26T22:27+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Vape Kian Mudah Dijangkau, Berisiko pada Kesehatan Anak",
-     "tautan": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2xHbWxWaHJKSTBDLXhiZHA4bjQzeG8tQnJOWTZLN0FnQnNtVWN0dEcwRjlabXFBTUFaS1ZrSlI0X29WR3I0dHJhUjBHN3Rja3RrdFRlUGU2aVZHTTVxUTROVGdwdTk4VFhwdDlfN2xPdzVlZF96R3Y2TE1qTWh1VGNOQXpiQnI4ZW10Z0tYNnJaZC05WVpqMzNadmdONzlhbFEtNF9sbDktTkd3U0ZzZnk4bGJuNkFWQjNORElR?oc=5",
-     "media": "Kompas.com",
-     "platform": "Google News",
-     "terbit": "2026-11-26T14:48+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "1339988897e1",
-   "tema": "kesehatan anak",
-   "peringkat": 8,
-   "label": "LPKA · Bengkulu · Kontrol",
-   "skor": 4.5,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “LPKA Bengkulu Laksanakan Kontrol dan Pelayanan Kesehatan”. Topik yang sering muncul: lpka, bengkulu, kontrol, pelayanan, laksanakan.",
-   "judul_utama": "LPKA Bengkulu Laksanakan Kontrol dan Pelayanan Kesehatan",
-   "kata_kunci": [
-    "lpka",
-    "bengkulu",
-    "kontrol",
-    "pelayanan",
-    "laksanakan"
-   ],
-   "sorotan": [],
-   "sumber": [
-    {
-     "judul": "LPKA Bengkulu Laksanakan Kontrol dan Pelayanan Kesehatan",
-     "tautan": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWpPSVZQMm1FUWZNQXY5ZXhNUEJaNDJuejBzR3hGV2ZxOUpnVVR6dXl3R1Z6anM1ZkFwUzJTdEFwYUJjMDUtYlhtVmVYSDJ4YmE4T0VDLU5iVnZ0eWxDaVE4d0ZxYzVVUl9FU3VnRFl3UndtUDBWd0ZpTFN6WUhsdWFGcFFLX2pISjBzWW1oQzlsdUY2SGRQUjZ6WlZ5Q1A2T25sYktWc01PWEdndjlsMGFlMHl5aHhKb0Q5aGp5eHVEQWs?oc=5",
-     "media": "Kompasiana.com",
-     "platform": "Google News",
-     "terbit": "2026-11-27T12:50+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "c7adecfdbd13",
-   "tema": "kesehatan anak",
-   "peringkat": 9,
-   "label": "Orang · Tua · Rotavirus · Puskesmas",
-   "skor": 4.5,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 1 sumber pada 26 Nov 2026. Inti pemberitaan: “Cegah Diare Berat Sejak Dini, Puskesmas Kampung Sawah Ajak Orang Tua Lengkapi Imunisasi Rotavirus”. Topik yang sering muncul: orang, tua, rotavirus, puskesmas, diare.",
-   "judul_utama": "Cegah Diare Berat Sejak Dini, Puskesmas Kampung Sawah Ajak Orang Tua Lengkapi Imunisasi Rotavirus",
-   "kata_kunci": [
-    "orang",
-    "tua",
-    "rotavirus",
-    "puskesmas",
-    "diare",
-    "kampung"
-   ],
-   "sorotan": [
-    "Puskesmas Way Kandis Gelar PENARI, Edukasi Orang Tua Pentingnya Vaksin Rotavirus (Medinaslampungnews)"
-   ],
-   "sumber": [
-    {
-     "judul": "Cegah Diare Berat Sejak Dini, Puskesmas Kampung Sawah Ajak Orang Tua Lengkapi Imunisasi Rotavirus",
-     "tautan": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR20zVE1YNWo2S2ZWOVRzQW5VMS1vSU54M2dza0tROTd4SWJYTy12dHN2V2hBbm03S1loUUNuQmd3dkRGd0x1MXpLbUNhRWcwcDVzUHR4RTdQSHdscGlzZlZURHh5djZDaFdBbGxNRTdmSDRvM1ZvZUJJaXM2WUd1MnFRWlpwV2FmQmRUR0d6Zm5qRnBwSldYVzF0N2RYZDJvMVRySzYydFRvZTVOQlhHRV9QVmRUb0dqTzVTeHB0cHRQcDNqUlozbVNDTkVpQUtzaFNRVE1EYUlyOUJjLUE?oc=5",
-     "media": "Medinaslampungnews",
-     "platform": "Google News",
-     "terbit": "2026-11-26T14:35+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Puskesmas Way Kandis Gelar PENARI, Edukasi Orang Tua Pentingnya Vaksin Rotavirus",
-     "tautan": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVVfVmZkS0U1YVhkVnhINHdmV2FDazE4cmU1R0RiVTk4N3RXZWFIWWt4REJpZlk5SzFQbWpxNGJGM3Rrdkh2U0ZjR2JwSGxnQjZVYlZTOVlrd2EzQUk2THhlbXF1UGJYQzZwMjI4ODFsbUlkU1U2clNiRzFJTkU0S0pOcFg0NUQtNzN1aEg2T2tZek0tSUl4OENkVWYzZ0M0djR1NHZwQmJTaXZvNjIwbHVFNmZPdDUzaF9yZzFvUExzTnJSdkRj?oc=5",
-     "media": "Medinaslampungnews",
-     "platform": "Google News",
-     "terbit": "2026-11-26T14:27+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "975944cf398a",
-   "tema": "kesehatan ibu",
-   "peringkat": 1,
-   "label": "Ahmad · Luthfi · Tamasya · Speling",
-   "skor": 11.2,
-   "ringkasan": "Isu ini dibahas dalam 4 berita dari 4 sumber pada 26 Nov 2026. Inti pemberitaan: “Ahmad Luthfi Sinergikan Speling dan Tamasya Untuk Tekan Stunting”. Topik yang sering muncul: ahmad, luthfi, tamasya, speling, stunting.",
-   "judul_utama": "Ahmad Luthfi Sinergikan Speling dan Tamasya Untuk Tekan Stunting",
-   "kata_kunci": [
-    "ahmad",
-    "luthfi",
-    "tamasya",
-    "speling",
-    "stunting",
-    "tekan"
-   ],
-   "sorotan": [
-    "Speling dan Tamasya Disinergikan, Ahmad Luthfi Perkuat Penanganan Stunting di Jawa Tengah (Mettanews.id)",
-    "Tekan Stunting, Ahmad Luthfi Integrasikan Layanan Dokter Keliling dengan Program Tamasya - Pantura Post (Pantura Post)"
-   ],
-   "sumber": [
-    {
-     "judul": "Tekan Stunting, Ahmad Luthfi Integrasikan Layanan Dokter Keliling dengan Program Tamasya - Pantura Post",
-     "tautan": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeXdwb1doa3RQZGVoQVdlbV9naG5EelBCcTZnUWowSGtDYzV3cnFoR2RFemlLWm9LQndPR19HRGFrZXhCcDJweW5vYUdMOFJtblcwLVRDSnpLdzZqZFBrSHBBQ1FIQ3ktWndudlJzQ1dlMjBxOFg0Q25lNWJUMlJhbzEtbm9YX3BQQllqSUQweW81NHRGeFVFOWYyQlhqeEhucGVON2plcG9lOTgyQ3VKOF9Wb05ReHVzYXM4TndOc1h2Zi1fNXVQTWw4X19wQdIB0wFBVV95cUxQZFBsMGtidDI3UWFraWZEOEpJSDA2S2lmeFJQU3JLNnJzWlFzV3VnbFp0RGRES3lwTnhaR0pMTFNockZpM0VKMmVmTEdxNF9iNHpUdTlwOTdEZ3F2Zi03NDJWZkw4NHFQRHpwYnlsOGl5V2gzM1B1eVZtczNfb2RuQTlSQ1dmbEk0MndOVlhBbmJ2cUxTdW91QjZhelVKNVdtSjY5clhfTkEzRU1iVXdCRWN2Snl4TTJyRjgzLWlQaTRSaERYbHVydm5sNko0bmtldGRB?oc=5",
-     "media": "Pantura Post",
-     "platform": "Google News",
-     "terbit": "2026-11-26T20:36+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Speling dan Tamasya Disinergikan, Ahmad Luthfi Perkuat Penanganan Stunting di Jawa Tengah",
-     "tautan": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFREZmljU00yZUhrNEd4QS1nLU56eGNRQ2dHVWw2VTBqbGhoWG9pWkpZcUZLckFWd2RDWEQ1bnpWemNOcnAzMWJab1Q0Z245YXJvVkxSS0dsU191UElfakRsWkRlU1NXQjc4UmdaMDQwWDQ0dnpBRzhiTklCOVVUeXViNUtQa25lTEk2RUR0UnVST2ZSeExpTEF1cmVocGpvOVhXbnI5S2VBcUZQUFk0?oc=5",
-     "media": "Mettanews.id",
-     "platform": "Google News",
-     "terbit": "2026-11-26T16:55+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Ahmad Luthfi Sinergikan Speling dan Tamasya Untuk Tekan Stunting",
-     "tautan": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDVkakYwY3NHc2I3WGxlS2JPX1R2Ql9nSVdOZ2dNOU9LUDNRdWp0WXA2c1hXSDgtWkVOTWNrNXlqQ1F1Y3oxRWlYUVM2RjdIYWRocVlqMThRaktkZ3ZQdTR1UEUtVW5rNGVJbDN4UUp3U205bGZCd3QyTzIyNUZKc3gxekdxb0hjd2RVMzVLUEFISVdrV2JV?oc=5",
-     "media": "SMPANTURA",
-     "platform": "Google News",
-     "terbit": "2026-11-26T16:04+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Tekan Stunting, Ahmad Luthfi Sinergikan Speling dan Tamasya",
-     "tautan": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmVZWDBfamMtSzBpMUp1UUZ5UEFMSGJEWXBMNTVXQzhaSmhhM2NYTTBmODE4cHlid1IwZVZwQkFyYkNDOTJFMTExOUJLWFZ4bjhaNjNGOW02Y2RpUHBMM3hmOXlnNmJvZEI4M0xzQkVCZGFUaDNqS2lWLXZOeG5sNDM0U1VNazJndWtEYktkVlNLUWJ4M25SY0ZWRVB3bHByM09ZRWh3?oc=5",
-     "media": "jatengpos.co.id",
-     "platform": "Google News",
-     "terbit": "2026-11-26T14:35+07:00",
-     "cuplikan": ""
-    }
-   ],
-   "artikel": [
-    {
-     "jenis": "sumber",
-     "media": "SMPANTURA",
-     "judul": "Ahmad Luthfi Sinergikan Speling dan Tamasya Untuk Tekan Stunting",
-     "url": "https://www.smpantura.news/ahmad-luthfi-sinergikan-speling-dan-tamasya-untuk-tekan-stunting/"
-    },
-    {
-     "jenis": "sumber",
-     "media": "jatengpos.co.id",
-     "judul": "Tekan Stunting, Ahmad Luthfi Sinergikan Speling dan Tamasya",
-     "url": "https://jatengpos.co.id/semarang/2026/11/26/tekan-stunting-ahmad-luthfi-sinergikan-speling-dan-tamasya/"
-    },
-    {
-     "jenis": "terkait",
-     "media": "Metro Pekalongan",
-     "judul": "Atasi Stunting di Jawa Tengah, Ahmad Luthfi Sinergikan Program Speling dan Tamasya",
-     "url": "https://metropekalongan.jawapos.com/jawa-tengah/2611260015/atasi-stunting-di-jawa-tengah-ahmad-luthfi-sinergikan-program-speling-dan-tamasya"
-    },
-    {
-     "jenis": "terkait",
-     "media": "rmol jateng",
-     "judul": "Cegah Stunting, Pemprov Jateng Sinergikan Layanan Speling dan Taman Asuh Sayang Anak",
-     "url": "https://www.rmoljawatengah.id/cegah-stunting-pemprov-jateng-sinergikan-layanan-speling-dan-taman-asuh-sayang-anak"
-    }
-   ]
-  },
-  {
-   "id": "4e2fc69d6ab0",
+   "id": "d75c4bf54ab6",
    "tema": "kesehatan ibu",
    "peringkat": 2,
-   "label": "Stunting · Bandung · PLN · Barat",
-   "skor": 8.8,
-   "ringkasan": "Isu ini dibahas dalam 3 berita dari 3 sumber pada 26 Nov 2026. Inti pemberitaan: “Srikandi Care 2026, PLN Perkuat Kesehatan Ibu dan Anak serta Cegah Stunting di Bandung Barat”. Topik yang sering muncul: pln, bandung, barat, cegah, srikandi.",
-   "judul_utama": "Srikandi Care 2026, PLN Perkuat Kesehatan Ibu dan Anak serta Cegah Stunting di Bandung Barat",
+   "label": "Pemantauan · Hamil · Tanjungpinang · Berisiko",
+   "skor": 7.0,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “Cegah Kematian Ibu dan Bayi, Dinkes Tanjungpinang Perkuat Pemantauan Ibu Hamil Berisiko”. Topik yang sering muncul: tanjungpinang, berisiko, pemantauan, dinkes, hamil.",
+   "judul_utama": "Cegah Kematian Ibu dan Bayi, Dinkes Tanjungpinang Perkuat Pemantauan Ibu Hamil Berisiko",
    "kata_kunci": [
-    "pln",
-    "bandung",
-    "barat",
-    "cegah",
-    "srikandi",
-    "care"
+    "tanjungpinang",
+    "berisiko",
+    "pemantauan",
+    "dinkes",
+    "hamil",
+    "perkuat"
+   ],
+   "sorotan": [],
+   "sumber": [
+    {
+     "judul": "Dinkes Tanjungpinang Perkuat Pemantauan Ibu Hamil Berisiko Tinggi",
+     "tautan": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHNXN2xtQzNEX2RzY1dKRE9kOTdETTBFQ2xEdUNyZktiVFZYbmVMMmUxWmFZdnB2RzZ0TEliV2VPdmQxYm1KbW8zd3dBMDVTZDVLdVRRNzBDbEVqZm1vVWlSemI0VzFVN1lkaHZvWUdhZjNZcXpxemx1dGlyOFdybmo1Q2J5c3JlUlcweVJ1QTRtQnFZOTBpM2ZqQThFYjZaNkZ6MGs1ZUlDaG5wRUFpNlFpWkE?oc=5",
+     "media": "RRI.co.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T18:51+07:00",
+     "cuplikan": ""
+    },
+    {
+     "judul": "Cegah Kematian Ibu dan Bayi, Dinkes Tanjungpinang Perkuat Pemantauan Ibu Hamil Berisiko",
+     "tautan": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmJXVkpRdHVRaW5JTEpLdzRIUEI3Rl9vc3Z3MVE2NWZYbHRRbzZQeVZkakFweHkyZVdyd2ZHWDMwaGlRVU5JZHVEVWlBaDB3V2liZDJ5TVAxWTJadmd2TXBmWFcybW9JTExJVXBwSnU2Y04zRGJqLUMxUzJFYzJMdFc4ZkhWWFY0Sk80ZlRsdVh4Y3lEYTd0d2g5OFZDamZzQ0pLWHZiMW5MekZjbTFDQ29vaTVTUkdtZnRDVUtWUDRsTExPZTBlcWRzb1FlRU5wYUNnNGczU0lmYlo5?oc=5",
+     "media": "Pemerintah Kota Tanjungpinang",
+     "platform": "Google News",
+     "terbit": "2026-11-27T17:51+07:00",
+     "cuplikan": ""
+    }
+   ],
+   "artikel": [
+    {
+     "jenis": "terkait",
+     "media": "Web Terpadu Kabupaten Tangerang",
+     "judul": "Puskesmas Rajeg Laksanakan Kunjungan Rumah Ibu Hamil Risiko Tinggi (Resti) di Desa Tanjakan Mekar",
+     "url": "https://tangerangkab.go.id/detail-berita/puskesmas-rajeg-laksanakan-kunjungan-rumah-ibu-hamil-risiko-tinggi-resti-di-desa-tanjakan-mekar"
+    },
+    {
+     "jenis": "terkait",
+     "media": "PPID Jateng",
+     "judul": "Perkuat Penanganan Stunting, Pemprov Jateng Sinergikan Layanan Speling dan Taman Asuh Sayang Anak",
+     "url": "https://ppid.jatengprov.go.id/perkuat-penanganan-stunting-pemprov-jateng-sinergikan-layanan-speling-dan-taman-asuh-sayang-anak/"
+    }
+   ]
+  },
+  {
+   "id": "d6faa100a9a2",
+   "tema": "kesehatan ibu",
+   "peringkat": 3,
+   "label": "Bunda · Rini · Surabaya · Isteri",
+   "skor": 6.9,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “Isteri Eri Cahyadi Sering Tampil di Publik, Bunda Rini Bawa Pesan Penting Buat Ibu-Ibu di Surabaya”. Topik yang sering muncul: bunda, rini, surabaya, isteri, eri.",
+   "judul_utama": "Isteri Eri Cahyadi Sering Tampil di Publik, Bunda Rini Bawa Pesan Penting Buat Ibu-Ibu di Surabaya",
+   "kata_kunci": [
+    "bunda",
+    "rini",
+    "surabaya",
+    "isteri",
+    "eri",
+    "cahyadi"
    ],
    "sorotan": [
-    "Cegah Stunting di Bandung Barat, PLN Salurkan Nutrisi untuk 135 Ibu Hamil dan Balita (Jabar News)"
+    "Bunda Rini Ajak Ibu-Ibu di Surabaya Jadi Garda Terdepan Cegah Resistensi Antibiotik (Pemerintah Kota Surabaya)"
    ],
    "sumber": [
     {
-     "judul": "Srikandi Care 2026, PLN Perkuat Kesehatan Ibu dan Anak serta Cegah Stunting di Bandung Barat",
-     "tautan": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRDdRNWtzQ094T3RkUHByUWJHZ3k1MFA2dGdZcjZvNmN5UlpraWpWaHlKTHhFRC1jQmJKQWRXc2k2UDNFWER3SUZ2VFNVUDA3TkJZNzViNVdaaG91d2s4WXJfNFhjZkJEM2xFZ0VHVzlzMzQ1dWczR213SDQ3eHUzR1R2ZnJMUzhNczJQZVVHdGZTUEJyRTZuWV9KMndxQXlVWGd3bTlHc0QzMnd2Y2J0SFVRd1RDZjlTWXJlcllncHpTcklCcndrUENvRQ?oc=5",
-     "media": "Radar Bandung",
+     "judul": "Isteri Eri Cahyadi Sering Tampil di Publik, Bunda Rini Bawa Pesan Penting Buat Ibu-Ibu di Surabaya",
+     "tautan": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUnN5MUxPM3A3MUZQdGxYQUh2YXVaTERmSDdTSUFCbzFLanUwM1FkVFhWQnRCUng1bzRwSnc5WG9odU94RVBGWkJrdDVnZVV4eFB2WVFZeTd2MDhVNnlyYXM3WEx1MS1fUERSX0pBV0RHMnU0WFZxRnVzM25xektKcEFkUk42QW9FYXdiVkZzQVFEdEhNd3BWLTlQLXQ3Z0hGc0hLWU1FcTg2a0Z3cWpjTFlZZmpPLTNvWVJtVEJRSmREUUJtYTNrNkY0dnJoenF5a0hvYUpOcVg5RmtydjVwT1YtQWtxS0VYN2RTT2JwaEFXUQ?oc=5",
+     "media": "Pikiran Rakyat Surabaya",
      "platform": "Google News",
-     "terbit": "2026-11-26T23:13+07:00",
+     "terbit": "2026-11-27T17:48+07:00",
      "cuplikan": ""
     },
     {
-     "judul": "Via Srikandi Care 2026, PLN UIP JBT Perkuat Kesehatan Ibu dan Anak Plus Cegah Stunting di Bandung Barat - Suara Merdeka Jakarta",
-     "tautan": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZExjRlJ4a2xOak9qOG1CT0lBT1R0Rm1fckIyRGhuSG5UZFpxZGZPYXQtcGZxYVVVMjdyeFNCYmxCYTRYRjlJT1hteDRjeTNwMUVNYmF1bUoyV2NVVXlMR3Y0VkstT2haVVdya3V3MGNwTWEzRUFDc3MyUEFwb3cxdzd0RkZrZmt2WWlYX0ZpdTBVZnBVOU9XVHI4ZDVZV3JVU2NKTWh6eXVac2VaZkZ3SWotaF9MbUlXalEzWTFsb1lPa3ExejBpRk1XQzdib1B6dm44UHdYUnE3N085SEZJSHhPTnhsRXpSYURiVtIB8gFBVV95cUxONm5IZ2phd0NUVE1qU28temxuSUpsSmRnNklpdzc5SlRqcnV1UFZKdU1pZ3czZGZ3bkJFemlLZnh3NVpVc2ZHek03YXVDRDFoN3R3bGE3YUVRanlYeFdvRlFCV3hxZUVOMHE3SFdPaEFacjFSdzFnZFpXRHlBQkJYMEhjbzRCeFRIbXVtSGxUTnpadVFxaHhuaXNlX1BHM2NULW5wV2FaUDJ4dzgwQzlMVTBIbGtvckkzSTRUYzVNQ1BEYkhLbmNHM2FTdGQxVmE0TU01QmxtT1ZlRDg4VVhlcDNwQVhNZlF3bHV2ank0NXd3QQ?oc=5",
-     "media": "Suara Merdeka Jakarta",
+     "judul": "Bunda Rini Ajak Ibu-Ibu di Surabaya Jadi Garda Terdepan Cegah Resistensi Antibiotik",
+     "tautan": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWZHUEZVck9adUowQ1I2aEZCMmJGaXJFRk85ZWw0ZVBqN1Y2eUNFVVZUUXpEaHM2VVNFOFotRDRfQWgtWVpMbllPbFNXMVBDODdaUTZKcXB6M0p3R0pHLXhfamJpQzJJS0hrNEJoNUY1QWVtemxGV3M4RlBBazV6SV9ERVZGZHI3VS1iMHFYTHpDWGwyVUFScFg0UEJSSUllUWhoNXZScEtwNVFYaWR2ZFptbnhrampRM2txNXVIMA?oc=5",
+     "media": "Pemerintah Kota Surabaya",
      "platform": "Google News",
-     "terbit": "2026-11-26T14:59+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Cegah Stunting di Bandung Barat, PLN Salurkan Nutrisi untuk 135 Ibu Hamil dan Balita",
-     "tautan": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVlg0OEZCV2V4aEtjTS16MEhNZ19GN180aVdwLUNKaHk0WEFFWVduMlVqRTBpNm82N2MxazR0MkJnaWhwX0dOS0JIWDRxaXphLUFndU5iSDJPUl9sNTd1Z0lzdk9EQjRlZE1lbjdidUxRRURvUWdRbEQwRU55MDdwcy1nLVpMLUJxX0RXcTNvaDR5UQ?oc=5",
-     "media": "Jabar News",
-     "platform": "Google News",
-     "terbit": "2026-11-26T14:45+07:00",
+     "terbit": "2026-11-27T15:36+07:00",
      "cuplikan": ""
     }
    ],
    "artikel": [
     {
      "jenis": "sumber",
-     "media": "Radar Bandung",
-     "judul": "Srikandi Care 2026, PLN Perkuat Kesehatan Ibu dan Anak serta Cegah Stunting di Bandung Barat",
-     "url": "https://www.radarbandung.id/2026/11/26/srikandi-care-2026-pln-perkuat-kesehatan-ibu-dan-anak-serta-cegah-stunting-di-bandung-barat/"
+     "media": "Pemerintah Kota Surabaya",
+     "judul": "Bunda Rini Ajak Ibu-Ibu di Surabaya Jadi Garda Terdepan Cegah Resistensi Antibiotik",
+     "url": "https://surabaya.go.id/id/berita/25986/bunda-rini-ajak-ibu-ibu-di-surabaya-jadi-garda-terdepan-cegah-resistensi-antibiotik"
+    }
+   ]
+  },
+  {
+   "id": "18b1461b96b4",
+   "tema": "kesehatan ibu",
+   "peringkat": 4,
+   "label": "RSIA · Lantai · Depan · Tahap",
+   "skor": 6.8,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber antara 26 Nov 2026 dan 27 Nov 2026. Inti pemberitaan: “Tahun Depan Masuk Tahap DED, Ini Lokasi Rencana Pembangunan RSIA 12 Lantai di Pekanbaru”. Topik yang sering muncul: depan, tahap, ded, rsia, lantai.",
+   "judul_utama": "Tahun Depan Masuk Tahap DED, Ini Lokasi Rencana Pembangunan RSIA 12 Lantai di Pekanbaru",
+   "kata_kunci": [
+    "depan",
+    "tahap",
+    "ded",
+    "rsia",
+    "lantai",
+    "masuk"
+   ],
+   "sorotan": [
+    "RSIA 12 Lantai Segera Dibangun di RSUD Arifin Achmad, Tahun Depan Masuk Tahap DED (CAKAPLAH.com)"
+   ],
+   "sumber": [
+    {
+     "judul": "Tahun Depan Masuk Tahap DED, Ini Lokasi Rencana Pembangunan RSIA 12 Lantai di Pekanbaru",
+     "tautan": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRHdZTFlmSXRJUFVsLVkxdXBxQUJ6UHNsLWZreWFuZDdUYmo4OE53Yl92Y2dZRlY3SVl4NHJ4eXZqb2tjd2RhelBXMjlIVUMtajVmdlFVeGprUUVlcnlsM3FBLXZvV3RMaXdzeUg5ZTFkTjNLWW1ycWNZZkNVcmxnMEtzdDQtd2k5MHBxMFZoYUpGc3ZnbjlJbWpObW5JazQ3ZWlVS0F3eHlKRnBVS3o3cWJrcUtuU2otTHk5VlpkUEhrUDRmRkdMQmwzdFFMSW50VlNtUGx3?oc=5",
+     "media": "Tribunpekanbaru.com",
+     "platform": "Google News",
+     "terbit": "2026-11-27T16:38+07:00",
+     "cuplikan": ""
     },
     {
-     "jenis": "sumber",
-     "media": "Jabar News",
-     "judul": "Cegah Stunting di Bandung Barat, PLN Salurkan Nutrisi untuk 135 Ibu Hamil dan Balita",
-     "url": "https://www.jabarnews.com/daerah/pln-uip-jbt-srikandi-care-cegah-stunting-bandung-barat/"
+     "judul": "RSIA 12 Lantai Segera Dibangun di RSUD Arifin Achmad, Tahun Depan Masuk Tahap DED",
+     "tautan": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHFkbElqTTVuOTRyMWYyRmpobWZLZEFCM19LN2ZKbjIwVHZnb2t5YlNyOEZJcGt4YnFLYzdrTTZ5Z0l0Vy05TjFWcVpHTnRQOUstelZaaFV6WHVkNHp2M1l3WWkyVXhCcENyV0x3Tzh5NlRSSHc1blNQY3RDZU5qMmdHUHhoY2ZUdEhja0lkYzZrWXlLVG5SWHNSYjNjRE0tRnJhS2ppMVpzc3cxVUUxTUZLdFBkc0hRMlJQdFRsT2wxajZydGpBbC1xNUZHek9naGc?oc=5",
+     "media": "CAKAPLAH.com",
+     "platform": "Google News",
+     "terbit": "2026-11-26T21:25+07:00",
+     "cuplikan": ""
+    }
+   ]
+  },
+  {
+   "id": "87deb714ea84",
+   "tema": "kesehatan ibu",
+   "peringkat": 5,
+   "label": "Panunggangan · Barat · Tangerang · Akhir",
+   "skor": 6.8,
+   "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “Pemkot Tangerang Targetkan RSUD Panunggangan Barat Soft Launching Akhir Desember 2026”. Topik yang sering muncul: tangerang, panunggangan, akhir, desember, barat.",
+   "judul_utama": "Pemkot Tangerang Targetkan RSUD Panunggangan Barat Soft Launching Akhir Desember 2026",
+   "kata_kunci": [
+    "tangerang",
+    "panunggangan",
+    "akhir",
+    "desember",
+    "barat",
+    "rsud"
+   ],
+   "sorotan": [
+    "Akhir Desember 2026, RSUD Panunggangan Barat Kota Tangerang Ditargetkan Mulai Beroperasi (Pemerintah Kota Tangerang)"
+   ],
+   "sumber": [
+    {
+     "judul": "Pemkot Tangerang Targetkan RSUD Panunggangan Barat Soft Launching Akhir Desember 2026",
+     "tautan": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmU1Vm1YX2RlU2hDRTlBejRMMEg3Tm50bjBIQlNHaXJXdUxrbE1DbHUyV0VGLUxfUVlKQXh6bkJfVVprNldXcHluengzLXp4N2NZT3RwQllhVkRyMEpRZjlvOVNoQ0wteC1PX08teE5ZZ1JjWlVQaWdMb1VXQ0ZNcEtzbmJReGtJVndQZm5oaHNEZk1kS3BCX0llaDB4ZVRCeWswTjQ4Q3Z5ZDg?oc=5",
+     "media": "suluhnews.id",
+     "platform": "Google News",
+     "terbit": "2026-11-27T16:28+07:00",
+     "cuplikan": ""
     },
     {
-     "jenis": "terkait",
-     "media": "AyoJakarta.com",
-     "judul": "Akses Stasiun JIS Tergenang Usai Hujan, Pejalan Kaki Kesulitan Menuju Pintu Masuk hingga Ojol Disebut Tak Berani Melintas",
-     "url": "https://www.ayojakarta.com/jakarta-utara/03179240/akses-stasiun-jis-tergenang-usai-hujan-pejalan-kaki-kesulitan-menuju-pintu-masuk-hingga-ojol-disebut-tak-berani-melintas"
+     "judul": "Akhir Desember 2026, RSUD Panunggangan Barat Kota Tangerang Ditargetkan Mulai Beroperasi",
+     "tautan": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXZ4OEVUWTN5UjdEQUlXZXROWFZzZW9SMGtZX2t1OTFMU0RaZ2VnbTBiWVV4QkNGVW82eHk3bHpQR3k3RXBwNnZzeURINHpSWi1pbmdQdENFMFRvTkVtVlYtY2xMZ0dPSTNmaEdHRF9KckdUdnJGYjN4dmZYTjg2dWpzWG1DYTROZHdfdnRzdXpYeUtkM2JCTnZ6QURIZHloaFRBQTlpLXNPMnF3WDk0QnJYam5ES0lMUnNOQ1pSN0U2YmpsMy1Za05EeXk4dkRzNU9fcWlR?oc=5",
+     "media": "Pemerintah Kota Tangerang",
+     "platform": "Google News",
+     "terbit": "2026-11-27T13:06+07:00",
+     "cuplikan": ""
     }
    ]
   },
   {
    "id": "bae416359d3a",
    "tema": "kesehatan ibu",
-   "peringkat": 3,
+   "peringkat": 6,
    "label": "Duren · Sawit · Masalah · Mahasiswa",
-   "skor": 7.0,
+   "skor": 6.6,
    "ringkasan": "Isu ini dibahas dalam 2 berita dari 2 sumber pada 27 Nov 2026. Inti pemberitaan: “531 mahasiswa Poltekkes Jakarta III temukan masalah kesehatan di Duren Sawit”. Topik yang sering muncul: masalah, duren, sawit, mahasiswa, poltekkes.",
    "judul_utama": "531 mahasiswa Poltekkes Jakarta III temukan masalah kesehatan di Duren Sawit",
    "kata_kunci": [
@@ -969,7 +1097,7 @@
     "sawit",
     "mahasiswa",
     "poltekkes",
-    "iii"
+    "jakarta"
    ],
    "sorotan": [
     "Sebanyak 531 Mahasiswa KKN Petakan Masalah Kesehatan Warga Duren Sawit (RRI.co.id)"
@@ -991,183 +1119,88 @@
      "terbit": "2026-11-27T08:50+07:00",
      "cuplikan": ""
     }
-   ],
-   "artikel": []
-  },
-  {
-   "id": "3a1a2d6d8560",
-   "tema": "kesehatan ibu",
-   "peringkat": 4,
-   "label": "Kematian · Balita · Nganjuk · Sinergisitas",
-   "skor": 4.6,
-   "ringkasan": "Isu ini dibahas dalam 2 berita dari 1 sumber pada 26 Nov 2026. Inti pemberitaan: “Cegah Lonjakan Kematian Ibu dan Balita, Pemkab Nganjuk Integrasikan Data Lintas Faskes”. Topik yang sering muncul: nganjuk, kematian, balita, sinergisitas, targetkan.",
-   "judul_utama": "Cegah Lonjakan Kematian Ibu dan Balita, Pemkab Nganjuk Integrasikan Data Lintas Faskes",
-   "kata_kunci": [
-    "nganjuk",
-    "kematian",
-    "balita",
-    "sinergisitas",
-    "targetkan",
-    "bebas"
-   ],
-   "sorotan": [
-    "TP PKK dan Dinkes Nganjuk Perkuat Sinergisitas, Targetkan Bebas Kematian Ibu dan Balita di 2027 (kabarbaik.co)"
-   ],
-   "sumber": [
-    {
-     "judul": "TP PKK dan Dinkes Nganjuk Perkuat Sinergisitas, Targetkan Bebas Kematian Ibu dan Balita di 2027",
-     "tautan": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZhVzVwLV9MaF96RWR5MXBuN0pMcE95TzgtckV1el9BVzR6R0dncEEyVVh5UUVnQXNNenpIaEVpSEtHT0x0NUV3Z1NTeTJVSGJiVnFRYk1rbXA4MFBKNmVYYkZreWpwRDhvX1dlaXlIU0pGeGpRZWxSMV81QWpkSmN5Y09ZZU0xUl9LTUJtcHhIeEw4RGhxYVYtMHZzSlB2NUxGdFJ0bkNyb1Z6aWhGRDQ2Z1RvdmM?oc=5",
-     "media": "kabarbaik.co",
-     "platform": "Google News",
-     "terbit": "2026-11-26T17:13+07:00",
-     "cuplikan": ""
-    },
-    {
-     "judul": "Cegah Lonjakan Kematian Ibu dan Balita, Pemkab Nganjuk Integrasikan Data Lintas Faskes",
-     "tautan": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlpXOGZZTW1mal94OXpvTnRxeWtuWXl0dTh3bTNyeXNtRXNuazlIbGktaHlKTmJ3b3ZhZm1wQnAtQl82aVppNlh5ZkR6RFJXczN4eWZUWkhaWWMySzltRm5DMjM2Z3VRUDdpb0ozSjhVZ2ZfRkEzakpmdU9tUW02YXVLeGF6TkZVdExVZ3l5YUFaRENpM1loakQ3UmdRNG5yanpVZlJsM0NiaG8?oc=5",
-     "media": "kabarbaik.co",
-     "platform": "Google News",
-     "terbit": "2026-11-26T17:10+07:00",
-     "cuplikan": ""
-    }
    ]
   },
   {
-   "id": "cad9d855f7cb",
-   "tema": "kesehatan ibu",
-   "peringkat": 5,
-   "label": "Akses · Terputus · Jalan",
-   "skor": 4.5,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Akses Kesehatan Terputus Jalan Rusak, Tiga Ibu Hamil di Simpenan Sukabumi Dilaporkan Kadus: Tewas dalam Perjalanan”. Topik yang sering muncul: akses, terputus, jalan, rusak, simpenan.",
-   "judul_utama": "Akses Kesehatan Terputus Jalan Rusak, Tiga Ibu Hamil di Simpenan Sukabumi Dilaporkan Kadus: Tewas dalam Perjalanan",
-   "kata_kunci": [
-    "akses",
-    "terputus",
-    "jalan",
-    "rusak",
-    "simpenan",
-    "sukabumi"
-   ],
-   "sorotan": [],
-   "sumber": [
-    {
-     "judul": "Akses Kesehatan Terputus Jalan Rusak, Tiga Ibu Hamil di Simpenan Sukabumi Dilaporkan Kadus: Tewas dalam Perjalanan",
-     "tautan": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMEhTU2pQeWxnaEdLMGNyOFBuU1oyM2U0Z0c2QXBjMXZOUGpKN2xBTmlrell3bXo1a0xsdi05QWFRZ1VPRWNWSGI2T1NZNzFXcUlndlpZOGZKNXU1eTJCUTdOWDUtMGZOQlJGMG85bnZqSndfakNpcTR3am5nN0RBUUNIWlpmMzRJQTV1Ul9OYnhJU3U0S2dwelk4eXlnUER5REhGZnBxdVg2elNkZ0VBTUpJY2JUWG8tZzlUd0xicHY4VXdkSWo5amdpcHFPRno0MXc?oc=5",
-     "media": "MediaAksara.id",
-     "platform": "Google News",
-     "terbit": "2026-11-27T13:04+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "a0b25ef674ed",
-   "tema": "kesehatan ibu",
-   "peringkat": 6,
-   "label": "Pastikan · Lapas · Perempuan",
-   "skor": 4.2,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Pastikan Kesehatan, Lapas Perempuan Bengkulu Periksa Warga Binaan dan Bayi Bawaan”. Topik yang sering muncul: pastikan, lapas, perempuan, bengkulu, periksa.",
-   "judul_utama": "Pastikan Kesehatan, Lapas Perempuan Bengkulu Periksa Warga Binaan dan Bayi Bawaan",
-   "kata_kunci": [
-    "pastikan",
-    "lapas",
-    "perempuan",
-    "bengkulu",
-    "periksa",
-    "binaan"
-   ],
-   "sorotan": [],
-   "sumber": [
-    {
-     "judul": "Pastikan Kesehatan, Lapas Perempuan Bengkulu Periksa Warga Binaan dan Bayi Bawaan",
-     "tautan": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLW14NnF5NWw3REZDbWRvMElrRUtjZDl0LV9oeE4tQzZaX3JYR2lqZXNEbVktMnN1eDRLaTRJZm82eUY2dWZfRTBRSWFyWmdnQzBRel9KQ2dLbVZFOTdvRXhxTnpaOGFMQnY1Zlg1Q0cxbzZ2VFc0Tmg0cUF3RTF5YkFtU3ZBYzlhT0Q0alBqNm8xakpvNFNLZlpSNGRvLWdIcG8zWFI1NEpjTlFiWk9RUlh1QmtXRVFyMURzSk1ONUlwTWdIY3c?oc=5",
-     "media": "RRI.co.id",
-     "platform": "Google News",
-     "terbit": "2026-11-27T08:31+07:00",
-     "cuplikan": ""
-    }
-   ]
-  },
-  {
-   "id": "e06986bd31c7",
+   "id": "199930a856b1",
    "tema": "kesehatan ibu",
    "peringkat": 7,
-   "label": "Pasuruan · Raih · Peringkat",
-   "skor": 4.2,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Pasuruan Raih Peringkat Kedua se-Jatim dalam Penurunan Kematian Ibu dan Bayi”. Topik yang sering muncul: pasuruan, raih, peringkat, kedua, jatim.",
-   "judul_utama": "Pasuruan Raih Peringkat Kedua se-Jatim dalam Penurunan Kematian Ibu dan Bayi",
+   "label": "Meninggal · Menuju · Fasilitas",
+   "skor": 4.5,
+   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Tiga Ibu Dilaporkan Meninggal saat Menuju Fasilitas Kesehatan, Warga Ciangkrek Sukabumi Harus Ditandu 7 Kilometer”. Topik yang sering muncul: meninggal, menuju, fasilitas, ditandu, kilometer.",
+   "judul_utama": "Tiga Ibu Dilaporkan Meninggal saat Menuju Fasilitas Kesehatan, Warga Ciangkrek Sukabumi Harus Ditandu 7 Kilometer",
    "kata_kunci": [
-    "pasuruan",
-    "raih",
-    "peringkat",
-    "kedua",
-    "jatim",
-    "penurunan"
+    "meninggal",
+    "menuju",
+    "fasilitas",
+    "ditandu",
+    "kilometer",
+    "dilaporkan"
    ],
    "sorotan": [],
    "sumber": [
     {
-     "judul": "Pasuruan Raih Peringkat Kedua se-Jatim dalam Penurunan Kematian Ibu dan Bayi",
-     "tautan": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1M0VkZBMUxpSGlDUDVRMWRJS2Nhd2RHcUtjZFFuOF9kMkYyeVNqUWt4V0N2cENZN01RLVBNWXBXcGNoV3c4NW5tN2M1Y1FVdm1PS3hZZTZsMGZrYXdTcWVHeFNFUGJwcVJKTFhmV3h0cmpPUFZBRE9qNVVxaFRQTXpTbEtiMUlWOVR5OXEtYlJ1ekk4bTdObnp5QXZVNm9EbE9OeE13?oc=5",
-     "media": "Radar Bangsa",
+     "judul": "Tiga Ibu Dilaporkan Meninggal saat Menuju Fasilitas Kesehatan, Warga Ciangkrek Sukabumi Harus Ditandu 7 Kilometer",
+     "tautan": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPelIwakJVbV9Wc3loeDZNVjF5OVl5TFM5c1RwSHBNemlSQzZJUXkzeXVNQlRoSjZGMC0tVlliSURJczVOYlowS1ZZQU5XSWZNVUh4WmtjWHk0aURLUnYtekFpRDNEclpwcGIyVzZxR0FUam8xODljRGs1QW5GV3Z3dWhBb1hrNlVKQ2VKemJBWDZhdG9FSkRsVFRUa3BMYlBEVVVJUFRHMjRfUVp1WkNJQnVrNDZzSm1PT2RXZjJMdmRvM2h3UDY4OXRoaGt3dk9Y?oc=5",
+     "media": "Sukabumi Ku",
      "platform": "Google News",
-     "terbit": "2026-11-27T08:16+07:00",
+     "terbit": "2026-11-27T18:54+07:00",
      "cuplikan": ""
     }
    ]
   },
   {
-   "id": "c17d7003a078",
+   "id": "834bdeb0a7e7",
    "tema": "kesehatan ibu",
    "peringkat": 8,
-   "label": "Terapi · ARV · Pemantauan",
-   "skor": 3.8,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 26 Nov 2026. Inti pemberitaan: “Terapi ARV dan Pemantauan Medis Tekan Risiko HIV pada Bayi”. Topik yang sering muncul: terapi, arv, pemantauan, medis, risiko.",
-   "judul_utama": "Terapi ARV dan Pemantauan Medis Tekan Risiko HIV pada Bayi",
+   "label": "Fetomaternal · Pantau · Kondisi",
+   "skor": 4.5,
+   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Pemeriksaan Fetomaternal Bantu Pantau Kondisi Ibu dan Tumbuh Kembang Janin”. Topik yang sering muncul: fetomaternal, pantau, kondisi, janin, pemeriksaan.",
+   "judul_utama": "Pemeriksaan Fetomaternal Bantu Pantau Kondisi Ibu dan Tumbuh Kembang Janin",
    "kata_kunci": [
-    "terapi",
-    "arv",
-    "pemantauan",
-    "medis",
-    "risiko",
-    "hiv"
+    "fetomaternal",
+    "pantau",
+    "kondisi",
+    "janin",
+    "pemeriksaan",
+    "bantu"
    ],
    "sorotan": [],
    "sumber": [
     {
-     "judul": "Terapi ARV dan Pemantauan Medis Tekan Risiko HIV pada Bayi",
-     "tautan": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjE5VXNmN1RoNDBEeU9vaGtrdXRPUHBZSlJVUEtUWDFmSTdwWFBBZ3d1U2pKQUdCV2JRX2VZU0FFUFU3cVVzcXA5NS1qb3QxOGI0aDRqdmpadmdUZktHanZ4cURKU3VuMkhUcHZfc0Foc0pqSjRFeGlFQWFOUXBIYmdvNlpLTHNJd2s2OFRoVDJZZ2NMQUVxT3AyQ2M4MWRBeEk0?oc=5",
-     "media": "RRI.co.id",
+     "judul": "Pemeriksaan Fetomaternal Bantu Pantau Kondisi Ibu dan Tumbuh Kembang Janin",
+     "tautan": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaS1HUDRESTNidGZudkhDaFNURmdKai1jc0RlU2pJUnBHMnZkUjBzSWgzblkyLXdNTkRCTmJheEJiRjZESlNZMkQydEtTVXE0SWhuV2JNd3RVbXBLNjNEdld5dzdDMGtZT095TGlEUGxiUXk1SjhEUWxpZDcwQWVsaXc1SDREWGZUMDhhUHE2VEJoODA2Nmc?oc=5",
+     "media": "gadget.qoo10.co.id",
      "platform": "Google News",
-     "terbit": "2026-11-27T01:09+07:00",
+     "terbit": "2026-11-27T18:38+07:00",
      "cuplikan": ""
     }
    ]
   },
   {
-   "id": "a13db00189c9",
+   "id": "dd7d4ca1a3f6",
    "tema": "kesehatan ibu",
    "peringkat": 9,
-   "label": "Dini · Babinsa · Koramil",
-   "skor": 3.8,
-   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 26 Nov 2026. Inti pemberitaan: “Cegah Stunting Sejak Dini, Babinsa Koramil 1002-06/Barabai Dampingi Posyandu Sehati”. Topik yang sering muncul: dini, babinsa, koramil, barabai, sehati.",
-   "judul_utama": "Cegah Stunting Sejak Dini, Babinsa Koramil 1002-06/Barabai Dampingi Posyandu Sehati",
+   "label": "Zwitsal · Alfamart · Sahabat",
+   "skor": 4.4,
+   "ringkasan": "Isu ini dibahas dalam 1 berita dari 1 sumber pada 27 Nov 2026. Inti pemberitaan: “Gandeng Zwitsal, Alfamart Sahabat Posyandu Beri Pelayanan Kesehatan 2.800 Ibu dan Anak”. Topik yang sering muncul: zwitsal, alfamart, sahabat, beri, pelayanan.",
+   "judul_utama": "Gandeng Zwitsal, Alfamart Sahabat Posyandu Beri Pelayanan Kesehatan 2.800 Ibu dan Anak",
    "kata_kunci": [
-    "dini",
-    "babinsa",
-    "koramil",
-    "barabai",
-    "sehati",
-    "dampingi"
+    "zwitsal",
+    "alfamart",
+    "sahabat",
+    "beri",
+    "pelayanan",
+    "gandeng"
    ],
    "sorotan": [],
    "sumber": [
     {
-     "judul": "Cegah Stunting Sejak Dini, Babinsa Koramil 1002-06/Barabai Dampingi Posyandu Sehati",
-     "tautan": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS29jZHNYb0lsU0xGckFGVjdlUDVyams5YWVzWTFQRFhmVUdtQ3ktdlZkZVhYSDJRNUd5TFQ5d3MwNktCRHNjenRibmR1QlpENmJTNVdrYjVCX3ptZmtVcHd0VzNZU1AxcHVscERvbVpyYTZjcnJBemRHYjloVFphVUNlSXFhbi0tU2dVcGM2Y1NWSk1KVVNIcmRyc01HWDFLaGlCMEhYa2VnODM4MmFRWXVJYmdUMTBIaWdEdkZ4WDVpQWp6MEp1Y2VjMTl4MGJ6UlZCcFFTR1ZDN3Q4b2c?oc=5",
-     "media": "Pikiran Rakyat Kalsel",
+     "judul": "Gandeng Zwitsal, Alfamart Sahabat Posyandu Beri Pelayanan Kesehatan 2.800 Ibu dan Anak",
+     "tautan": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjFYOEk0MmJfcDNETXUxeTdISkRzU1lBN1FmUzd4X09jaGhaU01mSE9mRTZEZk02OVRMTlhDTTZIenJVWTBWZElYeE1samFJZzBISkNrdFVmS2RuNWt1Q0VMaWUxWldPVGl0bW9PS1ZfeFNoLXBNSEFiYXBuVUpzQlRpLXRmUzVEMm0wVS03NDFkMWYzNHBEVWVtbThHbk50ZEJfaVZpaEVzOThMUzdCRnJKTEdTYUdxd3ZObzJkd0tWckVaZnJXc2tVLTBsSnNy?oc=5",
+     "media": "jatengpos.co.id",
      "platform": "Google News",
-     "terbit": "2026-11-26T23:05+07:00",
+     "terbit": "2026-11-27T17:51+07:00",
      "cuplikan": ""
     }
    ]
